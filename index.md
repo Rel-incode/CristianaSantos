@@ -38,6 +38,8 @@ Theory II: Spring 2015.
 
 Operating Systems: Fall 2015.
 
+Research in Information Security: Spring 2017.
+
 ### Professional Activities
 **Reviewer:**
 
