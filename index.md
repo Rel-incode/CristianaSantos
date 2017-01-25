@@ -57,6 +57,6 @@ Workshop on Privacy in the Electronic Society (WPES): 2016.
 
 Workshop on Socio-Technical Aspects in Security and Trust (STAST): 2016.
 
-**Organizer:**
+**Co-organizer:**
 
 [CrossFyre 2017](http://crossfyre17.gforge.inria.fr/index.html).
