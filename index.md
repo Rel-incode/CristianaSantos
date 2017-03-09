@@ -7,9 +7,9 @@ Outside of academia, I aspire to become a professional photographer. I have take
 Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 ### Publications
-Steve Dodier-Lazaro, M. Angela Sasse, Ruba Abu-Salma, and Ingolf Becker. From Paternalistic to User-centered Security: Putting Users First with Value-sensitive Design. In Proceedings of the CHI Workshop on Values in Computing, Denver, CO, USA, 2017.
+Steve Dodier-Lazaro, M. Angela Sasse, **Ruba Abu-Salma**, and Ingolf Becker. From Paternalistic to User-centered Security: Putting Users First with Value-sensitive Design. [In Proceedings of the CHI Workshop on Values in Computing](http://www.valuesincomputing.org/), Denver, CO, USA, 2017.
 
-Ruba Abu-Salma, M. Angela Sasse, Joseph Bonneau, Anastasia Danilova, Alena Naiakshina, and Matthew Smith. Obstacles to the Adoption of Secure Communication Tools. In Proceedings of the 38th IEEE Symposium on Security and Privacy (Oakland), San Jose, CA, USA, 2017.
+**Ruba Abu-Salma**, M. Angela Sasse, Joseph Bonneau, Anastasia Danilova, Alena Naiakshina, and Matthew Smith. Obstacles to the Adoption of Secure Communication Tools. [In Proceedings of the 38th IEEE Symposium on Security and Privacy (Oakland)](http://www.ieee-security.org/TC/SP2017/index.html), San Jose, CA, USA, 2017.
 
 Ingolf Becker, Alice Hutchings, **Ruba Abu-Salma**, Ross Anderson, Nicholas Bohm, Steven J. Murdoch, M. Angela Sasse, and Gianluca Stringhini. International Comparison of Bank Fraud Reimbursement: Customer Perceptions and Contractual Terms. [Proceedings of the 15th Annual Workshop on the Economics of Information Security (WEIS)](http://weis2016.econinfosec.org), Berkeley, CA, USA, 2016.
 
