@@ -29,7 +29,7 @@ Misconceptions of Secure Messaging. [Women-in-Engineering Community Meeting](htt
 
 Misconceptions of Secure Messaging. [6th International Workshop on Cryptography, Robustness, and Provably Secure Schemes for Female Young Researchers (CrossFyre)](https://www.crossfyre2016.informatik.tu-darmstadt.de/de/home/), Technical University of Darmstadt, Germany (July 21, 2016).
 
-Secure and Private Chat for Everyone. [10th International IFIP Summer School on Privacy and Identity Management (Time for a Revolution?)](http://www.ifip-summerschool.org/previous-schools/), University of Edinburgh, SCT, UK (Aug. 19, 2015).
+Secure and Private Chat for Everyone. [10th International IFIP Summer School on Privacy and Identity Management (Time for a Revolution?)](http://www.ifip-summerschool.org/previous-schools/), University of Edinburgh, UK (Aug. 19, 2015).
 
 PUP: Pretty Usable Privacy. [London Hopper Colloquium Research Competition](http://academy.bcs.org/content/london-hopper-2015), British Computer Society (BCS), London, UK (May 20, 2015) (Finalist Prize).
 
