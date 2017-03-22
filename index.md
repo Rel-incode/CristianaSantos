@@ -7,13 +7,13 @@ Outside of academia, I aspire to become a professional photographer. I have take
 Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 ### Peer-reviewed Publications
-Steve Dodier-Lazaro, **Ruba Abu-Salma**, Ingolf Becker, and M. Angela Sasse. From Paternalistic to User-Centred Security: Putting Users First with Value-Sensitive Design. [In Proceedings of the 3rd CHI Workshop on Values in Computing](http://www.valuesincomputing.org/), Denver, CO, USA, 2017. (To Appear)
+Steve Dodier-Lazaro, **Ruba Abu-Salma**, Ingolf Becker, and M. Angela Sasse. From Paternalistic to User-Centred Security: Putting Users First with Value-Sensitive Design. In [Proceedings of the 3rd CHI Workshop on Values in Computing](http://www.valuesincomputing.org/), Denver, CO, USA, 2017. (To Appear)
 
-**Ruba Abu-Salma**, M. Angela Sasse, Joseph Bonneau, Anastasia Danilova, Alena Naiakshina, and Matthew Smith. Obstacles to the Adoption of Secure Communication Tools. [In Proceedings of the 38th IEEE Symposium on Security and Privacy (Oakland)](http://www.ieee-security.org/TC/SP2017/index.html), San Jose, CA, USA, 2017. (To Appear)
+**Ruba Abu-Salma**, M. Angela Sasse, Joseph Bonneau, Anastasia Danilova, Alena Naiakshina, and Matthew Smith. Obstacles to the Adoption of Secure Communication Tools. In [Proceedings of the 38th IEEE Symposium on Security and Privacy (Oakland)](http://www.ieee-security.org/TC/SP2017/index.html), San Jose, CA, USA, 2017. (To Appear)
 
-Ingolf Becker, Alice Hutchings, **Ruba Abu-Salma**, Ross Anderson, Nicholas Bohm, Steven J. Murdoch, M. Angela Sasse, and Gianluca Stringhini. International Comparison of Bank Fraud Reimbursement: Customer Perceptions and Contractual Terms. [Proceedings of the 15th Annual Workshop on the Economics of Information Security (WEIS)](http://weis2016.econinfosec.org), Berkeley, CA, USA, 2016.
+Ingolf Becker, Alice Hutchings, **Ruba Abu-Salma**, Ross Anderson, Nicholas Bohm, Steven J. Murdoch, M. Angela Sasse, and Gianluca Stringhini. International Comparison of Bank Fraud Reimbursement: Customer Perceptions and Contractual Terms. In [Proceedings of the 15th Annual Workshop on the Economics of Information Security (WEIS)](http://weis2016.econinfosec.org), Berkeley, CA, USA, 2016.
 
-Steven J. Murdoch, Ingolf Becker, **Ruba Abu-Salma**, Ross Anderson, Nicholas Bohm, Alice Hutchings, M. Angela Sasse, and Gianluca Stringhini. Are Payment Banking Contracts Unfair? (Short Paper). [Proceedings of the 20th International Conference on Financial Cryptography and Data Security](http://fc16.ifca.ai), Rockley, Christ Church, Barbados, 2016.
+Steven J. Murdoch, Ingolf Becker, **Ruba Abu-Salma**, Ross Anderson, Nicholas Bohm, Alice Hutchings, M. Angela Sasse, and Gianluca Stringhini. Are Payment Banking Contracts Unfair? (Short Paper). In [Proceedings of the 20th International Conference on Financial Cryptography and Data Security](http://fc16.ifca.ai), Rockley, Christ Church, Barbados, 2016.
 
 ### Posters
 **Ruba Abu-Salma**, Jeremiah Onaolapo, Jonathan Bootle, and Lucky Onwuzurike. How to Get Owned by a Malicious Browser Extension. [1st ACM-W UK Inspire Celebration of Women in Computing](https://women.acm.org/ACM-W-Connections-2015-10), London, UK, 2015.
