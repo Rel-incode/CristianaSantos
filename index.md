@@ -7,20 +7,22 @@ Outside of academia, I aspire to become a professional photographer. I have take
 Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 ### Peer-reviewed Publications
-Steve Dodier-Lazaro, **Ruba Abu-Salma**, Ingolf Becker, and M. Angela Sasse. From Paternalistic to User-Centred Security: Putting Users First with Value-Sensitive Design. In [Proceedings of the 3rd CHI Workshop on Values in Computing](http://www.valuesincomputing.org/), Denver, CO, USA, 2017. (To Appear)
+Ruba Abu-Salma, Kat Krol, Simon Parkin, Victoria Koh, Kevin Kwan, Jazib Mahboob, Zahra Traboulsi, and M. Angela Sasse. The Security Blanket of the Chat World: A Usability Evaluation and User Study of Telegram. In Proceedings of the [2nd European Workshop on Usable Security (EuroUSEC)](https://usec.cispa.uni-saarland.de/eurousec17/), Paris, France, 2017. (To Appear)
 
-**Ruba Abu-Salma**, M. Angela Sasse, Joseph Bonneau, Anastasia Danilova, Alena Naiakshina, and Matthew Smith. Obstacles to the Adoption of Secure Communication Tools. In [Proceedings of the 38th IEEE Symposium on Security and Privacy (Oakland)](http://www.ieee-security.org/TC/SP2017/index.html), San Jose, CA, USA, 2017. (To Appear)
+Steve Dodier-Lazaro, **Ruba Abu-Salma**, Ingolf Becker, and M. Angela Sasse. From Paternalistic to User-Centred Security: Putting Users First with Value-Sensitive Design. In Proceedings of the [3rd CHI Workshop on Values in Computing](http://www.valuesincomputing.org/), Denver, CO, USA, 2017. (To Appear)
 
-Ingolf Becker, Alice Hutchings, **Ruba Abu-Salma**, Ross Anderson, Nicholas Bohm, Steven J. Murdoch, M. Angela Sasse, and Gianluca Stringhini. International Comparison of Bank Fraud Reimbursement: Customer Perceptions and Contractual Terms. In [Proceedings of the 15th Annual Workshop on the Economics of Information Security (WEIS)](http://weis2016.econinfosec.org), Berkeley, CA, USA, 2016.
+**Ruba Abu-Salma**, M. Angela Sasse, Joseph Bonneau, Anastasia Danilova, Alena Naiakshina, and Matthew Smith. Obstacles to the Adoption of Secure Communication Tools. In Proceedings of the [38th IEEE Symposium on Security and Privacy (Oakland)](http://www.ieee-security.org/TC/SP2017/index.html), San Jose, CA, USA, 2017. (To Appear)
 
-Steven J. Murdoch, Ingolf Becker, **Ruba Abu-Salma**, Ross Anderson, Nicholas Bohm, Alice Hutchings, M. Angela Sasse, and Gianluca Stringhini. Are Payment Banking Contracts Unfair? (Short Paper). In [Proceedings of the 20th International Conference on Financial Cryptography and Data Security](http://fc16.ifca.ai), Rockley, Christ Church, Barbados, 2016.
+Ingolf Becker, Alice Hutchings, **Ruba Abu-Salma**, Ross Anderson, Nicholas Bohm, Steven J. Murdoch, M. Angela Sasse, and Gianluca Stringhini. International Comparison of Bank Fraud Reimbursement: Customer Perceptions and Contractual Terms. In Proceedings of the [15th Annual Workshop on the Economics of Information Security (WEIS)](http://weis2016.econinfosec.org), Berkeley, CA, USA, 2016.
+
+Steven J. Murdoch, Ingolf Becker, **Ruba Abu-Salma**, Ross Anderson, Nicholas Bohm, Alice Hutchings, M. Angela Sasse, and Gianluca Stringhini. Are Payment Banking Contracts Unfair? (Short Paper). In Proceedings of the [20th International Conference on Financial Cryptography and Data Security](http://fc16.ifca.ai), Rockley, Christ Church, Barbados, 2016.
 
 ### Posters
 **Ruba Abu-Salma**, Jeremiah Onaolapo, Jonathan Bootle, and Lucky Onwuzurike. How to Get Owned by a Malicious Browser Extension. [1st ACM-W UK Inspire Celebration of Women in Computing](https://women.acm.org/ACM-W-Connections-2015-10), London, UK, 2015.
 
 Jeremiah Onaolapo, **Ruba Abu-Salma**, Jonathan Bootle, and Lucky Onwuzurike. The Ordeals of Mr. Smith. [Cyber Security Visualization Design Competition (The EU TREsPASS Project)](http://visualisation.trespass-project.eu), The Hague, The Netherlands, 2015.
 
-**Ruba Abu-Salma**, M. Angela Sasse, Joseph Bonneau, and Matthew Smith. POSTER: Secure Chat for the Masses? User-centered Security to the Rescue. [Proceedings of the 22nd ACM Conference on Computer and Communications Security (CCS)](http://www.sigsac.org/ccs/CCS2015/), Denver, CO, USA, 2015.
+**Ruba Abu-Salma**, M. Angela Sasse, Joseph Bonneau, and Matthew Smith. POSTER: Secure Chat for the Masses? User-centered Security to the Rescue. In Proceedings of the [22nd ACM Conference on Computer and Communications Security (CCS)](http://www.sigsac.org/ccs/CCS2015/), Denver, CO, USA, 2015.
 
 **Ruba Abu-Salma**, and M. Angela Sasse. PUP: Pretty Usable Privacy. [5th Information Assurance Advisory Council (IAAC) Symposium](http://www.iaac.org.uk/events/symposiums/2015-annual-symposium-the-citizen-in-the-internet-of-things/), London, UK, 2015.
 
