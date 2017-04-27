@@ -27,6 +27,8 @@ Jeremiah Onaolapo, **Ruba Abu-Salma**, Jonathan Bootle, and Lucky Onwuzurike. Th
 **Ruba Abu-Salma**, and M. Angela Sasse. PUP: Pretty Usable Privacy. [5th Information Assurance Advisory Council (IAAC) Symposium](http://www.iaac.org.uk/events/symposiums/2015-annual-symposium-the-citizen-in-the-internet-of-things/), London, UK, 2015.
 
 ### Talks
+Usable and Secure Group Chat. 2nd IEEE European Symposium on Security and Privacy, Paris, France (Apr. 27, 2017).
+
 Misconceptions of Secure Messaging. [Women-in-Engineering Community Meeting](https://www.facebook.com/groups/1476772579274428/), Facebook, London, UK (July 27, 2016).
 
 Misconceptions of Secure Messaging. [6th International Workshop on Cryptography, Robustness, and Provably Secure Schemes for Female Young Researchers (CrossFyre)](https://www.crossfyre2016.informatik.tu-darmstadt.de/de/home/), Technical University of Darmstadt, Germany (July 21, 2016).
