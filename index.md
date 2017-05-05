@@ -33,7 +33,7 @@ The Security Blanket of the Chat World: An Analytic Evaluation and a User Study 
 
 The Security Blanket of the Chat World: An Analytic Evaluation and a User Study of Telegram. [2nd European Workshop on Usable Security (EuroUSEC)](https://usec.cispa.uni-saarland.de/eurousec17/), Paris, France (Apr. 29, 2017).
 
-Usable and Secure Group Chat. [nd IEEE European Symposium on Security and Privacy](http://www.ieee-security.org/TC/EuroSP2017/cfp.php), Paris, France (Apr. 27, 2017).
+Usable and Secure Group Chat. [2nd IEEE European Symposium on Security and Privacy](http://www.ieee-security.org/TC/EuroSP2017/cfp.php), Paris, France (Apr. 27, 2017).
 
 Misconceptions of Secure Messaging. [Women-in-Engineering Community Meeting](https://www.facebook.com/groups/1476772579274428/), Facebook, London, UK (July 27, 2016).
 
