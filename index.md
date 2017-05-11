@@ -27,11 +27,11 @@ Jeremiah Onaolapo, **Ruba Abu-Salma**, Jonathan Bootle, and Lucky Onwuzurike. Th
 **Ruba Abu-Salma**, and M. Angela Sasse. PUP: Pretty Usable Privacy. [5th Information Assurance Advisory Council (IAAC) Symposium](http://www.iaac.org.uk/events/symposiums/2015-annual-symposium-the-citizen-in-the-internet-of-things/), London, UK, 2015.
 
 ### Talks
-Obstacles to the Adoption of Secure Communication Tools. [Security and Privacy Seminar](http://sec.cs.bham.ac.uk/news/), School of Computer Science, University of Birmingham, UK (May 11, 2017).
+Obstacles to the Adoption of Secure Communication Tools. [Security and Privacy Seminar](http://sec.cs.bham.ac.uk/news/), School of Computer Science, [University of Birmingham](http://www.birmingham.ac.uk/index.aspx), UK (May 11, 2017).
 
-The Security Blanket of the Chat World: An Analytic Evaluation and a User Study of Telegram. [Security and Privacy Seminar](http://sec.cs.bham.ac.uk/news/), School of Computer Science, University of Birmingham, UK (May 11, 2017).
+The Security Blanket of the Chat World: An Analytic Evaluation and a User Study of Telegram. [Security and Privacy Seminar](http://sec.cs.bham.ac.uk/news/), School of Computer Science, [University of Birmingham](http://www.birmingham.ac.uk/index.aspx), UK (May 11, 2017).
 
-Obstacles to the Adoption of Secure Communication Tools. [Information Security (InfoSec) Seminar](http://sec.cs.ucl.ac.uk/ace_csr/ace_seminars/), Dept. of Computer Science, University College London (UCL), UK (May 04, 2017).
+Obstacles to the Adoption of Secure Communication Tools. [Information Security (InfoSec) Seminar](http://sec.cs.ucl.ac.uk/ace_csr/ace_seminars/), Dept. of Computer Science, [University College London (UCL)](http://www.ucl.ac.uk/), UK (May 04, 2017).
 
 The Security Blanket of the Chat World: An Analytic Evaluation and a User Study of Telegram. [7th International Workshop on Cryptography, Robustness, and Provably Secure Schemes for Female Young Researchers (CrossFyre)](http://crossfyre17.gforge.inria.fr/index.html), Pierre and Marie Curie University (UPMC), Paris, France (Apr. 30, 2017).
 
@@ -47,7 +47,7 @@ Secure and Private Chat for Everyone. [10th International IFIP Summer School on 
 
 PUP: Pretty Usable Privacy. [London Hopper Colloquium Research Competition](http://academy.bcs.org/content/london-hopper-2015), British Computer Society (BCS), London, UK (May 20, 2015) (Finalist Prize).
 
-Differentially Private Statistics. [Genetics, Evolution and Environmental (GEE) Departmental Seminar](https://www.ucl.ac.uk/gee/seminars), University College London (UCL), UK (Dec. 9, 2014).
+Differentially Private Statistics. [Genetics, Evolution and Environmental (GEE) Departmental Seminar](https://www.ucl.ac.uk/gee/seminars), [University College London (UCL)](http://www.ucl.ac.uk/), UK (Dec. 9, 2014).
 
 ### Teaching
 Theory I: Fall 2014.
