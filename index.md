@@ -27,6 +27,8 @@ Jeremiah Onaolapo, **Ruba Abu-Salma**, Jonathan Bootle, and Lucky Onwuzurike. Th
 **Ruba Abu-Salma**, and M. Angela Sasse. PUP: Pretty Usable Privacy. [5th Information Assurance Advisory Council (IAAC) Symposium](http://www.iaac.org.uk/events/symposiums/2015-annual-symposium-the-citizen-in-the-internet-of-things/), London, UK, 2015.
 
 ### Talks
+Obstacles to the Adoption of Secure Communication Tools. 38th IEEE Symposium on Security and Privacy (Oakland), San Jose, CA, USA (May 22, 2017).
+
 Obstacles to the Adoption of Secure Communication Tools. [Security and Privacy Seminar](http://sec.cs.bham.ac.uk/news/), School of Computer Science, [University of Birmingham](http://www.birmingham.ac.uk/index.aspx), UK (May 11, 2017).
 
 The Security Blanket of the Chat World: An Analytic Evaluation and a User Study of Telegram. [Security and Privacy Seminar](http://sec.cs.bham.ac.uk/news/), School of Computer Science, [University of Birmingham](http://www.birmingham.ac.uk/index.aspx), UK (May 11, 2017).
