@@ -18,6 +18,8 @@ Ingolf Becker, Alice Hutchings, **Ruba Abu-Salma**, Ross Anderson, Nicholas Bohm
 Steven J. Murdoch, Ingolf Becker, **Ruba Abu-Salma**, Ross Anderson, Nicholas Bohm, Alice Hutchings, M. Angela Sasse, and Gianluca Stringhini. Are Payment Banking Contracts Unfair? (Short Paper). In Proceedings of the [20th International Conference on Financial Cryptography and Data Security](http://fc16.ifca.ai), Rockley, Christ Church, Barbados, 2016.
 
 ### Posters
+[1] Ruba Abu-Salma, Kat Krol, Simon Parkin, Victoria Koh, Kevin Kwan, Jazib Mahboob, Zahra Traboulsi, and M. Angela Sasse. The Security Blanket of the Chat World: An Analytic Evaluation and a User Study of Telegram. In Proceedings of the 13th Symposium on Usable Privacy and Security (SOUPS), Santa Clara, CA, USA, 2017.
+
 **Ruba Abu-Salma**, Jeremiah Onaolapo, Jonathan Bootle, and Lucky Onwuzurike. How to Get Owned by a Malicious Browser Extension. [1st ACM-W UK Inspire Celebration of Women in Computing](https://women.acm.org/ACM-W-Connections-2015-10), London, UK, 2015.
 
 Jeremiah Onaolapo, **Ruba Abu-Salma**, Jonathan Bootle, and Lucky Onwuzurike. The Ordeals of Mr. Smith. [Cyber Security Visualization Design Competition (The EU TREsPASS Project)](http://visualisation.trespass-project.eu), The Hague, The Netherlands, 2015.
