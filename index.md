@@ -13,7 +13,7 @@ Steve Dodier-Lazaro, **Ruba Abu-Salma**, Ingolf Becker, and M. Angela Sasse. Fro
 
 **Ruba Abu-Salma**, Kat Krol, Simon Parkin, Victoria Koh, Kevin Kwan, Jazib Mahboob, Zahra Traboulsi, and M. Angela Sasse. The Security Blanket of the Chat World: A Usability Evaluation and User Study of Telegram. In Proceedings of the [2nd European Workshop on Usable Security (EuroUSEC)](https://usec.cispa.uni-saarland.de/eurousec17/), Paris, France, 2017.
 
-Ingolf Becker, Alice Hutchings, **Ruba Abu-Salma**, Ross Anderson, Nicholas Bohm, Steven J. Murdoch, M. Angela Sasse, and Gianluca Stringhini. International Comparison of Bank Fraud Reimbursement: Customer Perceptions and Contractual Terms. In Proceedings of the [15th Annual Workshop on the Economics of Information Security (WEIS)](http://weis2016.econinfosec.org), Berkeley, CA, USA, 2016.
+Ingolf Becker, Alice Hutchings, **Ruba Abu-Salma**, Ross Anderson, Nicholas Bohm, Steven J. Murdoch, M. Angela Sasse, and Gianluca Stringhini. International Comparison of Bank Fraud Reimbursement: Customer Perceptions and Contractual Terms. In Proceedings of the [15th Annual Workshop on the Economics of Information Security (WEIS)](http://weis2016.econinfosec.org), Berkeley, CA, USA, 2016. [[The Register](https://www.theregister.co.uk/2016/06/06/bank_terms_study/)]
 
 Steven J. Murdoch, Ingolf Becker, **Ruba Abu-Salma**, Ross Anderson, Nicholas Bohm, Alice Hutchings, M. Angela Sasse, and Gianluca Stringhini. Are Payment Banking Contracts Unfair? (Short Paper). In Proceedings of the [20th International Conference on Financial Cryptography and Data Security](http://fc16.ifca.ai), Rockley, Christ Church, Barbados, 2016.
 
