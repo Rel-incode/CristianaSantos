@@ -62,7 +62,7 @@ Operating Systems: Fall 2015.
 
 Research in Information Security: Spring 2017.
 
-### Professional Activities
+### Academic Service
 **Co-organizer:**
 
 Workshop on Cryptography, Robustness, and Provably Secure Schemes for Female Young Researchers [(CrossFyre)](http://crossfyre17.gforge.inria.fr/index.html): 2017.
