@@ -67,7 +67,7 @@ Research in Information Security: Spring 2017.
 
 Workshop on Cryptography, Robustness, and Provably Secure Schemes for Female Young Researchers [(CrossFyre)](http://crossfyre17.gforge.inria.fr/index.html): 2017.
 
-**Publicity Chair**
+**Publicity Chair:**
 
 IEEE European Symposium on Security and Privacy (Euro S&P): 2018.
 
