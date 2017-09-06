@@ -7,7 +7,9 @@ Outside of academia, I aspire to become a professional photographer. I have take
 Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 ### Peer-reviewed Publications
-**Ruba Abu-Salma**, M. Angela Sasse, Joseph Bonneau, Anastasia Danilova, Alena Naiakshina, and Matthew Smith. Obstacles to the Adoption of Secure Communication Tools. In Proceedings of the [38th IEEE Symposium on Security and Privacy (Oakland)](http://www.ieee-security.org/TC/SP2017/index.html), San Jose, CA, USA, 2017. [[Boing Boing](http://boingboing.net/2017/05/31/why-dont-people-use-secure-i.html)] [[Cyber Security News](https://cyber-sec-news.blogspot.co.uk/2017/06/whats-really-stopping-users-from.html)] [[CYWARE](https://cyware.com/news/whats-really-preventing-users-from-adopting-secure-communication-tools-33f0571a)] [[Net Help Security](https://www.helpnetsecurity.com/2017/06/02/secure-communication-tools/?responsive=off)] [[SecNews24](https://www.secnews24.com/2017/06/02/whats-really-stopping-users-from-adopting-secure-communication-tools/)] [[Techbes](https://www.techbes.com/2017/06/02/whats-really-stopping-users-from-adopting-secure-communication-tools-helpnetsecurity/)] [[X Tech News](http://www.xtechnews.com/cyber-security/whats-really-stopping-users-from-adopting-secure-communication-tools/)]
+Juan Ponce-Mauries, Kat Krol, Simon Parkin, **Ruba Abu-Salma**, and M. Angela Sasse. Dead on Arrival: Fatal Flaws in Email Encryption Tools. In Proceedings of the 5th USENIX Workshop on Learning from Authoritative Security Experiment Results (LASER), Arlington, VA, USA, 2017.
+
+**Ruba Abu-Salma**, M. Angela Sasse, Joseph Bonneau, Anastasia Danilova, Alena Naiakshina, and Matthew Smith. Obstacles to the Adoption of Secure Communication Tools. In Proceedings of the [38th IEEE Symposium on Security and Privacy (Oakland)](http://www.ieee-security.org/TC/SP2017/index.html), San Jose, CA, USA, 2017 (Invited Paper to IEEE Security and Privacy Magazine, Special Issue, 2018). [[Boing Boing](http://boingboing.net/2017/05/31/why-dont-people-use-secure-i.html)] [[Cyber Security News](https://cyber-sec-news.blogspot.co.uk/2017/06/whats-really-stopping-users-from.html)] [[CYWARE](https://cyware.com/news/whats-really-preventing-users-from-adopting-secure-communication-tools-33f0571a)] [[Net Help Security](https://www.helpnetsecurity.com/2017/06/02/secure-communication-tools/?responsive=off)] [[SecNews24](https://www.secnews24.com/2017/06/02/whats-really-stopping-users-from-adopting-secure-communication-tools/)] [[Techbes](https://www.techbes.com/2017/06/02/whats-really-stopping-users-from-adopting-secure-communication-tools-helpnetsecurity/)] [[X Tech News](http://www.xtechnews.com/cyber-security/whats-really-stopping-users-from-adopting-secure-communication-tools/)]
 
 Steve Dodier-Lazaro, **Ruba Abu-Salma**, Ingolf Becker, and M. Angela Sasse. From Paternalistic to User-Centred Security: Putting Users First with Value-Sensitive Design. In Proceedings of the [3rd CHI Workshop on Values in Computing](http://www.valuesincomputing.org/), Denver, CO, USA, 2017.
 
@@ -63,15 +65,23 @@ Operating Systems: Fall 2015.
 Research in Information Security: Spring 2017.
 
 ### Professional Activities
+**Publicity Chair**
+
+IEEE European Symposium on Security and Privacy (Euro S&P): 2018.
+
 **Reviewer:**
 
 ACM Conference on Human Factors in Computing (CHI): 2016.
+
+ACM Symposium on Virtual Reality Software and Technology (VRST): 2018.
 
 European Workshop on Usable Security (EuroUSEC): 2016.
 
 IEEE Security and Privacy Magazine: 2016.
 
 International Conference on Financial Cryptography and Data Security: 2015.
+
+Privacy-Enhancing Technologies Symposium (PETs): 2018.
 
 USENIX Security Symposium: 2015.
 
