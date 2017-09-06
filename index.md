@@ -63,6 +63,10 @@ Operating Systems: Fall 2015.
 Research in Information Security: Spring 2017.
 
 ### Professional Activities
+**Co-organizer:**
+
+Workshop on Cryptography, Robustness, and Provably Secure Schemes for Female Young Researchers [(CrossFyre)](http://crossfyre17.gforge.inria.fr/index.html): 2017.
+
 **Publicity Chair**
 
 IEEE European Symposium on Security and Privacy (Euro S&P): 2018.
@@ -86,7 +90,3 @@ USENIX Security Symposium: 2015.
 Workshop on Privacy in the Electronic Society (WPES): 2016.
 
 Workshop on Socio-Technical Aspects in Security and Trust (STAST): 2016.
-
-**Co-organizer:**
-
-[CrossFyre 2017](http://crossfyre17.gforge.inria.fr/index.html).
