@@ -2,6 +2,8 @@ I am a Ph.D. student in the [Department of Computer Science](http://www.cs.ucl.a
 
 I obtained an M.Sc. (with Distinction) in Information Security from UCL in 2014. Before joining UCL, I earned a B.Sc. (1st Hons) in Computer Engineering from the [American University of Sharjah](https://www.aus.edu/) in 2013.
 
+E-mail: r[dot]abu-salma[at]cs[dot]ucl[dot]ac[dot]uk
+
 Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 ### Peer-reviewed Publications
