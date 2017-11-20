@@ -7,7 +7,7 @@ E-mail: r[dot]abu-salma[at]cs[dot]ucl[dot]ac[dot]uk
 Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 ### Peer-reviewed Publications
-Ingolf Becker, Alice Hutchings, Ruba Abu-Salma, Ross Anderson, Nicholas Bohm, Steven J. Murdoch, M. Angela Sasse, and Gianluca Stringhini. International Comparison of Bank Fraud Reimbursement: Customer Perceptions and Contractual Terms. In Journal of Cybersecurity, 2017.
+Ingolf Becker, Alice Hutchings, Ruba Abu-Salma, Ross Anderson, Nicholas Bohm, Steven J. Murdoch, M. Angela Sasse, and Gianluca Stringhini. International Comparison of Bank Fraud Reimbursement: Customer Perceptions and Contractual Terms. In [Journal of Cybersecurity](https://academic.oup.com/cybersecurity), 2017.
 
 Juan Ponce-Mauries, Kat Krol, Simon Parkin, **Ruba Abu-Salma**, and M. Angela Sasse. Dead on Arrival: Recovering from Fatal Flaws in Email Encryption Tools. In Proceedings of the [5th USENIX Workshop on Learning from Authoritative Security Experiment Results (LASER)](http://2017.laser-workshop.org/), Arlington, VA, USA, 2017.
 
