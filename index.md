@@ -71,28 +71,34 @@ Research in Information Security: Spring 2017.
 ### Academic Service
 **Co-organizer:**
 
-Workshop on Cryptography, Robustness, and Provably Secure Schemes for Female Young Researchers [(CrossFyre)](http://crossfyre17.gforge.inria.fr/index.html): 2017.
+Workshop on Cryptography, Robustness, and Provably Secure Schemes for Female Young Researchers (CrossFyre): 2017.
+
+UCL Computer Science Mini Conference: 2016.
 
 **Publicity Chair:**
 
 IEEE European Symposium on Security and Privacy (Euro S&P): 2018.
 
-**Reviewer:**
+**Posters Jury Member:**
 
-ACM Conference on Human Factors in Computing (CHI): 2016.
+Symposium on Usable Privacy and Security (SOUPS): 2018.
+
+**External Reviewer:**
 
 ACM Symposium on Virtual Reality Software and Technology (VRST): 2018.
+
+Privacy-Enhancing Technologies Symposium (PETs): 2018.
+
+ACM Conference on Human Factors in Computing (CHI): 2016.
 
 European Workshop on Usable Security (EuroUSEC): 2016.
 
 IEEE Security and Privacy Magazine: 2016.
 
-International Conference on Financial Cryptography and Data Security: 2015.
-
-Privacy-Enhancing Technologies Symposium (PETs): 2018.
-
-USENIX Security Symposium: 2015.
-
 Workshop on Privacy in the Electronic Society (WPES): 2016.
 
 Workshop on Socio-Technical Aspects in Security and Trust (STAST): 2016.
+
+International Conference on Financial Cryptography and Data Security: 2015.
+
+USENIX Security Symposium: 2015.
