@@ -65,13 +65,13 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 1. Differentially Private Statistics. [Genetics, Evolution and Environmental (GEE) Departmental Seminar](https://www.ucl.ac.uk/gee/seminars), [University College London (UCL)](http://www.ucl.ac.uk/), UK (Dec. 9, 2014).
 
 ### Teaching
-Theory I: Fall 2014.
+* Theory I: Fall 2014.
 
-Theory II: Spring 2015.
+* Theory II: Spring 2015.
 
-Operating Systems: Fall 2015.
+* Operating Systems: Fall 2015.
 
-Research in Information Security: Spring 2017, Spring 2018.
+* Research in Information Security: Spring 2017, Spring 2018.
 
 ### Academic Service
 **Co-organizer:**
