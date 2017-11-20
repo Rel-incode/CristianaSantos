@@ -34,6 +34,9 @@ Jeremiah Onaolapo, **Ruba Abu-Salma**, Jonathan Bootle, and Lucky Onwuzurike. Th
 
 **Ruba Abu-Salma**, and M. Angela Sasse. PUP: Pretty Usable Privacy. [5th Information Assurance Advisory Council (IAAC) Symposium](http://www.iaac.org.uk/events/symposiums/2015-annual-symposium-the-citizen-in-the-internet-of-things/), London, UK, 2015.
 
+### Panels
+Supporting Usability and Design in Security. Open Technology Fund (OTF) Summit, Valencia, Spain (Nov. 14, 2017).
+
 ### Talks
 Dead on Arrival: Recovering from Fatal Flaws in Email Encryption Tools. In Proceedings of the [5th USENIX Workshop on Learning from Authoritative Security Experiment Results (LASER)](http://2017.laser-workshop.org/), Arlington, VA, USA (Oct. 19, 2017).
 
