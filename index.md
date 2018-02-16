@@ -40,6 +40,8 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 1. Supporting Usability and Design in Security. [Open Technology Fund (OTF) Summit](https://www.opentech.fund), Valencia, Spain (Nov. 14, 2017).
 
 ### Talks
+1. Introduction to Computer Security, International Women’s Day (IWD) Summit, Google, London, UK (Mar. 8, 2018).
+
 1. Dead on Arrival: Recovering from Fatal Flaws in Email Encryption Tools. In Proceedings of the [5th USENIX Workshop on Learning from Authoritative Security Experiment Results (LASER)](http://2017.laser-workshop.org/), Arlington, VA, USA (Oct. 19, 2017).
 
 1. Obstacles to the Adoption of Secure Communication Tools. [38th IEEE Symposium on Security and Privacy (Oakland)](https://www.ieee-security.org/TC/SP2017/), San Jose, CA, USA (May 22, 2017).
@@ -85,6 +87,10 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 **Publicity Chair:**
 
 1. IEEE European Symposium on Security and Privacy (Euro S&P): 2018.
+
+**Program Committee (PC) Member:**
+
+1. Grace Hopper Celebration (GHC) of Women in Computing (Security and Privacy Track): 2018.
 
 **Posters Jury Member:**
 
