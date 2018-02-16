@@ -13,7 +13,7 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 1. **Ruba Abu-Salma**, M. Angela Sasse, Joseph Bonneau, Anastasia Danilova, Alena Naiakshina, and Matthew Smith. Obstacles to the Adoption of Secure Communication Tools. In Proceedings of the [38th IEEE Symposium on Security and Privacy (Oakland)](http://www.ieee-security.org/TC/SP2017/index.html), San Jose, CA, USA, 2017. [[Boing Boing](http://boingboing.net/2017/05/31/why-dont-people-use-secure-i.html)] [[Cyber Security News](https://cyber-sec-news.blogspot.co.uk/2017/06/whats-really-stopping-users-from.html)] [[CYWARE](https://cyware.com/news/whats-really-preventing-users-from-adopting-secure-communication-tools-33f0571a)] [[Net Help Security](https://www.helpnetsecurity.com/2017/06/02/secure-communication-tools/?responsive=off)] [[SecNews24](https://www.secnews24.com/2017/06/02/whats-really-stopping-users-from-adopting-secure-communication-tools/)] [[Techbes](https://www.techbes.com/2017/06/02/whats-really-stopping-users-from-adopting-secure-communication-tools-helpnetsecurity/)] [[X Tech News](http://www.xtechnews.com/cyber-security/whats-really-stopping-users-from-adopting-secure-communication-tools/)]
 
->> Invited Paper to IEEE Security and Privacy Magazine (Special Issue), 2018.
+**Invited Paper to IEEE Security and Privacy Magazine (Special Issue)**
 
 1. Steve Dodier-Lazaro, **Ruba Abu-Salma**, Ingolf Becker, and M. Angela Sasse. From Paternalistic to User-Centred Security: Putting Users First with Value-Sensitive Design. In Proceedings of the [3rd CHI Workshop on Values in Computing](http://www.valuesincomputing.org/), Denver, CO, USA, 2017.
 
