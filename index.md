@@ -38,7 +38,7 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 1. Supporting Usability and Design in Security. [Open Technology Fund (OTF) Summit](https://www.opentech.fund), Valencia, Spain (Nov. 14, 2017).
 
 ### Talks
-1. Introduction to Computer Security, [Monzo Bank Ltd.](https://monzo.com/), London, UK (Mar. 8, 2018).
+1. Introduction to Computer Security, [Monzo Bank](https://monzo.com/), London, UK (Mar. 8, 2018).
 
 1. Dead on Arrival: Recovering from Fatal Flaws in Email Encryption Tools. In Proceedings of the [5th USENIX Workshop on Learning from Authoritative Security Experiment Results (LASER)](http://2017.laser-workshop.org/), Arlington, VA, USA (Oct. 19, 2017).
 
