@@ -76,7 +76,7 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 1. Research in Information Security: Spring 2017, Spring 2018.
 
 ### Academic Service
-**Co-organizer:**
+**Program Co-Chair:**
 
 1. Workshop on Cryptography, Robustness, and Provably Secure Schemes for Female Young Researchers (CrossFyre): 2017.
 
