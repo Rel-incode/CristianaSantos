@@ -62,7 +62,7 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 1. Usable and Secure Group Chat. [2nd IEEE European Symposium on Security and Privacy](http://www.ieee-security.org/TC/EuroSP2017/cfp.php), Paris, France (Apr. 27, 2017).
 
-1. Misconceptions of Secure Messaging. [Women-in-Engineering Community Meeting](https://www.facebook.com/groups/1476772579274428/), Facebook, London, UK (July 27, 2016).
+1. Misconceptions of Secure Messaging. Women-in-Engineering Community Meeting, [Facebook London](https://www.facebook.com/facebooklondon/), UK (July 27, 2016).
 
 1. Misconceptions of Secure Messaging. [6th International Workshop on Cryptography, Robustness, and Provably Secure Schemes for Female Young Researchers (CrossFyre)](https://www.crossfyre2016.informatik.tu-darmstadt.de/de/home/), Technical University of Darmstadt, Germany (July 21, 2016).
 
