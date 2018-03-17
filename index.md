@@ -106,6 +106,8 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 1. European Conference on Information Systems (ECIS): 2018.
 
+1. Journal of Computer Security: 2018.
+
 1. Privacy-Enhancing Technologies Symposium (PETs): 2017, 2018.
 
 1. ACM Conference on Human Factors in Computing (CHI): 2016.
