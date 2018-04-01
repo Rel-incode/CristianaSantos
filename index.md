@@ -42,7 +42,7 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 1. Barriers to Adopting Secure Tools. Information Security Seminar, Dept. of Computer Science, [University of Bristol](http://www.bristol.ac.uk/), UK (scheduled in May 2018).
 
-1. Barriers to Adopting Secure Tools. Cybersecurity Seminar, Dept. of Computer Science, [University of Oxford](http://www.ox.ac.uk/), UK (scheduled in May 2018).
+1. Barriers to Adopting Secure Tools. Cybersecurity Seminar, Dept. of Computer Science, [University of Oxford](http://www.ox.ac.uk/), UK (May 18, 2018).
 
 1. Introduction to Computer Security. [Monzo London](https://monzo.com/), UK (Mar. 08, 2018).
 
