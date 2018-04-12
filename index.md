@@ -38,9 +38,9 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 1. Supporting Usability and Design in Security. [Open Technology Fund (OTF) Summit](https://www.opentech.fund), Valencia, Spain (Nov. 14, 2017).
 
 ### Talks
-1. How User Perceptions of Secure Communication Tools Influence Adoption. Cybersecurity Seminar, Dept. of Computer Science, [University of Oxford](http://www.ox.ac.uk/), UK (May 18, 2018).
+1. Adopting Privacy: How User Perceptions of Privacy-Enhancing Technologies Influence Adoption. Cybersecurity Seminar, Dept. of Computer Science, [University of Oxford](http://www.ox.ac.uk/), UK (May 18, 2018).
 
-1. How User Perceptions of Secure Communication Tools Influence Adoption. Information Security Seminar, Dept. of Computer Science, [Lancaster University](http://www.lancaster.ac.uk/), UK (May 11, 2018).
+1. Adopting Privacy: How User Perceptions of Privacy-Enhancing Technologies Influence Adoption. Information Security Seminar, Dept. of Computer Science, [Lancaster University](http://www.lancaster.ac.uk/), UK (May 11, 2018).
 
 1. Introduction to Computer Security. [Monzo London](https://monzo.com/), UK (Mar. 08, 2018).
 
@@ -106,7 +106,7 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 1. Journal of Computer Security: 2018.
 
-1. Privacy-Enhancing Technologies Symposium (PETs): 2017, 2018.
+1. Privacy-Enhancing Technologies Symposium (PETS): 2017, 2018.
 
 1. ACM Conference on Human Factors in Computing (CHI): 2016.
 
