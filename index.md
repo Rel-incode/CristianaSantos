@@ -24,7 +24,7 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 ### Posters
 1. **Ruba Abu-Salma**, Juliane Kramer, Scott Ruoti, Kent Seamons, Justin Wu, and Daniel Zappala. Secure and Private Group Chat: Investigating Users Needs and Practices. In Proceedings of the [33rd Annual Computer Security Applications Conference (ACSAC)](https://www.acsac.org), San Juan, Puerto Rico, USA, 2017.
 
-1. **Ruba Abu-Salma**, Kat Krol, Simon Parkin, Victoria Koh, Kevin Kwan, Jazib Mahboob, Zahra Traboulsi, and M. Angela Sasse. The Security Blanket of the Chat World: An Analytic Evaluation and a User Study of Telegram. In Proceedings of the [13th Symposium on Usable Privacy and Security (SOUPS)](https://www.usenix.org/conference/soups2017), Santa Clara, CA, USA, 2017.
+1. INVITED: **Ruba Abu-Salma**, Kat Krol, Simon Parkin, Victoria Koh, Kevin Kwan, Jazib Mahboob, Zahra Traboulsi, and M. Angela Sasse. The Security Blanket of the Chat World: An Analytic Evaluation and a User Study of Telegram. In Proceedings of the [13th Symposium on Usable Privacy and Security (SOUPS)](https://www.usenix.org/conference/soups2017), Santa Clara, CA, USA, 2017.
 
 1. **Ruba Abu-Salma**, Jeremiah Onaolapo, Jonathan Bootle, and Lucky Onwuzurike. How to Get Owned by a Malicious Browser Extension. [1st ACM-W UK Inspire Celebration of Women in Computing](https://women.acm.org/ACM-W-Connections-2015-10), London, UK, 2015.
 
@@ -38,9 +38,9 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 1. Supporting Usability and Design in Security. [Open Technology Fund (OTF) Summit](https://www.opentech.fund), Valencia, Spain (Nov. 14, 2017).
 
 ### Talks
-1. Adopting Privacy: How User Perceptions of Privacy-Enhancing Technologies Influence Adoption. Cybersecurity Seminar, Dept. of Computer Science, [University of Oxford](http://www.ox.ac.uk/), UK (May 18, 2018).
+1. How User Perceptions of Privacy-Enhancing Technologies Influence Adoption. Cybersecurity Seminar, Dept. of Computer Science, [University of Oxford](http://www.ox.ac.uk/), UK (May 18, 2018).
 
-1. Adopting Privacy: How User Perceptions of Privacy-Enhancing Technologies Influence Adoption. Information Security Seminar, Dept. of Computer Science, [Lancaster University](http://www.lancaster.ac.uk/), UK (May 11, 2018).
+1. How User Perceptions of Privacy-Enhancing Technologies Influence Adoption. Information Security Seminar, Dept. of Computer Science, [Lancaster University](http://www.lancaster.ac.uk/), UK (May 11, 2018).
 
 1. Introduction to Computer Security. [Monzo London](https://monzo.com/), UK (Mar. 08, 2018).
 
