@@ -40,9 +40,9 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 ### Talks
 1. What Is a Good Secure Messaging Tool? [Westminster School](http://www.westminster.org.uk/), London, UK (May 25, 2018).
 
-1. How User Perceptions of Privacy-Enhancing Technologies Influence Adoption. Cybersecurity Seminar, Dept. of Computer Science, [University of Oxford](http://www.ox.ac.uk/), UK (May 18, 2018).
+1. Adopting Privacy: How User Perceptions of Privacy-Enhancing Technologies Influence Adoption. Cybersecurity Seminar, Dept. of Computer Science, [University of Oxford](http://www.ox.ac.uk/), UK (May 18, 2018).
 
-1. How User Perceptions of Privacy-Enhancing Technologies Influence Adoption. Information Security Seminar, Dept. of Computer Science, [Lancaster University](http://www.lancaster.ac.uk/), UK (May 11, 2018).
+1. Adopting Privacy: How User Perceptions of Privacy-Enhancing Technologies Influence Adoption. Information Security Seminar, Dept. of Computer Science, [Lancaster University](http://www.lancaster.ac.uk/), UK (May 11, 2018).
 
 1. Introduction to Computer Security. [Monzo London](https://monzo.com/), UK (Mar. 08, 2018).
 
