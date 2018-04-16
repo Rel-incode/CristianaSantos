@@ -42,9 +42,9 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 1. Adopting Privacy: How User Perceptions of Privacy-Enhancing Technologies Influence Adoption. Information Security Seminar, Dept. of Computer Science, [Lancaster University](http://www.lancaster.ac.uk/), UK (May 11, 2018).
 
-1.	Introduction to Computer Security. [Westminster School](http://www.westminster.org.uk), London, UK (May 25, 2018).
+1.	Introduction to Computer Security. [Westminster School](http://www.westminster.org.uk), London, UK (May 04, 2018).
 
-1. Introduction to Computer Security. [Monzo London](https://monzo.com/), UK (Mar. 04, 2018).
+1. Introduction to Computer Security. [Monzo London](https://monzo.com/), UK (Mar. 08, 2018).
 
 1. Dead on Arrival: Recovering from Fatal Flaws in Email Encryption Tools. [5th USENIX Workshop on Learning from Authoritative Security Experiment Results (LASER)](http://2017.laser-workshop.org/), Arlington, VA, USA (Oct. 19, 2017).
 
