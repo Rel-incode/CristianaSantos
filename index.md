@@ -39,7 +39,7 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 1. How User Perceptions Influence the Adoption and Use of Secure Communication Tools. Information Security Seminar, Dept. of Computer Science, [Lancaster University](http://www.lancaster.ac.uk/), UK (May 11, 2018).
 
-1.	Introduction to Computer Security. [Westminster School](http://www.westminster.org.uk), London, UK (May 04, 2018).
+1. Introduction to Computer Security and Privacy. [Westminster School](http://www.westminster.org.uk), London, UK (May 04, 2018). -- joint talk with [Alexandros Mittos](http://mittos.me/)
 
 1. Introduction to Computer Security. [Monzo London](https://monzo.com/), UK (Mar. 08, 2018).
 
