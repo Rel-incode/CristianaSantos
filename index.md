@@ -94,7 +94,7 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 **Program Committee (PC) Member:**
 
-1. Privacy-Enhancing Technologies Symposium (PETS): 2018.
+1. Privacy-Enhancing Technologies Symposium (PETS): 2019.
 
 1. Grace Hopper Celebration (GHC) of Women in Computing (Security and Privacy Track): 2018.
 
