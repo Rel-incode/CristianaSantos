@@ -57,7 +57,7 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 1. The Security Blanket of the Chat World: An Analytic Evaluation and a User Study of Telegram. [2nd European Workshop on Usable Security (EuroUSEC)](https://usec.cispa.uni-saarland.de/eurousec17/), Paris, France (Apr. 29, 2017).
 
-1. Usable and Secure Group Chat. [2nd IEEE European Symposium on Security and Privacy](http://www.ieee-security.org/TC/EuroSP2017/cfp.php), Paris, France (Apr. 27, 2017).
+1. Usable and Secure Group Chat. [2nd IEEE European Symposium on Security and Privacy (EuroS&P)](http://www.ieee-security.org/TC/EuroSP2017/cfp.php), Paris, France (Apr. 27, 2017).
 
 1. Misconceptions of Secure Messaging. Women-in-Engineering Community Meeting, [Facebook London](https://www.facebook.com/facebooklondon/), UK (July 27, 2016).
 
@@ -90,7 +90,7 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 **Publicity Chair:**
 
-1. IEEE European Symposium on Security and Privacy (Euro S&P): 2018.
+1. IEEE European Symposium on Security and Privacy (EuroS&P): 2018.
 
 **Program Committee (PC) Member:**
 
