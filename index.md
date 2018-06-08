@@ -7,6 +7,8 @@ E-mail: r[dot]abu-salma[at]cs[dot]ucl[dot]ac[dot]uk
 Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 ### Publications
+1. Ruba Abu-Salma. Designing for the Elderly: Understanding the Role of Age on the Adoption and Use of Secure Communication Tools. In Proceedings of the MobileHCI Workshop on Mobile Privacy and Security for an Ageing Population, Barcelona, Spain, 2018.
+
 1. Ingolf Becker, Alice Hutchings, **Ruba Abu-Salma**, Ross Anderson, Nicholas Bohm, Steven J. Murdoch, M. Angela Sasse, and Gianluca Stringhini. International Comparison of Bank Fraud Reimbursement: Customer Perceptions and Contractual Terms. In [Journal of Cybersecurity](https://academic.oup.com/cybersecurity), 2017.
 
 1. Juan Ponce-Mauries, Kat Krol, Simon Parkin, **Ruba Abu-Salma**, and M. Angela Sasse. Dead on Arrival: Recovering from Fatal Flaws in Email Encryption Tools. In Proceedings of the [5th USENIX Workshop on Learning from Authoritative Security Experiment Results (LASER)](http://2017.laser-workshop.org/), Arlington, VA, USA, 2017.
@@ -35,6 +37,8 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 1. **Ruba Abu-Salma**, and M. Angela Sasse. PUP: Pretty Usable Privacy. [5th Information Assurance Advisory Council (IAAC) Symposium](http://www.iaac.org.uk/events/symposiums/2015-annual-symposium-the-citizen-in-the-internet-of-things/), London, UK, 2015.
 
 ### Talks
+1. Designing for the Elderly: Understanding the Role of Age on the Adoption and Use of Secure Communication Tools. In Proceedings of the MobileHCI Workshop on Mobile Privacy and Security for an Ageing Population, Barcelona, Spain (Sept. 3, 2018).
+
 1. How User Needs, Practices, and Perceptions Influence the Adoption and Use of Secure Communication Tools. Cybersecurity Seminar, Dept. of Computer Science, [University of Oxford](http://www.ox.ac.uk/), UK (May 18, 2018).
 
 1. How User Needs, Practices, and Perceptions Influence the Adoption and Use of Secure Communication Tools. Information Security Seminar, Dept. of Computer Science, [Lancaster University](http://www.lancaster.ac.uk/), UK (May 11, 2018).
