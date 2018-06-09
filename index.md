@@ -110,7 +110,7 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 1. ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW): 2018.
 
-1. ACM Conference on Human-Computer Interaction with Mobile Devices And Services (MobileHCI): 2018.
+1. ACM Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI): 2018.
 
 1. ACM Symposium on Virtual Reality Software and Technology (VRST): 2018.
 
