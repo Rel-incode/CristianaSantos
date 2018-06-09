@@ -7,7 +7,7 @@ E-mail: r[dot]abu-salma[at]cs[dot]ucl[dot]ac[dot]uk
 Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 ### Publications
-1. Ruba Abu-Salma. Designing for the Elderly: Understanding the Role of Age on the Adoption and Use of Secure Communication Tools. In Proceedings of the [2nd MobileHCI Workshop on Mobile Privacy and Security for an Ageing Population](https://csalsa.gitlab.io/mobilehciageing/index.html), Barcelona, Spain, 2018.
+1. **Ruba Abu-Salma**. Designing for the Elderly: Understanding the Role of Age on the Adoption and Use of Secure Communication Tools. In Proceedings of the [2nd MobileHCI Workshop on Mobile Privacy and Security for an Ageing Population](https://csalsa.gitlab.io/mobilehciageing/index.html), Barcelona, Spain, 2018.
 
 1. Ingolf Becker, Alice Hutchings, **Ruba Abu-Salma**, Ross Anderson, Nicholas Bohm, Steven J. Murdoch, M. Angela Sasse, and Gianluca Stringhini. International Comparison of Bank Fraud Reimbursement: Customer Perceptions and Contractual Terms. In [Journal of Cybersecurity](https://academic.oup.com/cybersecurity), 2017.
 
