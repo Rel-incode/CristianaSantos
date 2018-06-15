@@ -24,6 +24,8 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 1. Steven J. Murdoch, Ingolf Becker, **Ruba Abu-Salma**, Ross Anderson, Nicholas Bohm, Alice Hutchings, M. Angela Sasse, and Gianluca Stringhini. Are Payment Banking Contracts Unfair? (Short Paper). In Proceedings of the [20th International Conference on Financial Cryptography and Data Security](http://fc16.ifca.ai), Rockley, Christ Church, Barbados, 2016.
 
 ### Posters
+1. INVITED: **Ruba Abu-Salma**, Exploring User Mental Models of End-to-End Encrypted Communications. Google Web Security Summit, [Google Munich](https://careers.google.com/locations/munich/), Germany (June 25, 2018).
+
 1. **Ruba Abu-Salma**, Juliane Kramer, Scott Ruoti, Kent Seamons, Justin Wu, and Daniel Zappala. Secure and Private Group Chat: Investigating Users Needs and Practices. In Proceedings of the [33rd Annual Computer Security Applications Conference (ACSAC)](https://www.acsac.org), San Juan, Puerto Rico, USA, 2017.
 
 1. INVITED: **Ruba Abu-Salma**, Kat Krol, Simon Parkin, Victoria Koh, Kevin Kwan, Jazib Mahboob, Zahra Traboulsi, and M. Angela Sasse. The Security Blanket of the Chat World: An Analytic Evaluation and a User Study of Telegram. In Proceedings of the [13th Symposium on Usable Privacy and Security (SOUPS)](https://www.usenix.org/conference/soups2017), Santa Clara, CA, USA, 2017.
@@ -38,6 +40,8 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 ### Talks
 1. Designing for the Elderly: Understanding the Role of Age on the Adoption and Use of Secure Communication Tools. [2nd MobileHCI Workshop on Mobile Privacy and Security for an Ageing Population](https://csalsa.gitlab.io/mobilehciageing/index.html), Barcelona, Spain (Sept. 3, 2018).
+
+1. Exploring User Mental Models of End-to-End Encrypted Communications. [Oxford Internet Institute](https://www.oii.ox.ac.uk/), [University of Oxford](http://www.ox.ac.uk/), UK (July 05, 2018).
 
 1. How User Needs, Practices, and Perceptions Influence the Adoption and Use of Secure Communication Tools. Cybersecurity Seminar, Dept. of Computer Science, [University of Oxford](http://www.ox.ac.uk/), UK (May 18, 2018).
 
