@@ -1,4 +1,4 @@
-I am a fourth-year Ph.D. student in Computer Science ([Information Security Research Group](http://sec.cs.ucl.ac.uk/home/)) at [University College London (UCL)](http://www.ucl.ac.uk/), supervised by [Prof. M. Angela Sasse](http://sec.cs.ucl.ac.uk/people/m_angela_sasse/) and [Dr. Steven Murdoch](http://sec.cs.ucl.ac.uk/users/smurdoch/). I research computer security, privacy, and Human-Computer Interaction (HCI). More specifically, my research takes a user-centered approach to the design and use of secure communication tools. I study how users perceive secure communications, and what influences their decision to adopt, or not adopt, a secure tool. I am supported by a SUDS (Supporting Usability and Design in Security) Fellowship from the [Open Technology Fund (OTF)](https://www.opentech.fund/) and [Simply Secure](https://simplysecure.org), as well as a [Marie Skłodowska-Curie (MSCA-RISE) Research Fellowship](https://ec.europa.eu/research/mariecurieactions/). My Ph.D. research is also funded by Google.
+I am a Ph.D. student in Computer Science ([Information Security Research Group](http://sec.cs.ucl.ac.uk/home/)) at [University College London (UCL)](http://www.ucl.ac.uk/), supervised by [Prof. M. Angela Sasse](http://sec.cs.ucl.ac.uk/people/m_angela_sasse/) and [Dr. Steven Murdoch](http://sec.cs.ucl.ac.uk/users/smurdoch/). I research computer security, privacy, and Human-Computer Interaction (HCI). More specifically, my research takes a user-centered approach to the design and use of secure communication tools. I study how users perceive secure communications, and what influences their decision to adopt, or not adopt, a secure tool. I am supported by a SUDS (Supporting Usability and Design in Security) Fellowship from the [Open Technology Fund (OTF)](https://www.opentech.fund/) and [Simply Secure](https://simplysecure.org), as well as a [Marie Skłodowska-Curie (MSCA-RISE) Research Fellowship](https://ec.europa.eu/research/mariecurieactions/). My Ph.D. research is also funded by Google.
 
 I obtained an M.Sc. (with Distinction) in Information Security from UCL in 2014. Before joining UCL, I earned a B.Sc. (1st Hons) in Computer Engineering from the [American University of Sharjah](https://www.aus.edu/) in 2013.
 
@@ -8,6 +8,8 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 ### Publications
 1. **Ruba Abu-Salma**. Designing for the Elderly: Understanding the Role of Age on the Adoption and Use of Secure Communication Tools. In Proceedings of the [2nd MobileHCI Workshop on Mobile Privacy and Security for an Ageing Population](https://csalsa.gitlab.io/mobilehciageing/index.html), Barcelona, Spain, 2018.
+
+1. **Ruba Abu-Salma**, Elissa Redmiles, Blase Ur, and Miranda Wei. Exploring User Mental Models of End-to-End Encrypted Communication Tools. In Proceedings of the [8th USENIX Workshop on Free and Open Communications on the Internet (FOCI)](https://www.usenix.org/conference/foci18), Baltimore, MD, USA, 2018.
 
 1. Ingolf Becker, Alice Hutchings, **Ruba Abu-Salma**, Ross Anderson, Nicholas Bohm, Steven J. Murdoch, M. Angela Sasse, and Gianluca Stringhini. International Comparison of Bank Fraud Reimbursement: Customer Perceptions and Contractual Terms. In [Journal of Cybersecurity](https://academic.oup.com/cybersecurity), 2017.
 
@@ -37,7 +39,7 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 1. **Ruba Abu-Salma**, and M. Angela Sasse. PUP: Pretty Usable Privacy. [5th Information Assurance Advisory Council (IAAC) Symposium](http://www.iaac.org.uk/events/symposiums/2015-annual-symposium-the-citizen-in-the-internet-of-things/), London, UK, 2015.
 
 ### Talks
-1. Designing for the Elderly: Understanding the Role of Age on the Adoption and Use of Secure Communication Tools. [2nd MobileHCI Workshop on Mobile Privacy and Security for an Ageing Population](https://csalsa.gitlab.io/mobilehciageing/index.html), Barcelona, Spain (Sept. 3, 2018).
+1. Designing for the Elderly: Understanding the Role of Age on the Adoption and Use of Secure Communication Tools. [2nd MobileHCI Workshop on Mobile Privacy and Security for an Ageing Population](https://csalsa.gitlab.io/mobilehciageing/index.html), Barcelona, Spain (Sept. 03, 2018).
 
 1. Exploring User Mental Models of End-to-End Encrypted Communications. [Oxford Internet Institute](https://www.oii.ox.ac.uk/), [University of Oxford](http://www.ox.ac.uk/), UK (July 05, 2018).
 
