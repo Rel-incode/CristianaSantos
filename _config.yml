@@ -2,7 +2,7 @@ title: Ruba Abu-Salma
 description: Ph.D. Student at University College London (UCL), UK
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-dinky
 
 gems:
   - jekyll-mentions
