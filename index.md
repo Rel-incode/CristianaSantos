@@ -9,13 +9,15 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 ### Publications
 1. **Ruba Abu-Salma**. Designing for the Elderly: Understanding the Role of Age on the Adoption and Use of Secure Communication Tools. In Proceedings of the [2nd MobileHCI Workshop on Mobile Privacy and Security for an Ageing Population](https://csalsa.gitlab.io/mobilehciageing/index.html), Barcelona, Spain, 2018.
 
-1. **Ruba Abu-Salma**, Elissa M. Redmiles, Blase Ur, and Miranda Wei. Exploring User Mental Models of End-to-End Encrypted Communication Tools. In Proceedings of the [8th USENIX Workshop on Free and Open Communications on the Internet (FOCI)](https://www.usenix.org/conference/foci18), Baltimore, MD, USA, 2018.
+1. **Ruba Abu-Salma**, Elissa M. Redmiles, Blase Ur, and Miranda Wei. Exploring User Mental Models of End-to-End Encrypted Communication Tools. In Proceedings of the [8th USENIX Workshop on Free and Open Communications on the Internet (FOCI)](https://www.usenix.org/conference/foci18), Baltimore, MD, USA, 2018. [[CNET](https://www.cnet.com/news/you-might-not-really-understand-how-encrypted-messaging-apps-work/?ftag=COS-05-10aaa0b&linkId=55534884)]
 
 1. Ingolf Becker, Alice Hutchings, **Ruba Abu-Salma**, Ross Anderson, Nicholas Bohm, Steven J. Murdoch, M. Angela Sasse, and Gianluca Stringhini. International Comparison of Bank Fraud Reimbursement: Customer Perceptions and Contractual Terms. In [Journal of Cybersecurity](https://academic.oup.com/cybersecurity), 2017.
 
 1. Juan Ponce-Mauries, Kat Krol, Simon Parkin, **Ruba Abu-Salma**, and M. Angela Sasse. Dead on Arrival: Recovering from Fatal Flaws in Email Encryption Tools. In Proceedings of the [5th USENIX Workshop on Learning from Authoritative Security Experiment Results (LASER)](http://2017.laser-workshop.org/), Arlington, VA, USA, 2017.
 
-1. **Ruba Abu-Salma**, M. Angela Sasse, Joseph Bonneau, Anastasia Danilova, Alena Naiakshina, and Matthew Smith. Obstacles to the Adoption of Secure Communication Tools. In Proceedings of the [38th IEEE Symposium on Security and Privacy (Oakland)](http://www.ieee-security.org/TC/SP2017/index.html), San Jose, CA, USA, 2017. (Invited Paper to IEEE Security and Privacy Magazine, Special Issue)
+1. **Ruba Abu-Salma**, M. Angela Sasse, Joseph Bonneau, Anastasia Danilova, Alena Naiakshina, and Matthew Smith. Obstacles to the Adoption of Secure Communication Tools. In Proceedings of the [38th IEEE Symposium on Security and Privacy (Oakland)](http://www.ieee-security.org/TC/SP2017/index.html), San Jose, CA, USA, 2017.
+
+      Invited Paper to IEEE Security and Privacy Magazine, Special Issue (2017).
 
 1. Steve Dodier-Lazaro, **Ruba Abu-Salma**, Ingolf Becker, and M. Angela Sasse. From Paternalistic to User-Centred Security: Putting Users First with Value-Sensitive Design. In Proceedings of the [3rd CHI Workshop on Values in Computing](http://www.valuesincomputing.org/), Denver, CO, USA, 2017.
 
