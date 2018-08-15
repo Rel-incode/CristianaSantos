@@ -15,9 +15,7 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 1. Juan Ponce-Mauries, Kat Krol, Simon Parkin, **Ruba Abu-Salma**, and M. Angela Sasse. Dead on Arrival: Recovering from Fatal Flaws in Email Encryption Tools. In Proceedings of the [5th USENIX Workshop on Learning from Authoritative Security Experiment Results (LASER)](http://2017.laser-workshop.org/), Arlington, VA, USA, 2017.
 
-1. **Ruba Abu-Salma**, M. Angela Sasse, Joseph Bonneau, Anastasia Danilova, Alena Naiakshina, and Matthew Smith. Obstacles to the Adoption of Secure Communication Tools. In Proceedings of the [38th IEEE Symposium on Security and Privacy (Oakland)](http://www.ieee-security.org/TC/SP2017/index.html), San Jose, CA, USA, 2017. [[**Boing Boing**](https://boingboing.net/2017/05/31/why-dont-people-use-secure-i.html)] [[**Electronic Frontier Foundation**](https://www.eff.org/deeplinks/2018/03/secure-messaging-more-secure-mess)]
-
-**>> Invited paper to IEEE Security and Privacy Magazine (Special Issue), 2017.**
+1. **Ruba Abu-Salma**, M. Angela Sasse, Joseph Bonneau, Anastasia Danilova, Alena Naiakshina, and Matthew Smith. Obstacles to the Adoption of Secure Communication Tools. In Proceedings of the [38th IEEE Symposium on Security and Privacy (Oakland)](http://www.ieee-security.org/TC/SP2017/index.html), San Jose, CA, USA, 2017. [[**Boing Boing**](https://boingboing.net/2017/05/31/why-dont-people-use-secure-i.html)] [[**Electronic Frontier Foundation**](https://www.eff.org/deeplinks/2018/03/secure-messaging-more-secure-mess)] **>> Invited paper to IEEE Security and Privacy Magazine (Special Issue), 2017.**
 
 1. Steve Dodier-Lazaro, **Ruba Abu-Salma**, Ingolf Becker, and M. Angela Sasse. From Paternalistic to User-Centred Security: Putting Users First with Value-Sensitive Design. In Proceedings of the [3rd CHI Workshop on Values in Computing](http://www.valuesincomputing.org/), Denver, CO, USA, 2017.
 
