@@ -89,7 +89,7 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 1. Operating Systems: Fall 2015.
 
-1. Research in Information Security: Spring 2017, Spring 2018.
+1. Research in Information Security: Spring 2017 – Spring 2019.
 
 ### Academic Service
 **Program Co-Chair:**
