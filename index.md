@@ -39,7 +39,7 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 1. **Ruba Abu-Salma**, and M. Angela Sasse. PUP: Pretty Usable Privacy. [5th Information Assurance Advisory Council (IAAC) Symposium](http://www.iaac.org.uk/events/symposiums/2015-annual-symposium-the-citizen-in-the-internet-of-things/), London, UK, 2015.
 
 ### Talks
-1. Evaluating the User Experience of Private Browsing. [Brave Software](https://brave.com), London, UK (Sept. 07, 2018).
+1. Evaluating the User Experience of Private Browsing. [Brave Software](https://brave.com), London, UK (Sept. 10, 2018).
 
 1. Designing for the Elderly: Understanding the Role of Age on the Adoption and Use of Secure Communication Tools. [2nd MobileHCI Workshop on Mobile Privacy and Security for an Ageing Population](https://csalsa.gitlab.io/mobilehciageing/index.html), Barcelona, Spain (Sept. 03, 2018).
 
