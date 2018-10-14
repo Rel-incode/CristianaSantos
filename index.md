@@ -41,7 +41,7 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 ### Talks
 1. Designing User-centered Privacy Tools. SecHuman Colloquium, [Ruhr-University Bochum (RUB)](https://www.ruhr-uni-bochum.de/en/welcome-ruhr-universitat-bochum), Germany (Nov. 15, 2018).
 
-1. Evaluating the User Experience of Private Browsing. [Brave Software](https://brave.com), London, UK (Sept. 10, 2018).
+1. Evaluating the End-User Experience of Private Browsing Mode. [Brave Software](https://brave.com), London, UK (Sept. 10, 2018).
 
 1. Designing for the Elderly: Understanding the Role of Age on the Adoption and Use of Secure Communication Tools. [2nd MobileHCI Workshop on Mobile Privacy and Security for an Ageing Population](https://csalsa.gitlab.io/mobilehciageing/index.html), Barcelona, Spain (Sept. 03, 2018).
 
@@ -84,7 +84,7 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 1. Differentially Private Statistics. [Genetics, Evolution and Environmental (GEE) Departmental Seminar](https://www.ucl.ac.uk/gee/seminars), [University College London (UCL)](http://www.ucl.ac.uk/), UK (Dec. 9, 2014).
 
 ### Panels
-1. Cryptogame: The Guardians of the Galaxy Use End-to-End Encryption. [Mozilla Festival](https://mozillafestival.org/), London, UK (Oct. 2018).
+1. Cryptogame: Pirates and Guardians of the Galaxy. [Mozilla Festival](https://mozillafestival.org/), London, UK (Oct. 2018).
 
 1. Supporting Usability and Design in Security. [Open Technology Fund (OTF) Summit](https://www.opentech.fund), Valencia, Spain (Nov. 14, 2017).
 
