@@ -41,7 +41,7 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 ### Talks
 1. Designing User-centered Privacy Tools. SecHuman Colloquium, [Ruhr-University Bochum (RUB)](https://www.ruhr-uni-bochum.de/en/welcome-ruhr-universitat-bochum), Germany (Dec. 06, 2018).
 
-1. Introduction to Computer Security. [Decoded London](https://decoded.com), UK (Nov 06, 2018).
+Introduction to Computer Security. [Decoded London](https://decoded.com), UK (Nov. 06, 2018).
 
 1. Evaluating the End-User Experience of Private Browsing Mode. [Brave Software](https://brave.com), London, UK (Sept. 10, 2018).
 
