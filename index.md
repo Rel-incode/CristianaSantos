@@ -7,6 +7,8 @@ E-mail: r[dot]abu-salma[at]cs[dot]ucl[dot]ac[dot]uk
 Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 ### Publications
+1. **Ruba Abu-Salma** and Benjamin Livshits. Evaluating the End-User Experience of Private Browsing Mode, 2018. (Technical Report, under submission)
+
 1. **Ruba Abu-Salma**. Designing for the Elderly: Understanding the Role of Age on the Adoption and Use of Secure Communication Tools. In Proceedings of the [2nd MobileHCI Workshop on Mobile Privacy and Security for an Ageing Population](https://csalsa.gitlab.io/mobilehciageing/index.html), Barcelona, Spain, 2018.
 
 1. **Ruba Abu-Salma**, Elissa M. Redmiles, Blase Ur, and Miranda Wei. Exploring User Mental Models of End-to-End Encrypted Communication Tools. In Proceedings of the [8th USENIX Workshop on Free and Open Communications on the Internet (FOCI)](https://www.usenix.org/conference/foci18), Baltimore, MD, USA, 2018. [[**CNET**](https://www.cnet.com/news/you-might-not-really-understand-how-encrypted-messaging-apps-work/?ftag=COS-05-10aaa0b&linkId=55534884)]
