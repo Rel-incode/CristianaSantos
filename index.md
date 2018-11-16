@@ -41,9 +41,9 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 1. **Ruba Abu-Salma**, and M. Angela Sasse. PUP: Pretty Usable Privacy. [5th Information Assurance Advisory Council (IAAC) Symposium](http://www.iaac.org.uk/events/symposiums/2015-annual-symposium-the-citizen-in-the-internet-of-things/), London, UK, 2015.
 
 ### Talks
-1. Designing User-centered Privacy Tools. SecHuman Colloquium, [Ruhr-University Bochum (RUB)](https://www.ruhr-uni-bochum.de/en/welcome-ruhr-universitat-bochum), Germany (Dec. 06, 2018).
+1. INVITED: Designing User-centered Privacy Tools. SecHuman Colloquium, [Ruhr-University Bochum (RUB)](https://www.ruhr-uni-bochum.de/en/welcome-ruhr-universitat-bochum), Germany (Dec. 06, 2018).
 
-1. Introduction to Computer Security. [Decoded London](https://decoded.com), UK (Nov. 06, 2018).
+1. INVITED: Introduction to Computer Security. [Decoded London](https://decoded.com), UK (Nov. 06, 2018).
 
 1. Evaluating the End-User Experience of Private Browsing Mode. [Brave Software](https://brave.com), London, UK (Sept. 10, 2018).
 
@@ -53,23 +53,23 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 1. Exploring User Mental Models of End-to-End Encrypted Communication Tools. [Oxford Internet Institute](https://www.oii.ox.ac.uk/), [University of Oxford](http://www.ox.ac.uk/), UK (July 05, 2018).
 
-1. How User Needs, Practices, and Perceptions Influence the Adoption and Use of Secure Communication Tools. Cybersecurity Seminar, Dept. of Computer Science, [University of Oxford](http://www.ox.ac.uk/), UK (May 18, 2018).
+1. INVITED: How User Needs, Practices, and Perceptions Influence the Adoption and Use of Secure Communication Tools. Cybersecurity Seminar, Dept. of Computer Science, [University of Oxford](http://www.ox.ac.uk/), UK (May 18, 2018).
 
-1. How User Needs, Practices, and Perceptions Influence the Adoption and Use of Secure Communication Tools. Information Security Seminar, Dept. of Computer Science, [Lancaster University](http://www.lancaster.ac.uk/), UK (May 11, 2018).
+1. INVITED: How User Needs, Practices, and Perceptions Influence the Adoption and Use of Secure Communication Tools. Information Security Seminar, Dept. of Computer Science, [Lancaster University](http://www.lancaster.ac.uk/), UK (May 11, 2018).
 
-1. Introduction to Computer Security and Privacy. [Westminster School](http://www.westminster.org.uk), London, UK (May 04, 2018). -- joint talk with [Alexandros Mittos](http://mittos.me/)
+1. INVITED: Introduction to Computer Security and Privacy. [Westminster School](http://www.westminster.org.uk), London, UK (May 04, 2018). -- joint talk with [Alexandros Mittos](http://mittos.me/)
 
-1. Introduction to Computer Security. [Monzo London](https://monzo.com/), UK (Mar. 08, 2018).
+1. INVITED: Introduction to Computer Security. [Monzo London](https://monzo.com/), UK (Mar. 08, 2018).
 
 1. Dead on Arrival: Recovering from Fatal Flaws in Email Encryption Tools. [5th USENIX Workshop on Learning from Authoritative Security Experiment Results (LASER)](http://2017.laser-workshop.org/), Arlington, VA, USA (Oct. 19, 2017).
 
 1. Obstacles to the Adoption of Secure Communication Tools. [38th IEEE Symposium on Security and Privacy (Oakland)](https://www.ieee-security.org/TC/SP2017/), San Jose, CA, USA (May 22, 2017).
 
-1. Obstacles to the Adoption of Secure Communication Tools. [Security and Privacy Seminar](http://sec.cs.bham.ac.uk/news/), School of Computer Science, [University of Birmingham](http://www.birmingham.ac.uk/index.aspx), UK (May 11, 2017).
+1. INVITED: Obstacles to the Adoption of Secure Communication Tools. [Security and Privacy Seminar](http://sec.cs.bham.ac.uk/news/), School of Computer Science, [University of Birmingham](http://www.birmingham.ac.uk/index.aspx), UK (May 11, 2017).
 
-1. The Security Blanket of the Chat World: An Analytic Evaluation and a User Study of Telegram. [Security and Privacy Seminar](http://sec.cs.bham.ac.uk/news/), School of Computer Science, [University of Birmingham](http://www.birmingham.ac.uk/index.aspx), UK (May 11, 2017).
+1. INVITED: The Security Blanket of the Chat World: An Analytic Evaluation and a User Study of Telegram. [Security and Privacy Seminar](http://sec.cs.bham.ac.uk/news/), School of Computer Science, [University of Birmingham](http://www.birmingham.ac.uk/index.aspx), UK (May 11, 2017).
 
-1. Obstacles to the Adoption of Secure Communication Tools. [Information Security (InfoSec) Seminar](http://sec.cs.ucl.ac.uk/ace_csr/ace_seminars/), Dept. of Computer Science, [University College London (UCL)](http://www.ucl.ac.uk/), UK (May 04, 2017).
+1. INVITED: Obstacles to the Adoption of Secure Communication Tools. [Information Security (InfoSec) Seminar](http://sec.cs.ucl.ac.uk/ace_csr/ace_seminars/), Dept. of Computer Science, [University College London (UCL)](http://www.ucl.ac.uk/), UK (May 04, 2017).
 
 1. Obstacles to the Adoption of Secure Communication Tools. [7th International Workshop on Cryptography, Robustness, and Provably Secure Schemes for Female Young Researchers (CrossFyre)](http://crossfyre17.gforge.inria.fr/index.html), Pierre and Marie Curie University (UPMC), Paris, France (Apr. 30, 2017).
 
@@ -77,7 +77,7 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 1. Usable and Secure Group Chat. [2nd IEEE European Symposium on Security and Privacy (EuroS&P)](http://www.ieee-security.org/TC/EuroSP2017/cfp.php), Paris, France (Apr. 27, 2017).
 
-1. Misconceptions of Secure Messaging. Women-in-Engineering Community Meeting, [Facebook London](https://www.facebook.com/facebooklondon/), UK (July 27, 2016).
+1. INVITED: Misconceptions of Secure Messaging. Women-in-Engineering Community Meeting, [Facebook London](https://www.facebook.com/facebooklondon/), UK (July 27, 2016).
 
 1. Misconceptions of Secure Messaging. [6th International Workshop on Cryptography, Robustness, and Provably Secure Schemes for Female Young Researchers (CrossFyre)](https://www.crossfyre2016.informatik.tu-darmstadt.de/de/home/), Technical University of Darmstadt, Germany (July 21, 2016).
 
@@ -85,7 +85,7 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 1. PUP: Pretty Usable Privacy. [London Hopper Colloquium Research Competition](http://academy.bcs.org/content/london-hopper-2015), British Computer Society (BCS), London, UK (May 20, 2015) (Finalist Prize).
 
-1. Differentially Private Statistics. [Genetics, Evolution and Environmental (GEE) Departmental Seminar](https://www.ucl.ac.uk/gee/seminars), [University College London (UCL)](http://www.ucl.ac.uk/), UK (Dec. 9, 2014).
+1. INVITED: Differentially Private Statistics. [Genetics, Evolution and Environmental (GEE) Departmental Seminar](https://www.ucl.ac.uk/gee/seminars), [University College London (UCL)](http://www.ucl.ac.uk/), UK (Dec. 9, 2014).
 
 ### Panels
 1.	INVITED: Obfuscating Ownership: Why Is Privacy Important? [University of Hertfordshire](https://www.herts.ac.uk), UK (Dec. 08, 2018).
