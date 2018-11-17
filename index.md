@@ -88,7 +88,7 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 1. INVITED: Differentially Private Statistics. [Genetics, Evolution and Environmental (GEE) Departmental Seminar](https://www.ucl.ac.uk/gee/seminars), [University College London (UCL)](http://www.ucl.ac.uk/), UK (Dec. 9, 2014).
 
 ### Panels
-1.	INVITED: Obfuscating Ownership: Why Is Privacy Important? [University of Hertfordshire](https://www.herts.ac.uk), UK (Dec. 08, 2018).
+1.	INVITED: Obfuscating Ownership: Why Is Privacy Important? [University of Hertfordshire](https://www.herts.ac.uk), UK (Dec. 10, 2018).
 
 1.	Cryptogame: Pirates and Guardians of the Galaxy. [Mozilla Festival (MozFest)](https://mozillafestival.org), London, UK (Oct. 27, 2018).
 
