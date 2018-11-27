@@ -122,6 +122,10 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 1. Grace Hopper Celebration (GHC) of Women in Computing (Security and Privacy Track): 2018.
 
+**Student Programme Committee (PC) Member**
+
+1. IEEE Symposium on Security and Privacy (Oakland): 2019.
+
 **Posters Jury Member:**
 
 1. Symposium on Usable Privacy and Security (SOUPS): 2018.
