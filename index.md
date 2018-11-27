@@ -116,13 +116,13 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 1. IEEE European Symposium on Security and Privacy (EuroS&P): 2018.
 
-**Program Committee (PC) Member:**
+**Programme Committee (PC) Member:**
 
 1. Privacy-Enhancing Technologies Symposium (PETS): 2019.
 
 1. Grace Hopper Celebration (GHC) of Women in Computing (Security and Privacy Track): 2018.
 
-**Student Programme Committee (PC) Member**
+**Student Programme Committee (PC) Member:**
 
 1. IEEE Symposium on Security and Privacy (Oakland): 2019.
 
