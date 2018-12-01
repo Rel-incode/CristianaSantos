@@ -7,7 +7,7 @@ E-mail: r[dot]abu-salma[at]cs[dot]ucl[dot]ac[dot]uk
 Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 ### Publications
-1. **Ruba Abu-Salma** and Benjamin Livshits. Evaluating the End-User Experience of Private Browsing Mode, arXiv:1811.08460v1, 2018.
+1. **Ruba Abu-Salma** and Benjamin Livshits. Evaluating the End-User Experience of Private Browsing Mode. arXiv:1811.08460v1, 2018.
 
 1. **Ruba Abu-Salma**. Designing for the Elderly: Understanding the Role of Age on the Adoption and Use of Secure Communication Tools. In Proceedings of the [2nd MobileHCI Workshop on Mobile Privacy and Security for an Ageing Population](https://csalsa.gitlab.io/mobilehciageing/index.html), Barcelona, Spain, 2018.
 
