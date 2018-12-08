@@ -130,7 +130,7 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 1. Symposium on Usable Privacy and Security (SOUPS): 2018.
 
-**External Reviewer:**
+**Invited External Reviewer:**
 
 1. ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW): 2018.
 
