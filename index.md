@@ -41,7 +41,7 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 1. **Ruba Abu-Salma**, and M. Angela Sasse. PUP: Pretty Usable Privacy. [5th Information Assurance Advisory Council (IAAC) Symposium](http://www.iaac.org.uk/events/symposiums/2015-annual-symposium-the-citizen-in-the-internet-of-things/), London, UK, 2015.
 
 ### Talks
-1. INVITED: Designing User-centered Privacy Tools. SecHuman Colloquium, [Ruhr-University Bochum (RUB)](https://www.ruhr-uni-bochum.de/en/welcome-ruhr-universitat-bochum), Germany (Dec. 06, 2018).
+1.	INVITED: Designing Human-Centered Privacy-Enhancing Technologies. SecHuman Colloquium, [Ruhr-University Bochum (RUB)](https://www.ruhr-uni-bochum.de/en/welcome-ruhr-universitat-bochum), Germany (Feb. 28, 2019).
 
 1. INVITED: Introduction to Computer Security. [Decoded London](https://decoded.com), UK (Nov. 06, 2018).
 
