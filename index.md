@@ -128,7 +128,7 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 **Posters Jury Member:**
 
-1. Symposium on Usable Privacy and Security (SOUPS): 2018.
+1. Symposium on Usable Privacy and Security (SOUPS): 2018, 2019.
 
 **Invited External Reviewer:**
 
