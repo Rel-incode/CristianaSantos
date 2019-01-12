@@ -138,8 +138,6 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 1. ACM Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI): 2018.
 
-1. ACM Conference on Human Factors in Computing (CHI): 2016, 2019.
-
 1. ACM Symposium on Virtual Reality Software and Technology (VRST): 2018.
 
 1. European Conference on Information Systems (ECIS): 2018.
@@ -147,6 +145,8 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 1. Journal of Computer Security: 2018.
 
 1. Privacy-Enhancing Technologies Symposium (PETS): 2018.
+
+1. ACM Conference on Human Factors in Computing Systems (CHI): 2016, 2019.
 
 1. European Workshop on Usable Security (EuroUSEC): 2016.
 
