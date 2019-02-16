@@ -118,7 +118,7 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 **Programme Committee (PC) Member:**
 
-1.	Privacy-Enhancing Technologies Symposium (PETS): 2019.
+1.	Privacy-Enhancing Technologies Symposium (PETS): 2019, 2020.
 
 2.	European Workshop on Usable Security (EuroUSEC): 2019.
 
@@ -129,6 +129,8 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 1. IEEE Symposium on Security and Privacy (Oakland): 2019.
 
 **Posters Jury Member:**
+
+1. IEEE Symposium on Security and Privacy (Oakland): 2019.
 
 1. Symposium on Usable Privacy and Security (SOUPS): 2018, 2019.
 
