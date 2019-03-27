@@ -45,7 +45,9 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 1. INVITED: From Paternalistic to User-Centered Security. SecHuman Colloquium, [Ruhr-University Bochum (RUB)](https://www.ruhr-uni-bochum.de/en/welcome-ruhr-universitat-bochum), Germany (May 2019).
 
-1. Secure Messaging: Adoption and Appropriate Use. [9th International Workshop on Cryptography, Robustness, and Provably Secure Schemes for Female Young Researchers (CrossFyre)](https://www.crossing.tu-darmstadt.de/crossfyre_19/index.en.jsp), Technical University of Darmstadt, Germany (May 17, 2019).
+1. Secure Messaging: Adoption and Appropriate Use. [9th International Workshop on Cryptography, Robustness, and Provably Secure Schemes for Female Young Researchers (CrossFyre)](https://www.crossing.tu-darmstadt.de/crossfyre_19/index.en.jsp), Technical University of Darmstadt, Germany (May 18, 2019).
+
+1. INVITED: From Paternalistic to User-Centered Security. [Center for IT-Security, Privacy, and Accountability (CISPA)](https://cispa.saarland), Saarbrucken, Germany (May 17, 2019).
 
 1. INVITED: Secure Messaging: Adoption and Appropriate Use. [Imperial College London](https://www.imperial.ac.uk), UK (Apr. 02, 2019).
 
