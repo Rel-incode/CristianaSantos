@@ -41,13 +41,13 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 1. **Ruba Abu-Salma**, and M. Angela Sasse. PUP: Pretty Usable Privacy. [5th Information Assurance Advisory Council (IAAC) Symposium](http://www.iaac.org.uk/events/symposiums/2015-annual-symposium-the-citizen-in-the-internet-of-things/), London, UK, 2015.
 
 ### Talks
-1. INVITED: Secure Messaging: Adoption and Appropriate Use. [Symantec Research Labs](https://www.symantec.com/about/corporate-profile/technology/research-labs), Sophia Antipolis, France (June 19, 2019).
+1. INVITED: From Paternalistic to User-Centered Security. [Symantec Research Labs](https://www.symantec.com/about/corporate-profile/technology/research-labs), Sophia Antipolis, France (June 19, 2019).
+
+1. INVITED: From Paternalistic to User-Centered Security. SecHuman Colloquium, [Ruhr-University Bochum (RUB)](https://www.ruhr-uni-bochum.de/en/welcome-ruhr-universitat-bochum), Germany (May, 2019).
 
 1. Secure Messaging: Adoption and Appropriate Use. [9th International Workshop on Cryptography, Robustness, and Provably Secure Schemes for Female Young Researchers (CrossFyre)](https://www.crossing.tu-darmstadt.de/crossfyre_19/index.en.jsp), Technical University of Darmstadt, Germany (May 17, 2019).
 
 1. INVITED: Secure Messaging: Adoption and Appropriate Use. [Imperial College London](https://www.imperial.ac.uk), UK (Apr. 02, 2019).
-
-1. INVITED: From Paternalistic to User-Centered Security. SecHuman Colloquium, [Ruhr-University Bochum (RUB)](https://www.ruhr-uni-bochum.de/en/welcome-ruhr-universitat-bochum), Germany (Feb. 28, 2019).
 
 1. INVITED: Introduction to Computer Security. [Decoded London](https://decoded.com), UK (Nov. 06, 2018).
 
