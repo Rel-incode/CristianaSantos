@@ -57,7 +57,7 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 1. Exploring User Mental Models of End-to-End Encrypted Communication Tools. [8th USENIX Workshop on Free and Open Communications on the Internet (FOCI)](https://www.usenix.org/conference/foci18), Baltimore, MD, USA, (Aug. 14, 2018).
 
-1. Exploring User Mental Models of End-to-End Encrypted Communication Tools. [Oxford Internet Institute](https://www.oii.ox.ac.uk/), [University of Oxford](http://www.ox.ac.uk/), UK (July 05, 2018).
+1. INVITED: Exploring User Mental Models of End-to-End Encrypted Communication Tools. [Oxford Internet Institute](https://www.oii.ox.ac.uk/), [University of Oxford](http://www.ox.ac.uk/), UK (July 05, 2018).
 
 1. INVITED: How User Needs, Practices, and Perceptions Influence the Adoption and Use of Secure Communication Tools. Cybersecurity Seminar, Dept. of Computer Science, [University of Oxford](http://www.ox.ac.uk/), UK (May 18, 2018).
 
