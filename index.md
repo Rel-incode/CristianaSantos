@@ -49,7 +49,7 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 1. INVITED: Secure Messaging: Adoption and Appropriate Use. [The Helmholtz Center for Information Security (CISPA)](https://cispa.saarland), Saarbrucken, Germany (May 16, 2019).
 
-1. INVITED: Secure Messaging: Adoption and Appropriate Use. [Imperial College London](https://www.imperial.ac.uk), UK (Apr. 02, 2019).
+1. INVITED: Secure Messaging: Adoption and Appropriate Use. [Dyson School of Design Engineering](http://www.imperial.ac.uk/design-engineering/), [Imperial College London](https://www.imperial.ac.uk), UK (Apr. 02, 2019).
 
 1. INVITED: Introduction to Computer Security. [Decoded London](https://decoded.com), UK (Nov. 06, 2018).
 
