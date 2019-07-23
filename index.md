@@ -110,56 +110,58 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 ### Academic Service
 **Program Co-Chair:**
 
-1. Workshop on Cryptography, Robustness, and Provably Secure Schemes for Female Young Researchers (CrossFyre): 2017.
+1. CrossFyre: 2017.
 
 1. UCL Computer Science Mini Conference: 2016.
 
 **Publicity Chair:**
 
-1. IEEE European Symposium on Security and Privacy (EuroS&P): 2018.
+1. IEEE EuroS&P: 2018.
 
 **Programme Committee (PC) Member:**
 
-1.	Privacy-Enhancing Technologies Symposium (PETS): 2019, 2020.
+1. PoPETs/PETS: 2019, 2020.
 
-2.	European Workshop on Usable Security (EuroUSEC): 2019.
+2. EuroUSEC: 2019.
 
-3.	Grace Hopper Celebration (GHC) of Women in Computing (Security and Privacy Track): 2018.
+3. GHC (Security and Privacy Track): 2018.
 
 **Student Programme Committee (PC) Member:**
 
-1. IEEE Symposium on Security and Privacy (Oakland): 2019.
+1. IEEE S&P (Oakland): 2019.
 
 **Posters Jury Member:**
 
-1. IEEE Symposium on Security and Privacy (Oakland): 2019.
+1. IEEE S&P (Oakland): 2019.
 
-1. Symposium on Usable Privacy and Security (SOUPS): 2018, 2019.
+1. USENIX SOUPS: 2018, 2019.
 
 **Invited External Reviewer:**
 
-1. ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW): 2018.
+1. HICSS: 2019.
 
-1. ACM Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI): 2018.
+1. ACM CSCW: 2018.
 
-1. ACM Symposium on Virtual Reality Software and Technology (VRST): 2018.
+1. ACM MobileHCI: 2018.
 
-1. European Conference on Information Systems (ECIS): 2018.
+1. ACM VRST: 2018.
+
+1. ECIS: 2018.
 
 1. Journal of Computer Security: 2018.
 
-1. Privacy-Enhancing Technologies Symposium (PETS): 2018.
+1. PoPETs/PETS: 2018.
 
-1. ACM Conference on Human Factors in Computing Systems (CHI): 2016, 2019.
+1. ACM CHI: 2016, 2019.
 
-1. European Workshop on Usable Security (EuroUSEC): 2016.
+1. EuroUSEC: 2016.
 
-1. IEEE Security and Privacy Magazine: 2016.
+1. IEEE S&P Magazine: 2016.
 
-1. Workshop on Privacy in the Electronic Society (WPES): 2016.
+1. STAST: 2016.
 
-1. Workshop on Socio-Technical Aspects in Security and Trust (STAST): 2016.
+1. WPES: 2016.
 
-1. International Conference on Financial Cryptography and Data Security: 2015.
+1. Financial Crypto: 2015.
 
-1. USENIX Security Symposium: 2015.
+1. USENIX Security: 2015.
