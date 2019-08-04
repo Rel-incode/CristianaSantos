@@ -146,8 +146,6 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 1. ACM VRST: 2018.
 
-1. ECIS: 2018.
-
 1. Journal of Computer Security: 2018.
 
 1. PoPETs/PETS: 2018.
