@@ -9,7 +9,7 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 ### Publications
 1. **Ruba Abu-Salma** and Benjamin Livshits. Evaluating the End-User Experience of Private Browsing Mode. In the [38th ACM Conference on Human Factors in Computing Systems (CHI)]( https://chi2020.acm.org/), Honolulu, HI, USA, 2020. (To Appear)
 
-1.. **Ruba Abu-Salma**. Designing for the Elderly: Understanding the Role of Age on the Adoption and Use of Secure Communication Tools. In the [2nd MobileHCI Workshop on Mobile Privacy and Security for an Ageing Population](https://csalsa.gitlab.io/mobilehciageing/index.html), Barcelona, Spain, 2018.
+1. **Ruba Abu-Salma**. Designing for the Elderly: Understanding the Role of Age on the Adoption and Use of Secure Communication Tools. In the [2nd MobileHCI Workshop on Mobile Privacy and Security for an Ageing Population](https://csalsa.gitlab.io/mobilehciageing/index.html), Barcelona, Spain, 2018.
 
 1. **Ruba Abu-Salma**, Elissa M. Redmiles, Blase Ur, and Miranda Wei. Exploring User Mental Models of End-to-End Encrypted Communication Tools. In the [8th USENIX Workshop on Free and Open Communications on the Internet (FOCI)](https://www.usenix.org/conference/foci18), Baltimore, MD, USA, 2018. [[**CNET**](https://www.cnet.com/news/you-might-not-really-understand-how-encrypted-messaging-apps-work/?ftag=COS-05-10aaa0b&linkId=55534884)] [[**La Vanguardia**](https://www.lavanguardia.com/tecnologia/20180816/451330770078/cifrado-desconocimiento-poblacion-usuarios-whatsapp-telegram-signal.html)]
 
