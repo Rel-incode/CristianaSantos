@@ -2,7 +2,7 @@ Ruba Abu-Salma is a Ph.D. Candidate in Computer Science at [University College L
 
 Ruba obtained an M.Sc. (with Distinction) in Information Security from UCL. Before joining UCL, she earned a B.Sc. (Hons) in Computer Engineering from the [American University of Sharjah (AUS)](https://www.aus.edu/).
 
-Email: r.abu-salma[AT]cs.ucl.ac.uk
+Email: r.abu-salma@cs.ucl.ac.uk
 
 Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
