@@ -41,7 +41,7 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 1. **Ruba Abu-Salma**, and M. Angela Sasse. PUP: Pretty Usable Privacy. In the [5th Information Assurance Advisory Council (IAAC) Symposium](http://www.iaac.org.uk/events/symposiums/2015-annual-symposium-the-citizen-in-the-internet-of-things/), London, UK, 2015.
 
 ### Talks
-1. INVITED: Designing User-Centered Privacy-Enhancing Technologies. [Department of Electrical Engineering and Computer Science (EECS)](https://eecs.berkeley.edu), [University of California, Berkeley](https://www.berkeley.edu/), CA, USA (Nov. 22, 2019).
+1. INVITED: Users Do Not Bite: Exploring the Adoption and Use of Encrypted Communication Tools. [Department of Electrical Engineering and Computer Science (EECS)](https://eecs.berkeley.edu), [University of California, Berkeley](https://www.berkeley.edu/), CA, USA (Nov. 22, 2019).
 
 1. INVITED: Evaluating the End-User Experience of Private Browsing Mode. [French National Institute for Research in Computer Science and Automation (Inria)](https://www.inria.fr/en), Sophia Antipolis, France (Nov. 21, 2019).
 
