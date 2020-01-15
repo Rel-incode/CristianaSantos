@@ -27,6 +27,8 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 1. Steven J. Murdoch, Ingolf Becker, **Ruba Abu-Salma**, Ross Anderson, Nicholas Bohm, Alice Hutchings, M. Angela Sasse, and Gianluca Stringhini. Are Payment Banking Contracts Unfair? In the [20th Conference on Financial Cryptography and Data Security](http://fc16.ifca.ai), Rockley, Christ Church, Barbados, 2016.
 
+1. Fadi Aloul, Imran Zualkernan, **Ruba Abu-Salma**, Hamed Al-Ali, and May Al-Merri. iBump: A Smartphone Application to Detect Car Accidents. In [Elsevier Journal of Computers and Electrical Engineering (JCEE)](https://www.journals.elsevier.com/computers-and-electrical-engineering), 2015.
+
 ### Posters
 1. **Ruba Abu-Salma**, Juliane Kramer, Scott Ruoti, Kent Seamons, Justin Wu, and Daniel Zappala. Secure and Private Group Chat: Investigating Users Needs and Practices. In the [33rd Annual Computer Security Applications Conference (ACSAC)](https://www.acsac.org), San Juan, Puerto Rico, USA, 2017.
 
