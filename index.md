@@ -162,7 +162,7 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 1. Journal of Computer Security: 2018.
 
-1. PoPETs/PETS: 2018.
+1. PETS/PoPETs: 2018.
 
 1. ACM CHI: 2016, 2019.
 
