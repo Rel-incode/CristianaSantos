@@ -1,7 +1,5 @@
 Ruba Abu-Salma is a Postdoctoral Researcher at [INRIA](https://www.inria.fr/en) Sophia Antipolis. Ruba’s research is multidisciplinary; it spans computer security, privacy, and Human-Computer Interaction (HCI). She takes a user-centered approach to the design and use of privacy-enhancing technologies. She seeks to understand users’ needs, practices, and perceptions with regards to privacy tools, and what influences users’ decision to adopt a particular tool. Ruba obtained her Ph.D. in Computer Science from [University College London (UCL)](https://www.ucl.ac.uk), under the supervision of [M. Angela Sasse](http://sec.cs.ucl.ac.uk/people/m_angela_sasse/) and [Steven Murdoch](https://murdoch.is). As a graduate student, she received a Supporting Usability and Design in Security (SUDS) Fellowship from the Open Technology Fund and Simply Secure, as well as a Marie-Skłodowska Curie Research Fellowship. Ruba’s research was also supported by Google. Her work has been covered by the popular press, such as The Register and CNET.
 
-Ruba obtained an M.Sc. (with Distinction) in Information Security from UCL. Before joining UCL, she earned a B.Sc. (Hons) in Computer Engineering from the [American University of Sharjah (AUS)](https://www.aus.edu/).
-
 Email: r.abu-salma@cs.ucl.ac.uk
 
 Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
