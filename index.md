@@ -1,4 +1,4 @@
-Ruba Abu-Salma is a Ph.D. Candidate in Computer Science at [University College London (UCL)](https://www.ucl.ac.uk), supervised by [Angela Sasse](http://sec.cs.ucl.ac.uk/people/m_angela_sasse/) and co-supervised by [Steven Murdoch](https://murdoch.is). Ruba’s research is multidisciplinary; it spans computer security, privacy, and Human-Computer Interaction (HCI). Ruba takes a user-centered approach to the design and use of privacy-enhancing technologies. She seeks to understand users’ needs, practices, and perceptions with regards to privacy tools, and what influences users’ decision to adopt a particular tool. Ruba has received a Supporting Usability and Design in Security (SUDS) Fellowship from the Open Technology Fund and Simply Secure, as well as a Marie-Skłodowska Curie Research Fellowship. Ruba’s research has also been supported by Google. Her work has been covered by the popular press, such as The Register and CNET.
+Ruba Abu-Salma is a Postdoctoral Researcher at [INRIA]() Sophia Antipolis. Ruba’s research is multidisciplinary; it spans computer security, privacy, and Human-Computer Interaction (HCI). She takes a user-centered approach to the design and use of privacy-enhancing technologies. She seeks to understand users’ needs, practices, and perceptions with regards to privacy tools, and what influences users’ decision to adopt a particular tool. Ruba obtained her Ph.D. in Computer Science from [University College London (UCL)](https://www.ucl.ac.uk), under the supervision of [M. Angela Sasse](http://sec.cs.ucl.ac.uk/people/m_angela_sasse/) and [Steven Murdoch](https://murdoch.is). As a graduate student, she received a Supporting Usability and Design in Security (SUDS) Fellowship from the Open Technology Fund and Simply Secure, as well as a Marie-Skłodowska Curie Research Fellowship. Ruba’s research was also supported by Google. Her work has been covered by the popular press, such as The Register and CNET.
 
 Ruba obtained an M.Sc. (with Distinction) in Information Security from UCL. Before joining UCL, she earned a B.Sc. (Hons) in Computer Engineering from the [American University of Sharjah (AUS)](https://www.aus.edu/).
 
@@ -7,7 +7,9 @@ Email: r.abu-salma@cs.ucl.ac.uk
 Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 ### Publications
-1. **Ruba Abu-Salma** and Benjamin Livshits. Evaluating the End-User Experience of Private Browsing Mode. In the [38th ACM Conference on Human Factors in Computing Systems (CHI)]( https://chi2020.acm.org/), Honolulu, HI, USA, 2020. (To Appear)
+1. **Ruba Abu-Salma**. Designing User-Centered Privacy-Enhancing Technologies. Department of Computer Science, University College London (UCL), London, UK, 2020. (Ph.D. thesis)
+
+1. **Ruba Abu-Salma** and Benjamin Livshits. Evaluating the End-User Experience of Private Browsing Mode. In the [38th ACM Conference on Human Factors in Computing Systems (CHI)](https://chi2020.acm.org/), Honolulu, HI, USA, 2020.
 
 1. **Ruba Abu-Salma**. Designing for the Elderly: Understanding the Role of Age on the Adoption and Use of Secure Communication Tools. In the [2nd MobileHCI Workshop on Mobile Privacy and Security for an Ageing Population](https://csalsa.gitlab.io/mobilehciageing/index.html), Barcelona, Spain, 2018.
 
@@ -30,6 +32,8 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 1. Fadi Aloul, Imran Zualkernan, **Ruba Abu-Salma**, Hamed Al-Ali, and May Al-Merri. iBump: A Smartphone Application to Detect Car Accidents. In [Elsevier Journal of Computers and Electrical Engineering (JCEE)](https://www.journals.elsevier.com/computers-and-electrical-engineering), 2015.
 
 ### Posters
+1.	George Chalhoub, Ivan Flechais, Norbert Nthala, **Ruba Abu-Salma**, and Elie Tom. Factoring User Experience into the Security and Privacy Design of Smart Home Devices. In the Extended Abstracts of the [38th ACM Conference on Human Factors in Computing Systems (CHI EA) (Late-Breaking Works)](), Honolulu, HI, USA, 2020.
+
 1. **Ruba Abu-Salma**, Juliane Kramer, Scott Ruoti, Kent Seamons, Justin Wu, and Daniel Zappala. Secure and Private Group Chat: Investigating Users Needs and Practices. In the [33rd Annual Computer Security Applications Conference (ACSAC)](https://www.acsac.org), San Juan, Puerto Rico, USA, 2017.
 
 1. INVITED: **Ruba Abu-Salma**, Kat Krol, Simon Parkin, Victoria Koh, Kevin Kwan, Jazib Mahboob, Zahra Traboulsi, and M. Angela Sasse. The Security Blanket of the Chat World: An Analytic Evaluation and a User Study of Telegram. In the [13th Symposium on Usable Privacy and Security (SOUPS)](https://www.usenix.org/conference/soups2017), Santa Clara, CA, USA, 2017.
@@ -43,6 +47,10 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 1. **Ruba Abu-Salma**, and M. Angela Sasse. PUP: Pretty Usable Privacy. In the [5th Information Assurance Advisory Council (IAAC) Symposium](http://www.iaac.org.uk/events/symposiums/2015-annual-symposium-the-citizen-in-the-internet-of-things/), London, UK, 2015.
 
 ### Talks
+1. Evaluating the End-User Experience of Private Browsing Mode. [38th ACM Conference on Human Factors in Computing Systems (CHI)](https://chi2020.acm.org/), Honolulu, HI, USA (Apr. 27, 2020). (cancelled)
+
+1. INVITED: Users Do Not Bite: Exploring the Adoption and Use of Encrypted Communication Tools. [Interdisciplinary Centre for Security, Reliability, and Trust (SnT)](https://wwwfr.uni.lu/snt), [University of Luxembourg](https://wwwen.uni.lu/), Luxembourg (Mar. 04, 2020).
+
 1. INVITED: Users Do Not Bite: Exploring the Adoption and Use of Encrypted Communication Tools. [Department of Electrical Engineering and Computer Science (EECS)](https://eecs.berkeley.edu), [University of California, Berkeley](https://www.berkeley.edu/), CA, USA (Nov. 22, 2019).
 
 1. INVITED: Evaluating the End-User Experience of Private Browsing Mode. [French National Institute for Research in Computer Science and Automation (Inria)](https://www.inria.fr/en), Sophia Antipolis, France (Nov. 21, 2019).
@@ -124,11 +132,13 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 **Programme Committee (PC) Member:**
 
-1. PoPETs/PETS: 2019, 2020.
+1.	USENIX Security Symposium: 2021.
 
-2. EuroUSEC: 2019.
+1. PETS/PoPETs: 2019, 2020, 2021.
 
-3. GHC (Security and Privacy Track): 2018.
+1. EuroUSEC: 2019.
+
+1. GHC (Security and Privacy Track): 2018.
 
 **Student Programme Committee (PC) Member:**
 
