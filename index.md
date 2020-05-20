@@ -5,6 +5,8 @@ Email: r.abu-salma@cs.ucl.ac.uk
 Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 ### Publications
+1. George Chalhoub, Ivan Flechais, Norbert Nthala, and **Ruba Abu-Salma**. Innovation, Inaction, or In Action? The Role of User Experience in the Security and Privacy Design of Smart Home Cameras. In the [16th Symposium on Usable Privacy and Security (SOUPS)](https://www.usenix.org/conference/soups2020), Boston, MA, USA, 2020.
+
 1. **Ruba Abu-Salma**. Designing User-Centered Privacy-Enhancing Technologies. Department of Computer Science, University College London (UCL), London, UK, 2020. (Ph.D. thesis)
 
 1. **Ruba Abu-Salma** and Benjamin Livshits. Evaluating the End-User Experience of Private Browsing Mode. In the [38th ACM Conference on Human Factors in Computing Systems (CHI)](https://chi2020.acm.org/), Honolulu, HI, USA, 2020.
