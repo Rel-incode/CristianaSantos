@@ -130,7 +130,7 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 1. IEEE EuroS&P: 2018.
 
-**Programme Committee (PC) Member:**
+**Program Committee (PC) Member:**
 
 1. USENIX Security Symposium: 2021.
 
@@ -142,7 +142,7 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 1. GHC (Security and Privacy Track): 2018.
 
-**Student Programme Committee (PC) Member:**
+**Student Program Committee (PC) Member:**
 
 1. IEEE S&P (Oakland): 2019.
 
