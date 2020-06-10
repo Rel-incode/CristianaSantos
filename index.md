@@ -1,4 +1,4 @@
-Ruba Abu-Salma is a Postdoctoral Researcher at [INRIA](https://www.inria.fr/en) Sophia Antipolis. Ruba’s research is multidisciplinary; it spans computer security, privacy, and Human-Computer Interaction (HCI). She takes a user-centered approach to the design and use of privacy-enhancing technologies. She seeks to understand users’ needs, practices, and perceptions with regards to privacy tools, and what influences users’ decision to adopt a particular tool. Ruba obtained her Ph.D. in Computer Science from [University College London (UCL)](https://www.ucl.ac.uk), under the supervision of [M. Angela Sasse](http://sec.cs.ucl.ac.uk/people/m_angela_sasse/) and [Steven Murdoch](https://murdoch.is). As a graduate student, she received a Supporting Usability and Design in Security (SUDS) Fellowship from the Open Technology Fund and Simply Secure, as well as a Marie-Skłodowska Curie Research Fellowship. Ruba’s research was also supported by Google. Her work has been covered by the popular press, such as The Register and CNET.
+Ruba Abu-Salma is a Postdoctoral Researcher in the PRIVATICS Team at [Inria](https://www.inria.fr/en) Sophia Antipolis, supervised by [Dr. Nataliia Bielova](http://www-sop.inria.fr/members/Nataliia.Bielova/). Ruba’s research is multidisciplinary; it spans computer security, privacy, and Human-Computer Interaction (HCI). She takes a user-centered approach to the design and use of privacy-enhancing technologies. She seeks to understand users’ needs, practices, and perceptions with regards to privacy tools, and what influences users’ decision to adopt a particular tool. Ruba obtained her Ph.D. in Computer Science from [University College London (UCL)](https://www.ucl.ac.uk), under the supervision of [M. Angela Sasse](http://sec.cs.ucl.ac.uk/people/m_angela_sasse/) and [Steven Murdoch](https://murdoch.is). As a graduate student, she received a Supporting Usability and Design in Security (SUDS) Fellowship from the Open Technology Fund and Simply Secure, as well as a Marie-Skłodowska Curie Research Fellowship. Ruba’s research was also supported by Google. Her work has been covered by the popular press, such as The Register and CNET.
 
 Email: r.abu-salma@cs.ucl.ac.uk
 
@@ -133,6 +133,8 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 **Programme Committee (PC) Member:**
 
 1. USENIX Security Symposium: 2021.
+
+1. WPES: 2021.
 
 1. PETS/PoPETs: 2019, 2020, 2021.
 
