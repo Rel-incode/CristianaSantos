@@ -7,7 +7,7 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 ### Publications
 1. George Chalhoub, Ivan Flechais, Norbert Nthala, and **Ruba Abu-Salma**. Innovation, Inaction, or In Action? The Role of User Experience in the Security and Privacy Design of Smart Home Cameras. In the [16th Symposium on Usable Privacy and Security (SOUPS)](https://www.usenix.org/conference/soups2020), Boston, MA, USA, 2020.
 
-1. **Ruba Abu-Salma**. Designing User-Centered Privacy-Enhancing Technologies. Department of Computer Science, University College London (UCL), London, UK, 2020. (Ph.D. thesis)
+1. **Ruba Abu-Salma**. Designing User-Centered Privacy-Enhancing Technologies. Department of Computer Science, [University College London (UCL)](https://www.ucl.ac.uk/), London, UK, 2020. (Ph.D. thesis)
 
 1. **Ruba Abu-Salma** and Benjamin Livshits. Evaluating the End-User Experience of Private Browsing Mode. In the [38th ACM Conference on Human Factors in Computing Systems (CHI)](https://chi2020.acm.org/), Honolulu, HI, USA, 2020.
 
@@ -32,7 +32,7 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 1. Fadi Aloul, Imran Zualkernan, **Ruba Abu-Salma**, Hamed Al-Ali, and May Al-Merri. iBump: A Smartphone Application to Detect Car Accidents. In [Elsevier Journal of Computers and Electrical Engineering (JCEE)](https://www.journals.elsevier.com/computers-and-electrical-engineering), 2015.
 
 ### Posters
-1.	George Chalhoub, Ivan Flechais, Norbert Nthala, **Ruba Abu-Salma**, and Elie Tom. Factoring User Experience into the Security and Privacy Design of Smart Home Devices. In the Extended Abstracts of the [38th ACM Conference on Human Factors in Computing Systems (CHI EA) (Late-Breaking Works)](), Honolulu, HI, USA, 2020.
+1.	George Chalhoub, Ivan Flechais, Norbert Nthala, **Ruba Abu-Salma**, and Elie Tom. Factoring User Experience into the Security and Privacy Design of Smart Home Devices. In the Extended Abstracts of the [38th ACM Conference on Human Factors in Computing Systems (CHI EA) (Late-Breaking Works)](https://chi2020.acm.org/), Honolulu, HI, USA, 2020.
 
 1. **Ruba Abu-Salma**, Juliane Kramer, Scott Ruoti, Kent Seamons, Justin Wu, and Daniel Zappala. Secure and Private Group Chat: Investigating Users Needs and Practices. In the [33rd Annual Computer Security Applications Conference (ACSAC)](https://www.acsac.org), San Juan, Puerto Rico, USA, 2017.
 
@@ -53,7 +53,7 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 1. INVITED: Users Do Not Bite: Exploring the Adoption and Use of Encrypted Communication Tools. [Department of Electrical Engineering and Computer Science (EECS)](https://eecs.berkeley.edu), [University of California, Berkeley](https://www.berkeley.edu/), CA, USA (Nov. 22, 2019).
 
-1. INVITED: Evaluating the End-User Experience of Private Browsing Mode. [French National Institute for Research in Computer Science and Automation (INRIA)](https://www.inria.fr/en), Sophia Antipolis, France (Nov. 21, 2019).
+1. INVITED: Evaluating the End-User Experience of Private Browsing Mode. [French National Institute for Research in Computer Science and Automation (Inria)](https://www.inria.fr/en), Sophia Antipolis, France (Nov. 21, 2019).
 
 1. INVITED: From Paternalistic to User-Centered Security. [Symantec Research Labs](https://www.symantec.com/about/corporate-profile/technology/research-labs), Sophia Antipolis, France (June 19, 2019).
 
