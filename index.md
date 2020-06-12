@@ -11,16 +11,15 @@ Hi! This is Cristiana.
 
 ### Recent News
 
-•	**Apr 2020** Our paper on [compliance of cookie purposes](https://hal.inria.fr/hal-02567022/document) was accepted to [IWPE 2020](https://iwpe.info/)! 
+•	**Apr 2020** Our paper on [compliance of cookie purposes](https://hal.inria.fr/hal-02567022/document) was accepted to [IWPE 2020](https://iwpe.info/) ! 
 
-•	**Mar 2020** Our paper on [purposes in IAB Europe TCF](https://hal.inria.fr/hal-02566891/document) got accepted at [APF](https://privacyforum.eu/) 2020! 
+•	**Mar 2020** Our paper on [purposes in IAB Europe TCF](https://hal.inria.fr/hal-02566891/document) got accepted at [APF 2020](https://privacyforum.eu/)! 
 
 •	**Feb 2020** We have written [our opinion on the draft recommendation of the CNIL on "cookies and other trackers"](https://hal.inria.fr/hal-02490531/document)
 
 •	**Feb 2020** Our paper on [cookie banners] got accepted at [IEEE Security & Privacy 2020](https://www.ieee-security.org/TC/SP2020/)!
 
 •	**Sep 2019** Our paper the analysis of dark patterns applied to cookie banner design and consent requirements is accepted at [PLSC-E 2020](https://www.tilburguniversity.edu/research/institutes-and-research-groups/tilt/plsc-europe-2020)! 
-
 
 •	**Sep 2019** Our paper on [a legal-technical approach to compliance with EU laws on cookies](https://arxiv.org/abs/1912.07144) is accepted at [PLSC Europe 2019](https://www.ivir.nl/plsceurope2019/)!
 
