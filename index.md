@@ -18,7 +18,7 @@ Data protection and privacy law, consumer law. Legal informatics. AI and Law
 ### Publications
 You can also visit my [Google Scholar page](https://scholar.google.com/citations?user=IaDvlTwAAAAJ&hl=en) or my [DBLP](https://dblp.uni-trier.de/pers/hd/s/Santos:Cristiana). 
 
-**Privacy and Data Protection
+**Privacy and Data Protection**
 
 1.	Fouad I., Santos C., Kassar F. A., Bielova B., Calzavara S. (2020), On Compliance of Cookie Purposes with the Purpose Specification Principle. 2020 International Workshop on Privacy Engineering (IWPE), Jul 2020, Genova, Italy. ⟨hal-02567022⟩
 
@@ -45,7 +45,7 @@ Selected media coverage: Lemonde.fr, Businessinsider.fr, Nextinpact.com
 Submitted journal (under review) Santos, C., Bielova, N., & Matte, C. (2019). Are cookie banners indeed compliant with the law? Deciphering EU legal requirements on consent and technical means to verify compliance of cookie banners. arXiv preprint arXiv:1912.07144.
 
 
-**Modeling legal information -- in the domains of data protection and consumer law
+**Modeling legal information -- in the domains of data protection and consumer law**
 
 1.	Bartolini C., Lenzini L., Santos C. (2019), An Agile Approach to Validate a Formal Representation of the GDPR, Frontiers in Artificial Intelligence and Applications (FAIA, 2019), Lecture Notes in Computer Science, Springer
 
@@ -91,7 +91,7 @@ Submitted journal (under review) Santos, C., Bielova, N., & Matte, C. (2019). Ar
 
 22.	Santos C. (2013), Increasing media richness in Online Dispute Resolution and the need for personal data protection, Proceedings of the First JURIX Doctoral Consortium Workshop in conjunction with the 26th International Conference on Legal Knowledge and Information Systems, JURIX 2013, Bologna, CEUR Workshop Proceedings 1105.
 
-**Space Law
+**Space Law**
 
 1.	Santos C., Rapp L. Nudging Space – possible Governance for space (accepted to the IAC 2020)
 
