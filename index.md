@@ -42,12 +42,10 @@ Selected media coverage: Lemonde.fr, Businessinsider.fr, Nextinpact.com
 
 11.	Bartolini C., Santos C, Ullrich C., (2017), Property and the Cloud, (CLSR), Elsevier,  https://doi.org/10.1016/j.clsr.2017.10.005
 
-Submitted journal (under review)
-
-Santos, C., Bielova, N., & Matte, C. (2019). Are cookie banners indeed compliant with the law? Deciphering EU legal requirements on consent and technical means to verify compliance of cookie banners. arXiv preprint arXiv:1912.07144.
+Submitted journal (under review) Santos, C., Bielova, N., & Matte, C. (2019). Are cookie banners indeed compliant with the law? Deciphering EU legal requirements on consent and technical means to verify compliance of cookie banners. arXiv preprint arXiv:1912.07144.
 
 
-**Modeling legal information (in the domains of data protection and consumer law)
+**Modeling legal information -- in the domains of data protection and consumer law
 
 1.	Bartolini C., Lenzini L., Santos C. (2019), An Agile Approach to Validate a Formal Representation of the GDPR, Frontiers in Artificial Intelligence and Applications (FAIA, 2019), Lecture Notes in Computer Science, Springer
 
