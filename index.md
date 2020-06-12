@@ -6,7 +6,7 @@ Hi! This is Cristiana.
 
 **Research Areas:** Data protection and privacy law, consumer law. Legal informatics. AI and Law 
 
-**Email:** cristianasantos@protonmail.com [Twitter](https://twitter.com/cristianapt?lang=en) [LinkedIn](https://www.linkedin.com/in/cristianateixeirasantos/)
+**Contacts:** [email](cristianasantos@protonmail.com), [Twitter](https://twitter.com/cristianapt?lang=en), [LinkedIn](https://www.linkedin.com/in/cristianateixeirasantos/)
 
 ### Recent News
 
