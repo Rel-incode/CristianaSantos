@@ -15,5 +15,5 @@ Data protection and privacy law, consumer law. Legal informatics. AI and Law
 
 **LinkedIn:** [Cristiana Santos](https://www.linkedin.com/in/cristianateixeirasantos/)
 
-###Publications
+### Publications
 You can also visit my [Google Scholar page](https://scholar.google.com/citations?user=IaDvlTwAAAAJ&hl=en) or my [DBLP](https://dblp.uni-trier.de/pers/hd/s/Santos:Cristiana). 
