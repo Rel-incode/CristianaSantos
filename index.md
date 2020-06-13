@@ -17,12 +17,11 @@ Data protection and privacy law, consumer law. Legal informatics. AI and Law
 Ph.D. 2016
 Law, Science and Technology, Joint International Doctoral Program [LAST-JD](http://www.last-jd.eu/) 
 Computer Science, Co-tutorship with the Universities of Bologna and Luxembourg
-DIssertation: [‘Ontologies for Legal Relevance and Complaints’](http://amsdottorato.unibo.it/7804/1/SANTOS_CRISTIANA_tesi.pdf) 
+Dissertation: [‘Ontologies for Legal Relevance and Complaints’](http://amsdottorato.unibo.it/7804/1/SANTOS_CRISTIANA_tesi.pdf) 
 
 M.Sc. 2012
-‘Artificial Intelligence and Online Dispute Resolution’, 
 School of Law, University of Minho 
-
+‘Artificial Intelligence and Online Dispute Resolution’
 
 **Contacts:** 
 
