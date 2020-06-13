@@ -21,7 +21,7 @@ Computer Science, Co-tutorship with the Universities of Bologna and Luxembourg
 Dissertation: [‘Ontologies for Legal Relevance and Complaints’](http://amsdottorato.unibo.it/7804/1/SANTOS_CRISTIANA_tesi.pdf) 
 
 •*M.Sc. in Law*, 2012
-
+\noindent
 School of Law, University of Minho 
 ‘Artificial Intelligence and Online Dispute Resolution’
 
