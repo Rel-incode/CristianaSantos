@@ -25,7 +25,7 @@ Hi! This is Cristiana.
 
 
 ### Publications
-You can also visit my [Google Scholar page](https://scholar.google.com/citations?user=IaDvlTwAAAAJ&hl=en) or my [DBLP](https://dblp.uni-trier.de/pers/hd/s/Santos:Cristiana). 
+[Google Scholar page](https://scholar.google.com/citations?user=IaDvlTwAAAAJ&hl=en) [DBLP](https://dblp.uni-trier.de/pers/hd/s/Santos:Cristiana)
 
 **Privacy and Data Protection**
 
