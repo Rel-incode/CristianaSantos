@@ -18,7 +18,7 @@ Data protection and privacy law, consumer law. Legal informatics. AI and Law
 Dissertation: [‘Ontologies for Legal Relevance and Complaints’](http://amsdottorato.unibo.it/7804/1/SANTOS_CRISTIANA_tesi.pdf) 
 
 •*M.Sc. in Law*, 2012. School of Law, University of Minho,
-Dissertatio: ‘Artificial Intelligence and Online Dispute Resolution’
+Dissertation: ‘Artificial Intelligence and Online Dispute Resolution’
 
 **Contacts:** 
 
