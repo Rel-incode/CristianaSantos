@@ -20,9 +20,7 @@ Dissertation: [‘Ontologies for Legal Relevance and Complaints’](http://amsdo
 •*M.Sc. in Law*, 2012. School of Law, University of Minho,
 Dissertation: ‘Artificial Intelligence and Online Dispute Resolution’
 
-**Contacts:** 
-
-[Email](cristianasantos@protonmail.com), [Twitter](https://twitter.com/cristianapt?lang=en), [LinkedIn](https://www.linkedin.com/in/cristianateixeirasantos/)
+**Contacts** [Email](cristianasantos@protonmail.com), [Twitter](https://twitter.com/cristianapt?lang=en), [LinkedIn](https://www.linkedin.com/in/cristianateixeirasantos/)
 
 ### Recent News
 
