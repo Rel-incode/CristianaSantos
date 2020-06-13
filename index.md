@@ -4,9 +4,12 @@ Hi! This is Cristiana.
 
 I am a Postdoctoral Researcher in Law and Technology in the [PRIVATICS Team](https://team.inria.fr/privatics/) at [Inria](https://www.inria.fr/en), working with [Nataliia Bielova](http://www-sop.inria.fr/members/Nataliia.Bielova/) and [Cédric Lauradoux](https://planete.inrialpes.fr/~lauradou/). Currently, I am doing research on legal and technical requirements for consent banners, dark patterns, and data subject rights, and I love it! :) I was a lawyer by training and worked at the [Portuguese Consumer Protection Organization-DECO](https://www.deco.proteste.pt/).
 
-**Profile:**  I am a legal researcher with interdisciplinary experience in Law and Technology. The goal of my research is to make legal information structured and actionable for legal compliance, models and tools. I extract legal requirements from legal sources and collaborate with computer scientists to identify technical requirements for a concrete technology, and to build ontologies.
+**Profile:**  
 
-**Research Areas:** Data protection and privacy law, consumer law. Legal informatics. AI and Law 
+I am a legal researcher with interdisciplinary experience in Law and Technology. The goal of my research is to make legal information structured and actionable for legal compliance, models and tools. I extract legal requirements from legal sources and collaborate with computer scientists to identify technical requirements for a concrete technology, and to build ontologies.
+
+**Research Areas:**
+Data protection and privacy law, consumer law. Legal informatics. AI and Law 
 
 **Education:**
 Ph.D. 2016
@@ -19,7 +22,8 @@ M.Sc. 2012
 School of Law, University of Minho 
 
 
-**Contacts:** [Email](cristianasantos@protonmail.com), [Twitter](https://twitter.com/cristianapt?lang=en), [LinkedIn](https://www.linkedin.com/in/cristianateixeirasantos/)
+**Contacts:** 
+[Email](cristianasantos@protonmail.com), [Twitter](https://twitter.com/cristianapt?lang=en), [LinkedIn](https://www.linkedin.com/in/cristianateixeirasantos/)
 
 ### Recent News
 
@@ -38,6 +42,7 @@ School of Law, University of Minho
 
 
 ### Publications
+
 [Google Scholar page](https://scholar.google.com/citations?user=IaDvlTwAAAAJ&hl=en) [DBLP](https://dblp.uni-trier.de/pers/hd/s/Santos:Cristiana)
 
 **Privacy and Data Protection**
