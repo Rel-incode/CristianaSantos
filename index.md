@@ -1,5 +1,5 @@
 **Hi! This is Cristiana** 
-![pic](/images/logo.png)
+![LinkedIn](/images/logo.png)
 ![Alt Text](https://www.linkedin.com/in/cristianateixeirasantos/)
 
 # About me 
