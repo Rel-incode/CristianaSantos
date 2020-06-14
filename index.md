@@ -34,9 +34,9 @@ Dissertation: ‘Artificial Intelligence and Online Dispute Resolution’
 
 
 
-### Publications :point_down:
+### Publications 
 
-[Google Scholar page](https://scholar.google.com/citations?user=IaDvlTwAAAAJ&hl=en) [DBLP](https://dblp.uni-trier.de/pers/hd/s/Santos:Cristiana)
+:point_down: [Google Scholar page](https://scholar.google.com/citations?user=IaDvlTwAAAAJ&hl=en) [DBLP](https://dblp.uni-trier.de/pers/hd/s/Santos:Cristiana)
 
 **Privacy and Data Protection**
 
