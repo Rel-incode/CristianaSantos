@@ -2,9 +2,9 @@
 # About me 
 **What I do** - I am a Postdoctoral Researcher in Law and Technology in the [PRIVATICS Team](https://team.inria.fr/privatics/) at [Inria](https://www.inria.fr/en), working with [Nataliia Bielova](http://www-sop.inria.fr/members/Nataliia.Bielova/) and [Cédric Lauradoux](https://planete.inrialpes.fr/~lauradou/). Currently, I am doing research on legal and technical requirements for consent banners, dark patterns, and data subject rights, and I love it! ;)  :heart_eyes:  I was a lawyer by training and worked at the [Portuguese Consumer Protection Organization-DECO](https://www.deco.proteste.pt/).
 
-**Profile** - I am a legal researcher with interdisciplinary experience in Law&Tech. The goal of my research is to make legal information structured and actionable for legal compliance, models and tools. I extract legal requirements from legal sources and collaborate with computer scientists to identify technical requirements for a concrete technology, and to build ontologies. Find me on [Email](cristianasantos@protonmail.com), [Twitter](https://twitter.com/cristianapt?lang=en), [LinkedIn](https://www.linkedin.com/in/cristianateixeirasantos/)
+**Profile** - I am a legal researcher with interdisciplinary experience in Law&Tech. The goal of my research is to make legal information structured and actionable for legal compliance, models and tools. I extract legal requirements from legal sources and collaborate with computer scientists to identify technical requirements for a concrete technology, and to build ontologies. **Research areas** - Data protection and privacy, Legal informatics, AI&Law. Find me on [Email](cristianasantos@protonmail.com), [Twitter](https://twitter.com/cristianapt?lang=en), [LinkedIn](https://www.linkedin.com/in/cristianateixeirasantos/)
 
-**Research areas** - Data protection and privacy, Legal informatics, AI&Law 
+
 
 # Recent News
 
@@ -23,18 +23,17 @@
 
 ##Privacy and Data Protection##
 
-1.	Fouad I., **Santos C.**, Kassar F. A., Bielova B., Calzavara S. (2020), On Compliance of Cookie Purposes with the Purpose Specification Principle. 2020 International Workshop on Privacy Engineering [IWPE]⟨https://hal.inria.fr/hal-02567022⟩
+1.	Fouad I., **Santos C.**, Kassar F. A., Bielova B., Calzavara S. (2020), On Compliance of Cookie Purposes with the Purpose Specification Principle. 2020 International Workshop on Privacy Engineering [IWPE](https://hal.inria.fr/hal-02567022)
 
-2.	Matte C., **Santos C.**, Bielova N. (2020) Purposes in IAB Europe's TCF: which legal basis and how are they used by advertisers? (2020) Annual Privacy Forum [APF]⟨https://hal.inria.fr/hal-02566891⟩
+2.	Matte C., **Santos C.**, Bielova N. (2020) Purposes in IAB Europe's TCF: which legal basis and how are they used by advertisers? (2020) Annual Privacy Forum [APF](https://hal.inria.fr/hal-02566891)
 
 3.	**Santos C** Matte C., Bielova N. (2020) Are Dark Patterns Lawful? Analysis of Dark Patterns applied to Cookie Banner Design and Consent Requirements, abstract accepted, European Privacy Law Scholars Conference [PLSC Europe](https://www.tilburguniversity.edu/research/institutes-and-research-groups/tilt/plsc-europe-2020)
 
-4.	Matte C., Bielova N., **Santos C.** (2019). Do Cookie Banners Respect my Choice? Measuring Legal Compliance of Banners from IAB Europe's Transparency and Consent Framework, accepted to the IEEE Symposium on Security and Privacy. Impact: NOYB issued a complaint to the CNIL using our results and our browser extension.
-Selected media coverage: Lemonde.fr, Businessinsider.fr, Nextinpact.com
+4.	Matte C., Bielova N., **Santos C.** (2019). Do Cookie Banners Respect my Choice? Measuring Legal Compliance of Banners from IAB Europe's Transparency and Consent Framework, [IEEE Symposium on Security and Privacy] (https://arxiv.org/abs/1911.09964). Impact: NOYB issued a complaint to the CNIL using our results and our browser extension. Selected media coverage: Lemonde.fr, Businessinsider.fr, Nextinpact.com
 
-5.	**Santos C.**, Matte C., Bielova N. (2019). A legal-technical approach to compliance with EU laws on cookies, 4th European Privacy Law Scholars Conference (PLSC Europe)
+5.	**Santos C.**, Matte C., Bielova N. (2019). A legal-technical approach to compliance with EU laws on cookies, 4th European Privacy Law Scholars Conference [PLSC Europe](https://www.ivir.nl/plsceurope2019/)
 
-6.	Boniface C., Fouad I., Bielova N., Lauradoux C., **Santos C.** (2019), Security Analysis of Subject Access Request Procedures How to authenticate data subjects safely when they request for their data, Annual Privacy Forum (APF), Jun 2019, Rome, Italy. pp.1-20.
+6.	Boniface C., Fouad I., Bielova N., Lauradoux C., **Santos C.** (2019), Security Analysis of Subject Access Request Procedures How to authenticate data subjects safely when they request for their data, Annual Privacy Forum [APF] (https://hal.inria.fr/hal-02072302/document)
 
 7.	Masseno M. D., **Santos C.** (2019). Personalization and profiling of tourists in smart tourism destinations - a data protection perspective. International Journal of Information Systems and Tourism (IJIST), 4(2), 7-23.
 
