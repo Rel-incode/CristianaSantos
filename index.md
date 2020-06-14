@@ -12,7 +12,7 @@ Data protection and privacy, Legal informatics, AI&Law.
 ### Find me on
 [Email](cristianasantos@protonmail.com), [Twitter](https://twitter.com/cristianapt?lang=en), [LinkedIn](https://www.linkedin.com/in/cristianateixeirasantos/)
 
-## Recent News
+### Recent News
 
 - **Sept 2020** :soon: I will be doing research and teaching in Law and Technology at [University of Utrecht](https://www.uu.nl/en) :bowtie:
 -	**Apr 2020** Our paper on [compliance of cookie purposes](https://hal.inria.fr/hal-02567022/document) was accepted to [IWPE 2020](https://iwpe.info/) ! :raised_hands:
@@ -23,7 +23,7 @@ Data protection and privacy, Legal informatics, AI&Law.
 -	**Sep 2019** Our paper on [a legal-technical approach to compliance with EU laws on cookies](https://arxiv.org/abs/1912.07144) is accepted at [PLSC Europe 2019](https://www.ivir.nl/plsceurope2019/)!
 
 
-## Publications 
+### Publications 
 
 [Google Scholar](https://scholar.google.com/citations?user=IaDvlTwAAAAJ&hl=en), [DBLP](https://dblp.uni-trier.de/pers/hd/s/Santos:Cristiana)
 
@@ -38,7 +38,7 @@ Data protection and privacy, Legal informatics, AI&Law.
 | JURIX | Int. Conf. Legal Knowledge and Information Systems |
 
 
-### Privacy and Data Protection ###
+#### Privacy and Data Protection
 
 1.	Fouad I., **Santos C.**, Kassar F. A., Bielova B., Calzavara S. (2020), On Compliance of Cookie Purposes with the Purpose Specification Principle. International Workshop on Privacy Engineering [IWPE](https://hal.inria.fr/hal-02567022)
 
@@ -64,7 +64,7 @@ Data protection and privacy, Legal informatics, AI&Law.
 
 Submitted journal (under review) **Santos C.**, Bielova N., & Matte C. (2019). Are cookie banners indeed compliant with the law? Deciphering EU legal requirements on consent and technical means to verify compliance of cookie banners. [arXiv preprint] (https://arxiv.org/abs/1912.07144)
 
-### Modeling legal information -- in the domains of data protection and consumer law ###
+#### Modeling legal information -- in the domains of data protection and consumer law 
 
 1.	Bartolini C., Lenzini L., **Santos C.** (2019), An Agile Approach to Validate a Formal Representation of the GDPR, Frontiers in Artificial Intelligence and Applications (FAIA, 2019), Lecture Notes in Computer Science, Springer
 
@@ -110,7 +110,7 @@ Submitted journal (under review) **Santos C.**, Bielova N., & Matte C. (2019). A
 
 22.	**Santos C.** (2013), Increasing media richness in Online Dispute Resolution and the need for personal data protection, Proceedings of the First JURIX Doctoral Consortium Workshop in conjunction with the 26th International Conference on Legal Knowledge and Information Systems, JURIX 2013
 
-### Space Law ###
+#### Space Law
 
 1.	**Santos C.**, Rapp L. Nudging Space – possible Governance for space (accepted to the IAC 2020)
 
@@ -124,7 +124,7 @@ Submitted journal (under review) **Santos C.**, Bielova N., & Matte C. (2019). A
 
 6.	Lucas-Rhimbassen M., **Santos C.**, Rapp L. (2019), Mega constellations – Liability and insurance issues, 70th Int. Astronautical Congress (IAC, 2019) (forthcoming)
 
-## Teaching
+### Teaching
 My teaching experience has been addressed both to law students and non-legal experts in the topics of privacy and data protection, consumer law and space law. 
 
 
