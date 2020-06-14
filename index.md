@@ -9,7 +9,7 @@ I am a legal researcher with interdisciplinary experience in Law&Tech. The goal 
 ### Research Areas
 Data Protection and Privacy, Legal Informatics, AI&Law. 
 
-### Find me on
+### Find me
 [Email](cristianasantos@protonmail.com), [Twitter](https://twitter.com/cristianapt?lang=en), [LinkedIn](https://www.linkedin.com/in/cristianateixeirasantos/)
 
 ### Recent News
