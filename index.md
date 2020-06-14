@@ -1,18 +1,18 @@
 ![Picture](/images/CTS4.jpg)
-## About me 
 
-### What I do 
+## What I do 
 I am a Postdoctoral Researcher in Law and Technology in the [PRIVATICS Team](https://team.inria.fr/privatics/) at [Inria](https://www.inria.fr/en), working with [Nataliia Bielova](http://www-sop.inria.fr/members/Nataliia.Bielova/) and [Cédric Lauradoux](https://planete.inrialpes.fr/~lauradou/). Currently, I am doing research on legal and technical requirements for consent banners, dark patterns, and data subject rights, and I love it! :) I was a lawyer by training and worked at the [Portuguese Consumer Protection Organization-DECO](https://www.deco.proteste.pt/).
 
 ### Profile 
 I am a legal researcher with interdisciplinary experience in Law&Tech. The goal of my research is to make legal information structured and actionable for legal compliance, models and tools. I extract legal requirements from legal sources and collaborate with computer scientists to identify technical requirements for a concrete technology, and to build ontologies. 
 
-**Research areas** - Data protection and privacy, Legal informatics, AI&Law. 
+### Research areas
+Data protection and privacy, Legal informatics, AI&Law. 
 
-**Find me on** [Email](cristianasantos@protonmail.com), [Twitter](https://twitter.com/cristianapt?lang=en), [LinkedIn](https://www.linkedin.com/in/cristianateixeirasantos/)
-----
+**Find me on** 
+[Email](cristianasantos@protonmail.com), [Twitter](https://twitter.com/cristianapt?lang=en), [LinkedIn](https://www.linkedin.com/in/cristianateixeirasantos/)
 
-# Recent News
+## Recent News
 
 - **Sept 2020** :soon: I will be doing research and teaching in Law and Technology at [University of Utrecht](https://www.uu.nl/en) :bowtie:
 -	**Apr 2020** Our paper on [compliance of cookie purposes](https://hal.inria.fr/hal-02567022/document) was accepted to [IWPE 2020](https://iwpe.info/) ! :raised_hands:
@@ -23,7 +23,7 @@ I am a legal researcher with interdisciplinary experience in Law&Tech. The goal 
 -	**Sep 2019** Our paper on [a legal-technical approach to compliance with EU laws on cookies](https://arxiv.org/abs/1912.07144) is accepted at [PLSC Europe 2019](https://www.ivir.nl/plsceurope2019/)!
 
 
-# Publications 
+## Publications 
 
 [Google Scholar](https://scholar.google.com/citations?user=IaDvlTwAAAAJ&hl=en), [DBLP](https://dblp.uni-trier.de/pers/hd/s/Santos:Cristiana)
 
@@ -38,7 +38,7 @@ I am a legal researcher with interdisciplinary experience in Law&Tech. The goal 
 | JURIX | Int. Conf. Legal Knowledge and Information Systems |
 
 
-## Privacy and Data Protection ##
+### Privacy and Data Protection ###
 
 1.	Fouad I., **Santos C.**, Kassar F. A., Bielova B., Calzavara S. (2020), On Compliance of Cookie Purposes with the Purpose Specification Principle. International Workshop on Privacy Engineering [IWPE](https://hal.inria.fr/hal-02567022)
 
