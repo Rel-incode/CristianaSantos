@@ -23,11 +23,11 @@
 
 ##Privacy and Data Protection##
 
-1.	Fouad I., **Santos C.**, Kassar F. A., Bielova B., Calzavara S. (2020), On Compliance of Cookie Purposes with the Purpose Specification Principle. 2020 International Workshop on Privacy Engineering [IWPE]⟨hal-02567022⟩
+1.	Fouad I., **Santos C.**, Kassar F. A., Bielova B., Calzavara S. (2020), On Compliance of Cookie Purposes with the Purpose Specification Principle. 2020 International Workshop on Privacy Engineering [IWPE]⟨https://hal.inria.fr/hal-02567022⟩
 
-2.	Matte C., **Santos C.**, Bielova N. (2020) Purposes in IAB Europe's TCF: which legal basis and how are they used by advertisers? (2020) Annual Privacy Forum (APF), Oct 2020, Lisbon, Portugal. ⟨hal-02566891⟩
+2.	Matte C., **Santos C.**, Bielova N. (2020) Purposes in IAB Europe's TCF: which legal basis and how are they used by advertisers? (2020) Annual Privacy Forum [APF]⟨https://hal.inria.fr/hal-02566891⟩
 
-3.	**Santos C** Matte C., Bielova N. (2020) Are Dark Patterns Lawful? Analysis of Dark Patterns applied to Cookie Banner Design and Consent Requirements, abstract accepted, European Privacy Law Scholars Conference (PLSC Europe)
+3.	**Santos C** Matte C., Bielova N. (2020) Are Dark Patterns Lawful? Analysis of Dark Patterns applied to Cookie Banner Design and Consent Requirements, abstract accepted, European Privacy Law Scholars Conference [PLSC Europe](https://www.tilburguniversity.edu/research/institutes-and-research-groups/tilt/plsc-europe-2020)
 
 4.	Matte C., Bielova N., **Santos C.** (2019). Do Cookie Banners Respect my Choice? Measuring Legal Compliance of Banners from IAB Europe's Transparency and Consent Framework, accepted to the IEEE Symposium on Security and Privacy. Impact: NOYB issued a complaint to the CNIL using our results and our browser extension.
 Selected media coverage: Lemonde.fr, Businessinsider.fr, Nextinpact.com
