@@ -27,6 +27,7 @@ Data Protection and Privacy, Legal Informatics, AI&Law.
 
 [Google Scholar](https://scholar.google.com/citations?user=IaDvlTwAAAAJ&hl=en), [DBLP](https://dblp.uni-trier.de/pers/hd/s/Santos:Cristiana)
 
+I have published 40 papers, some of which are international journals and peer-reviewed conferences. The table below summarizes the most influential publications:
 
 | **Acronym** | **Journals and Conferences** |
 | :---  | :---  |
