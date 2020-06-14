@@ -35,6 +35,7 @@ I have published 40 papers, some of which are international journals and peer-re
 | CLSR | Computer Law & Security Review Journal |
 | APF | Annual Privacy Forum |
 | IPWE | International Workshop on Privacy Engineering |
+| PRIVON | Privacy and the Semantic Web - Policy and Technology |
 | AIL | Artificial Intelligence and Law Journal |
 | JURIX | Int. Conf. Legal Knowledge and Information Systems |
 
@@ -81,9 +82,9 @@ Submitted journal (under review) **Santos C.**, Bielova N., & Matte C. (2019). A
 
 7.	**Santos C.**, Pruski C., Silveira M., Rodríguez-Doncel V., Casanovas P., Van der Torre L., Gangemi A. (2017), Complaint Ontology Pattern, Advances in Ontology Design and Patterns, [ODP](http://ontologydesignpatterns.org/wiki/images/1/16/WOP2016_paper_09.pdf)
 
-8.	**Santos C.**, Rodríguez-Doncel V., Casanovas P., Van der Torre L. (2016), Modeling Relevant Legal Information for Consumer Disputes, Electronic Government and the Information Systems Perspective, 2016 (EGOVIS)
+8.	**Santos C.**, Rodríguez-Doncel V., Casanovas P., Van der Torre L. (2016), Modeling Relevant Legal Information for Consumer Disputes, Electronic Government and the Information Systems Perspective, 2016 [EGOVIS](https://books.google.nl/books?id=dtLMDAAAQBAJ&pg=PA150&lpg=PA150&dq=Modeling+Relevant+Legal+Information+for+Consumer+Disputes,+Electronic+Government+and+the+Information+Systems+Perspective,+2016+(EGOVIS)&source=bl&ots=9TwRC_4RYY&sig=ACfU3U0LTOB_NfChvgJVxL2Dw2Z2wHeRgQ&hl=en&sa=X&ved=2ahUKEwigzeacvYLqAhVC26QKHasZDIcQ6AEwAHoECAkQAQ#v=onepage&q=Modeling%20Relevant%20Legal%20Information%20for%20Consumer%20Disputes%2C%20Electronic%20Government%20and%20the%20Information%20Systems%20Perspective%2C%202016%20(EGOVIS)&f=false)
 
-9.	Casanovas P., Rodríguez-Doncel V., **Santos C.**, Gómez-Pérez A. (2016), A European Framework for Regulating Data and Metadata Markets. Society, Privacy and the Semantic Web - Policy and Technology, 2016 (PrivOn), International Semantic Web Conference (ISWC, 2016) 
+9.	Casanovas P., Rodríguez-Doncel V., **Santos C.**, Gómez-Pérez A. (2016), A European Framework for Regulating Data and Metadata Markets. Society, Privacy and the Semantic Web - Policy and Technology, 2016 [PrivOn](https://dblp.org/db/conf/semweb/privon2016)
 
 10.	**Santos C.**, Casanovas P., Rodríguez-Doncel V., Van der Torre L. (2016), Reuse and Reengineering of Non-ontological Resources in the Legal Domain, AI Approaches to the Complexity of Legal Systems (AICOL)
 
