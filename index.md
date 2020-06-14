@@ -115,7 +115,7 @@ Submitted journal (under review) Santos, C., Bielova, N., & Matte, C. (2019). Ar
 
 6.	Lucas-Rhimbassen M., Santos C., Rapp L. (2019), Mega constellations – Liability and insurance issues, 70th Int. Astronautical Congress (IAC, 2019) (forthcoming)
 
-# Teaching: 
+# Teaching
 My teaching experience has been addressed both to law students and non-legal experts in the topics of privacy and data protection, consumer law and space law. 
 
 
