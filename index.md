@@ -1,6 +1,6 @@
 ![Picture](/images/CTS4.jpg)
 
-### What I do 
+### My work 
 I am a Postdoctoral Researcher in Law and Technology in the [PRIVATICS Team](https://team.inria.fr/privatics/) at [Inria](https://www.inria.fr/en), working with [Nataliia Bielova](http://www-sop.inria.fr/members/Nataliia.Bielova/) and [Cédric Lauradoux](https://planete.inrialpes.fr/~lauradou/). Currently, I am doing research on **legal and technical requirements for consent banners, dark patterns, and data subject rights, and I love it! :)** I was a lawyer by training and worked at the [Portuguese Consumer Protection Organization-DECO](https://www.deco.proteste.pt/).
 
 ### Profile 
@@ -14,7 +14,7 @@ Data protection and privacy, Legal informatics, AI&Law.
 
 ### Recent News
 
-- **Sept 2020** :soon: I will be doing research and teaching in Law and Technology at [University of Utrecht](https://www.uu.nl/en) 
+- **Sept 2020** I will be doing research and teaching in Law and Technology at [University of Utrecht](https://www.uu.nl/en) 
 -	**Apr 2020** Our paper on [compliance of cookie purposes](https://hal.inria.fr/hal-02567022/document) was accepted to [IWPE 2020](https://iwpe.info/) ! 
 - **Mar 2020** Our paper on [purposes in IAB Europe TCF](https://hal.inria.fr/hal-02566891/document) got accepted at [APF 2020](https://privacyforum.eu/)! 
 -	**Feb 2020** We have written [our opinion on the draft recommendation of the CNIL on "cookies and other trackers"](https://hal.inria.fr/hal-02490531/document) 
