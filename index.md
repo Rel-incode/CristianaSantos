@@ -1,5 +1,5 @@
 **Hi! This is Cristiana** 
-![photo](/CTS.jpg)
+![photo]cristianasantos/images/CTS.jpg)
 
 
 # About me 
