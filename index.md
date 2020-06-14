@@ -1,7 +1,7 @@
 ![Picture](/images/CTS4.jpg)
 
 ### What I do 
-I am a Postdoctoral Researcher in Law and Technology in the [PRIVATICS Team](https://team.inria.fr/privatics/) at [Inria](https://www.inria.fr/en), working with [Nataliia Bielova](http://www-sop.inria.fr/members/Nataliia.Bielova/) and [Cédric Lauradoux](https://planete.inrialpes.fr/~lauradou/). Currently, I am doing research on legal and technical requirements for consent banners, dark patterns, and data subject rights, and I love it! :) I was a lawyer by training and worked at the [Portuguese Consumer Protection Organization-DECO](https://www.deco.proteste.pt/).
+I am a Postdoctoral Researcher in Law and Technology in the [PRIVATICS Team](https://team.inria.fr/privatics/) at [Inria](https://www.inria.fr/en), working with [Nataliia Bielova](http://www-sop.inria.fr/members/Nataliia.Bielova/) and [Cédric Lauradoux](https://planete.inrialpes.fr/~lauradou/). Currently, I am doing research on **legal and technical requirements for consent banners, dark patterns, and data subject rights, and I love it! :)** I was a lawyer by training and worked at the [Portuguese Consumer Protection Organization-DECO](https://www.deco.proteste.pt/).
 
 ### Profile 
 I am a legal researcher with interdisciplinary experience in Law&Tech. The goal of my research is to make legal information structured and actionable for legal compliance, models and tools. I extract legal requirements from legal sources and collaborate with computer scientists to identify technical requirements for a concrete technology, and to build ontologies. 
@@ -64,7 +64,7 @@ Data protection and privacy, Legal informatics, AI&Law.
 
 Submitted journal (under review) **Santos C.**, Bielova N., & Matte C. (2019). Are cookie banners indeed compliant with the law? Deciphering EU legal requirements on consent and technical means to verify compliance of cookie banners. [arXiv preprint] (https://arxiv.org/abs/1912.07144)
 
-## Modeling legal information -- in the domains of data protection and consumer law ##
+### Modeling legal information -- in the domains of data protection and consumer law ###
 
 1.	Bartolini C., Lenzini L., **Santos C.** (2019), An Agile Approach to Validate a Formal Representation of the GDPR, Frontiers in Artificial Intelligence and Applications (FAIA, 2019), Lecture Notes in Computer Science, Springer
 
@@ -110,7 +110,7 @@ Submitted journal (under review) **Santos C.**, Bielova N., & Matte C. (2019). A
 
 22.	**Santos C.** (2013), Increasing media richness in Online Dispute Resolution and the need for personal data protection, Proceedings of the First JURIX Doctoral Consortium Workshop in conjunction with the 26th International Conference on Legal Knowledge and Information Systems, JURIX 2013
 
-## Space Law ##
+### Space Law ###
 
 1.	**Santos C.**, Rapp L. Nudging Space – possible Governance for space (accepted to the IAC 2020)
 
@@ -124,7 +124,7 @@ Submitted journal (under review) **Santos C.**, Bielova N., & Matte C. (2019). A
 
 6.	Lucas-Rhimbassen M., **Santos C.**, Rapp L. (2019), Mega constellations – Liability and insurance issues, 70th Int. Astronautical Congress (IAC, 2019) (forthcoming)
 
-# Teaching
+## Teaching
 My teaching experience has been addressed both to law students and non-legal experts in the topics of privacy and data protection, consumer law and space law. 
 
 
