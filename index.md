@@ -1,6 +1,6 @@
 **Hi! This is Cristiana**
 
-### About me :question:
+# About me :question:
 I am a Postdoctoral Researcher in Law and Technology in the [PRIVATICS Team](https://team.inria.fr/privatics/) at [Inria](https://www.inria.fr/en), working with [Nataliia Bielova](http://www-sop.inria.fr/members/Nataliia.Bielova/) and [Cédric Lauradoux](https://planete.inrialpes.fr/~lauradou/). Currently, I am doing research on legal and technical requirements for consent banners, dark patterns, and data subject rights, and I love it! :heart_eyes: I was a lawyer by training and worked at the [Portuguese Consumer Protection Organization-DECO](https://www.deco.proteste.pt/).
 
 **Profile**: I am a legal researcher with interdisciplinary experience in Law and Technology. The goal of my research is to make legal information structured and actionable for legal compliance, models and tools. I extract legal requirements from legal sources and collaborate with computer scientists to identify technical requirements for a concrete technology, and to build ontologies.
@@ -13,7 +13,7 @@ Dissertation: ‘Artificial Intelligence and Online Dispute Resolution’
 
 **Contacts** [Email](cristianasantos@protonmail.com), [Twitter](https://twitter.com/cristianapt?lang=en), [LinkedIn](https://www.linkedin.com/in/cristianateixeirasantos/)
 
-### Recent News
+# Recent News
 
 - **Septb 2020** :soon: I will be doing research and teaching in Law and Technology at [University of Utrecht](https://www.uu.nl/en) :bowtie:
 -	**Apr 2020** Our paper on [compliance of cookie purposes](https://hal.inria.fr/hal-02567022/document) was accepted to [IWPE 2020](https://iwpe.info/) ! :raised_hands:
@@ -24,7 +24,7 @@ Dissertation: ‘Artificial Intelligence and Online Dispute Resolution’
 -	**Sep 2019** Our paper on [a legal-technical approach to compliance with EU laws on cookies](https://arxiv.org/abs/1912.07144) is accepted at [PLSC Europe 2019](https://www.ivir.nl/plsceurope2019/)!
 
 
-### Publications 
+# Publications 
 
 :point_down: [Google Scholar page](https://scholar.google.com/citations?user=IaDvlTwAAAAJ&hl=en), [DBLP](https://dblp.uni-trier.de/pers/hd/s/Santos:Cristiana)
 
@@ -115,7 +115,7 @@ Submitted journal (under review) Santos, C., Bielova, N., & Matte, C. (2019). Ar
 
 6.	Lucas-Rhimbassen M., Santos C., Rapp L. (2019), Mega constellations – Liability and insurance issues, 70th Int. Astronautical Congress (IAC, 2019) (forthcoming)
 
-### Teaching: 
+# Teaching: 
 My teaching experience has been addressed both to law students and non-legal experts in the topics of privacy and data protection, consumer law and space law. 
 
 
