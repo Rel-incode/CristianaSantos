@@ -1,4 +1,4 @@
-![Picture/Hi Here is Cristiana](/images/CTS4.jpg)
+![Picture/Hi! Here is Cristiana](/images/CTS4.jpg)
 
 # About me 
 **What I do** - I am a Postdoctoral Researcher in Law and Technology in the [PRIVATICS Team](https://team.inria.fr/privatics/) at [Inria](https://www.inria.fr/en), working with [Nataliia Bielova](http://www-sop.inria.fr/members/Nataliia.Bielova/) and [Cédric Lauradoux](https://planete.inrialpes.fr/~lauradou/). Currently, I am doing research on legal and technical requirements for consent banners, dark patterns, and data subject rights, and I love it! :) I was a lawyer by training and worked at the [Portuguese Consumer Protection Organization-DECO](https://www.deco.proteste.pt/).
@@ -22,7 +22,7 @@
 
 # Publications 
 
-[Google Scholar page](https://scholar.google.com/citations?user=IaDvlTwAAAAJ&hl=en), [DBLP](https://dblp.uni-trier.de/pers/hd/s/Santos:Cristiana)
+[Google Scholar](https://scholar.google.com/citations?user=IaDvlTwAAAAJ&hl=en), [DBLP](https://dblp.uni-trier.de/pers/hd/s/Santos:Cristiana)
 
 
 | **Acronym** | **Journals and Conferences** |
@@ -37,9 +37,9 @@
 
 ## Privacy and Data Protection ##
 
-1.	Fouad I., **Santos C.**, Kassar F. A., Bielova B., Calzavara S. (2020), On Compliance of Cookie Purposes with the Purpose Specification Principle. 2020 International Workshop on Privacy Engineering [IWPE](https://hal.inria.fr/hal-02567022)
+1.	Fouad I., **Santos C.**, Kassar F. A., Bielova B., Calzavara S. (2020), On Compliance of Cookie Purposes with the Purpose Specification Principle. International Workshop on Privacy Engineering [IWPE](https://hal.inria.fr/hal-02567022)
 
-2.	Matte C., **Santos C.**, Bielova N. (2020) Purposes in IAB Europe's TCF: which legal basis and how are they used by advertisers? (2020) Annual Privacy Forum [APF](https://hal.inria.fr/hal-02566891)
+2.	Matte C., **Santos C.**, Bielova N. (2020) Purposes in IAB Europe's TCF: which legal basis and how are they used by advertisers? Annual Privacy Forum [APF](https://hal.inria.fr/hal-02566891)
 
 3.	**Santos C** Matte C., Bielova N. (2020) Are Dark Patterns Lawful? Analysis of Dark Patterns applied to Cookie Banner Design and Consent Requirements, abstract accepted, European Privacy Law Scholars Conference [PLSC Europe](https://www.tilburguniversity.edu/research/institutes-and-research-groups/tilt/plsc-europe-2020)
 
