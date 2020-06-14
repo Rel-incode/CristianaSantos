@@ -7,18 +7,15 @@ I am a Postdoctoral Researcher in Law and Technology in the [PRIVATICS Team](htt
 
 **Research Areas**: Data protection and privacy law, consumer law. Legal informatics. AI and Law 
 
-**Education**
-
-•*Ph.D. in Law and Legal Informatics*, 2016. Law, Science and Technology, Joint International Doctoral Program [LAST-JD](http://www.last-jd.eu/), Computer Science, Co-tutorship with the Universities of Bologna and Luxembourg.
-Dissertation: [‘Ontologies for Legal Relevance and Complaints’](http://amsdottorato.unibo.it/7804/1/SANTOS_CRISTIANA_tesi.pdf) 
-•*M.Sc. in Law*, 2012. School of Law, University of Minho,
+**Education**:*Ph.D. in Law and Legal Informatics*, 2016. Law, Science and Technology, Joint International Doctoral Program [LAST-JD](http://www.last-jd.eu/), Computer Science, Co-tutorship with the Universities of Bologna and Luxembourg.
+Dissertation: [‘Ontologies for Legal Relevance and Complaints’](http://amsdottorato.unibo.it/7804/1/SANTOS_CRISTIANA_tesi.pdf). *M.Sc. in Law*, 2012. School of Law, University of Minho,
 Dissertation: ‘Artificial Intelligence and Online Dispute Resolution’
 
 **Contacts** [Email](cristianasantos@protonmail.com), [Twitter](https://twitter.com/cristianapt?lang=en), [LinkedIn](https://www.linkedin.com/in/cristianateixeirasantos/)
 
 ### Recent News
 
-•**Septb 2020** I will be doing research and teaching in Law and Technology at [University of Utrecht](https://www.uu.nl/en) 
+• **Septb 2020** I will be doing research and teaching in Law and Technology at [University of Utrecht](https://www.uu.nl/en) 
 
 •	**Apr 2020** Our paper on [compliance of cookie purposes](https://hal.inria.fr/hal-02567022/document) was accepted to [IWPE 2020](https://iwpe.info/) ! 
 
@@ -124,4 +121,12 @@ Submitted journal (under review) Santos, C., Bielova, N., & Matte, C. (2019). Ar
 5.	Lucas-Rhimbassen M., Santos C., Long G. A., Rapp L. (2019). “Conceptual model for a profitable return on investment from space debris as abiotic space resource”, 8th Conf. for Aeronautics and Space Sciences (EUCASS, 2019), 13 
 
 6.	Lucas-Rhimbassen M., Santos C., Rapp L. (2019), Mega constellations – Liability and insurance issues, 70th Int. Astronautical Congress (IAC, 2019) (forthcoming)
+
+### Teaching: 
+My teaching experience has been addressed both to law students and non-legal experts in the topics of privacy and data protection, consumer law and space law. 
+
+
+
+
+
 
