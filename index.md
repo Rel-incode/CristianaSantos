@@ -7,7 +7,10 @@ I am a Postdoctoral Researcher in Law and Technology in the [PRIVATICS Team](htt
 
 **Profile**: I am a legal researcher with interdisciplinary experience in Law and Technology. The goal of my research is to make legal information structured and actionable for legal compliance, models and tools. I extract legal requirements from legal sources and collaborate with computer scientists to identify technical requirements for a concrete technology, and to build ontologies.
 
-**Research Areas**: [x] Data protection and privacy law [x]  Legal informatics [x]  AI and Law 
+**Research**: 
+[x] Data protection and privacy law 
+[x] Legal informatics 
+[x]  AI and Law 
 
 **Contacts** [Email](cristianasantos@protonmail.com), [Twitter](https://twitter.com/cristianapt?lang=en), [LinkedIn](https://www.linkedin.com/in/cristianateixeirasantos/)
 
