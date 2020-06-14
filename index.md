@@ -31,7 +31,7 @@ Data Protection and Privacy, Legal Informatics, AI&Law.
 | **Acronym** | **Journals and Conferences** |
 | :---  | :---  |
 | IEEE S&P | IEEE Symposium on Security & Privacy |
-| CLSR | Computer Law & Security Review |
+| CLSR | Computer Law & Security Review Journal |
 | APF | Annual Privacy Forum |
 | IPWE | International Workshop on Privacy Engineering |
 | AIL | Artificial Intelligence and Law Journal |
