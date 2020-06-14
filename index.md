@@ -25,7 +25,7 @@
 
 
 | **Acronym** | **Journals and Conferences** |
-| --- | --- |
+| :---  | :---  |
 | IEEE S&P | IEEE Symposium on Security & Privacy |
 | CLSR | Computer Law & Security Review |
 | APF | Annual Privacy Forum |
