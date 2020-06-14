@@ -27,9 +27,9 @@
 
 2.	Matte C., **Santos C.**, Bielova N. (2020) Purposes in IAB Europe's TCF: which legal basis and how are they used by advertisers? (2020) Annual Privacy Forum [APF](https://hal.inria.fr/hal-02566891)
 
-3.	**Santos C** Matte C., Bielova N. (2020) Are Dark Patterns Lawful? Analysis of Dark Patterns applied to Cookie Banner Design and Consent Requirements, abstract accepted, European Privacy Law Scholars Conference [PLSC Europe](https://www.tilburguniversity.edu/research/institutes-and-research-groups/tilt/plsc-europe-2020)
+3.	**Santos C** Matte C., Bielova N. (2020) Are Dark Patterns Lawful? Analysis of Dark Patterns applied to Cookie Banner Design and Consent Requirements, abstract accepted, European Privacy Law Scholars Conference [PLSC Europe (https://www.tilburguniversity.edu/research/institutes-and-research-groups/tilt/plsc-europe-2020)
 
-4.	Matte C., Bielova N., **Santos C.** (2019). Do Cookie Banners Respect my Choice? Measuring Legal Compliance of Banners from IAB Europe's Transparency and Consent Framework, [IEEE Symposium on Security and Privacy] (https://arxiv.org/abs/1911.09964). Impact: NOYB issued a complaint to the CNIL using our results and our browser extension. Selected media coverage: Lemonde.fr, Businessinsider.fr, Nextinpact.com
+4.	Matte C., Bielova N., **Santos C.** (2019). Do Cookie Banners Respect my Choice? Measuring Legal Compliance of Banners from IAB Europe's Transparency and Consent Framework, [IEEE Symposium on Security and Privacy](https://arxiv.org/abs/1911.09964). Impact: NOYB issued a complaint to the CNIL using our results and our browser extension. Selected media coverage: Lemonde.fr, Businessinsider.fr, Nextinpact.com
 
 5.	**Santos C.**, Matte C., Bielova N. (2019). A legal-technical approach to compliance with EU laws on cookies, 4th European Privacy Law Scholars Conference [PLSC Europe](https://www.ivir.nl/plsceurope2019/)
 
