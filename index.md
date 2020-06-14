@@ -1,6 +1,6 @@
 Hi! This is Cristiana. 
 
-![GitHub Logo](/images/logo.png)
+![Cristiana](/images/logo.png)
 Format: ![Alt Text](url)
 
 ### About me :question:
@@ -18,13 +18,13 @@ Dissertation: ‘Artificial Intelligence and Online Dispute Resolution’
 
 ### Recent News
 
-• **Septb 2020** I will be doing research and teaching in Law and Technology at [University of Utrecht](https://www.uu.nl/en) :bowtie:
+• **Septb 2020** :soon: I will be doing research and teaching in Law and Technology at [University of Utrecht](https://www.uu.nl/en) :bowtie:
 
-•	**Apr 2020** Our paper on [compliance of cookie purposes](https://hal.inria.fr/hal-02567022/document) was accepted to [IWPE 2020](https://iwpe.info/) ! 
+•	**Apr 2020** Our paper on [compliance of cookie purposes](https://hal.inria.fr/hal-02567022/document) was accepted to [IWPE 2020](https://iwpe.info/) ! :raised_hands:
 
 •	**Mar 2020** Our paper on [purposes in IAB Europe TCF](https://hal.inria.fr/hal-02566891/document) got accepted at [APF 2020](https://privacyforum.eu/)! 
 
-•	**Feb 2020** We have written [our opinion on the draft recommendation of the CNIL on "cookies and other trackers"](https://hal.inria.fr/hal-02490531/document)
+•	**Feb 2020** We have written [our opinion on the draft recommendation of the CNIL on "cookies and other trackers"](https://hal.inria.fr/hal-02490531/document) :clap:
 
 •	**Feb 2020** Our paper on [cookie banners](https://www-sop.inria.fr/members/Nataliia.Bielova/cookiebanners/) got accepted at [IEEE Security & Privacy 2020](https://www.ieee-security.org/TC/SP2020/)!
 
@@ -111,7 +111,7 @@ Submitted journal (under review) Santos, C., Bielova, N., & Matte, C. (2019). Ar
 
 22.	Santos C. (2013), Increasing media richness in Online Dispute Resolution and the need for personal data protection, Proceedings of the First JURIX Doctoral Consortium Workshop in conjunction with the 26th International Conference on Legal Knowledge and Information Systems, JURIX 2013, Bologna, CEUR Workshop Proceedings 1105.
 
-**Space Law**
+**Space Law** :sparkles:
 
 1.	Santos C., Rapp L. Nudging Space – possible Governance for space (accepted to the IAC 2020)
 
