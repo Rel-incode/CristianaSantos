@@ -23,7 +23,7 @@
 
 ##Privacy and Data Protection##
 
-1.	Fouad I., **Santos C.**, Kassar F. A., Bielova B., Calzavara S. (2020), On Compliance of Cookie Purposes with the Purpose Specification Principle. 2020 International Workshop on Privacy Engineering (IWPE), Jul 2020, Genova, Italy. ⟨hal-02567022⟩
+1.	Fouad I., **Santos C.**, Kassar F. A., Bielova B., Calzavara S. (2020), On Compliance of Cookie Purposes with the Purpose Specification Principle. 2020 International Workshop on Privacy Engineering [IWPE]⟨hal-02567022⟩
 
 2.	Matte C., **Santos C.**, Bielova N. (2020) Purposes in IAB Europe's TCF: which legal basis and how are they used by advertisers? (2020) Annual Privacy Forum (APF), Oct 2020, Lisbon, Portugal. ⟨hal-02566891⟩
 
