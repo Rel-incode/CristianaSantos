@@ -1,7 +1,4 @@
-Hi! This is Cristiana. 
-
-![Cristiana](/images/logo.png)
-Format: ![Alt Text](url)
+Hi! This is Cristiana
 
 ### About me :question:
 I am a Postdoctoral Researcher in Law and Technology in the [PRIVATICS Team](https://team.inria.fr/privatics/) at [Inria](https://www.inria.fr/en), working with [Nataliia Bielova](http://www-sop.inria.fr/members/Nataliia.Bielova/) and [Cédric Lauradoux](https://planete.inrialpes.fr/~lauradou/). Currently, I am doing research on legal and technical requirements for consent banners, dark patterns, and data subject rights, and I love it! :heart_eyes: I was a lawyer by training and worked at the [Portuguese Consumer Protection Organization-DECO](https://www.deco.proteste.pt/).
@@ -18,20 +15,13 @@ Dissertation: ‘Artificial Intelligence and Online Dispute Resolution’
 
 ### Recent News
 
-• **Septb 2020** :soon: I will be doing research and teaching in Law and Technology at [University of Utrecht](https://www.uu.nl/en) :bowtie:
-
-•	**Apr 2020** Our paper on [compliance of cookie purposes](https://hal.inria.fr/hal-02567022/document) was accepted to [IWPE 2020](https://iwpe.info/) ! :raised_hands:
-
-•	**Mar 2020** Our paper on [purposes in IAB Europe TCF](https://hal.inria.fr/hal-02566891/document) got accepted at [APF 2020](https://privacyforum.eu/)! 
-
-•	**Feb 2020** We have written [our opinion on the draft recommendation of the CNIL on "cookies and other trackers"](https://hal.inria.fr/hal-02490531/document) :clap:
-
-•	**Feb 2020** Our paper on [cookie banners](https://www-sop.inria.fr/members/Nataliia.Bielova/cookiebanners/) got accepted at [IEEE Security & Privacy 2020](https://www.ieee-security.org/TC/SP2020/)!
-
-•	**Sep 2019** Our paper the analysis of dark patterns applied to cookie banner design and consent requirements is accepted at [PLSC-E 2020](https://www.tilburguniversity.edu/research/institutes-and-research-groups/tilt/plsc-europe-2020)! 
-
-•	**Sep 2019** Our paper on [a legal-technical approach to compliance with EU laws on cookies](https://arxiv.org/abs/1912.07144) is accepted at [PLSC Europe 2019](https://www.ivir.nl/plsceurope2019/)!
-
+- **Septb 2020** :soon: I will be doing research and teaching in Law and Technology at [University of Utrecht](https://www.uu.nl/en) :bowtie:
+-	**Apr 2020** Our paper on [compliance of cookie purposes](https://hal.inria.fr/hal-02567022/document) was accepted to [IWPE 2020](https://iwpe.info/) ! :raised_hands:
+- **Mar 2020** Our paper on [purposes in IAB Europe TCF](https://hal.inria.fr/hal-02566891/document) got accepted at [APF 2020](https://privacyforum.eu/)! 
+-	**Feb 2020** We have written [our opinion on the draft recommendation of the CNIL on "cookies and other trackers"](https://hal.inria.fr/hal-02490531/document) :clap:
+-	**Feb 2020** Our paper on [cookie banners](https://www-sop.inria.fr/members/Nataliia.Bielova/cookiebanners/) got accepted at [IEEE Security & Privacy 2020](https://www.ieee-security.org/TC/SP2020/)!
+-	**Sep 2019** Our paper the analysis of dark patterns applied to cookie banner design and consent requirements is accepted at [PLSC-E 2020](https://www.tilburguniversity.edu/research/institutes-and-research-groups/tilt/plsc-europe-2020)! 
+-	**Sep 2019** Our paper on [a legal-technical approach to compliance with EU laws on cookies](https://arxiv.org/abs/1912.07144) is accepted at [PLSC Europe 2019](https://www.ivir.nl/plsceurope2019/)!
 
 
 ### Publications 
