@@ -1,5 +1,8 @@
 Hi! This is Cristiana. 
 
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
 ### About me: 
 I am a Postdoctoral Researcher in Law and Technology in the [PRIVATICS Team](https://team.inria.fr/privatics/) at [Inria](https://www.inria.fr/en), working with [Nataliia Bielova](http://www-sop.inria.fr/members/Nataliia.Bielova/) and [Cédric Lauradoux](https://planete.inrialpes.fr/~lauradou/). Currently, I am doing research on legal and technical requirements for consent banners, dark patterns, and data subject rights, and I love it! :) I was a lawyer by training and worked at the [Portuguese Consumer Protection Organization-DECO](https://www.deco.proteste.pt/).
 
@@ -15,7 +18,7 @@ Dissertation: ‘Artificial Intelligence and Online Dispute Resolution’
 
 ### Recent News
 
-• **Septb 2020** I will be doing research and teaching in Law and Technology at [University of Utrecht](https://www.uu.nl/en) 
+• **Septb 2020** I will be doing research and teaching in Law and Technology at [University of Utrecht](https://www.uu.nl/en) :bowtie:
 
 •	**Apr 2020** Our paper on [compliance of cookie purposes](https://hal.inria.fr/hal-02567022/document) was accepted to [IWPE 2020](https://iwpe.info/) ! 
 
