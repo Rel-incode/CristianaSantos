@@ -7,7 +7,7 @@
 **Research areas** - Data protection and privacy, Legal informatics, AI&Law. 
 
 **Find me on** [Email](cristianasantos@protonmail.com), [Twitter](https://twitter.com/cristianapt?lang=en), [LinkedIn](https://www.linkedin.com/in/cristianateixeirasantos/)
-
+----
 
 # Recent News
 
