@@ -1,5 +1,4 @@
 **Hi! This is Cristiana** 
-![LinkedIn](/images/logo.png) 
 ![photo](/CTS.jpg)
 
 
