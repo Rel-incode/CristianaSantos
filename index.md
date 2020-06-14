@@ -8,7 +8,6 @@
 **Find me on** [Email](cristianasantos@protonmail.com), [Twitter](https://twitter.com/cristianapt?lang=en), [LinkedIn](https://www.linkedin.com/in/cristianateixeirasantos/)
 
 
-
 # Recent News
 
 - **Sept 2020** :soon: I will be doing research and teaching in Law and Technology at [University of Utrecht](https://www.uu.nl/en) :bowtie:
@@ -22,7 +21,18 @@
 
 # Publications 
 
-:point_down: [Google Scholar page](https://scholar.google.com/citations?user=IaDvlTwAAAAJ&hl=en), [DBLP](https://dblp.uni-trier.de/pers/hd/s/Santos:Cristiana)
+[Google Scholar page](https://scholar.google.com/citations?user=IaDvlTwAAAAJ&hl=en), [DBLP](https://dblp.uni-trier.de/pers/hd/s/Santos:Cristiana)
+
+
+| Acronym | Journals and Conferences |
+| --- | --- |
+| IEEE S&P | IEEE Symposium on Security & Privacy |
+| CLSR | Computer Law & Security Review |
+| APF | Annual Privacy Forum |
+| IPWE | International Workshop on Privacy Engineering |
+| AIL | Artificial Intelligence and Law Journal |
+| JURIX | Int. Conf. Legal Knowledge and Information Systems |
+
 
 ## Privacy and Data Protection ##
 
