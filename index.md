@@ -48,13 +48,13 @@
 
 6.	Boniface C., Fouad I., Bielova N., Lauradoux C., **Santos C.** (2019), Security Analysis of Subject Access Request Procedures How to authenticate data subjects safely when they request for their data, Annual Privacy Forum [APF](https://hal.inria.fr/hal-02072302/document)
 
-7.	Masseno M. D., **Santos C.** (2019). Personalization and profiling of tourists in smart tourism destinations - a data protection perspective. International Journal of Information Systems and Tourism (IJIST), 4(2), 7-23.
+7.	Masseno M. D., **Santos C.** (2019). Personalization and profiling of tourists in smart tourism destinations - a data protection perspective. International Journal of Information Systems and Tourism (IJIST)
 
-8.	Masseno M.D., Santos, C. (2018), Between Footprints: Balancing Environmental Sustainability and Privacy in Smart Tourism Destinations (Special Article), in United world Law Journal, v. 1, Issue II, pp. 96-118 (ISSN: 2457-0427)
+8.	Masseno M.D., Santos, C. (2018), Between Footprints: Balancing Environmental Sustainability and Privacy in Smart Tourism Destinations (Special Article), United world Law Journal
 
-9.	Masseno M.D., **Santos C.** (2018), Assuring Privacy and Data Protection within the Framework of Smart Tourism Destinations. In MediaLaws - Rivista di Diritto dei Media, 2/2018, pp. 251-266, ISSN 2532-9146
+9.	Masseno M.D., **Santos C.** (2018), Assuring Privacy and Data Protection within the Framework of Smart Tourism Destinations. In MediaLaws - Rivista di Diritto dei Media
 
-10.	Masseno M.D., **Santos C.** (2018), Privacy and Data Protection Issues on Smart Tourism Destinations – A First Approach, in I. Chatzigiannakis et al. (Eds.). Intelligent Environments (IE, 2018). Amsterdam: IOS Press, p. 298-307.
+10.	Masseno M.D., **Santos C.** (2018), Privacy and Data Protection Issues on Smart Tourism Destinations – A First Approach, in I. Chatzigiannakis et al. (Eds.). Intelligent Environments (IE, 2018)
 
 11.	Bartolini C., **Santos C.**, Ullrich C., (2017), Property and the Cloud, Computer Law and Security Review [CLSR](https://doi.org/10.1016/j.clsr.2017.10.005)
 
@@ -66,7 +66,7 @@ Submitted journal (under review) **Santos C.**, Bielova N., & Matte C. (2019). A
 
 2.	Bartolini C., Lenzini L., **Santos C.** (2018), A Legal Validation of a Formal Representation of Articles of the GDPR, Proceedings of the 2nd Workshop on Technologies for Regulatory Compliance [TERECOM 2018](http://ceur-ws.org/Vol-2309)
 
-3.	Rodriguez-Doncel V., **Santos C.**, Casanovas P., Gómez-Pérez A., Gracia J. (2018) A Linked Data Terminology for Copyright Based on Ontolex-Lemon. In: Pagallo U., Palmirani M., Casanovas P., Sartor G., Villata S. (eds) AI Approaches to the Complexity of Legal Systems (AICOL 2015-AICOL 2017). Lecture Notes in Computer Science, vol 10791. Springer
+3.	Rodriguez-Doncel V., **Santos C.**, Casanovas P., Gómez-Pérez A., Gracia J. (2018) A Linked Data Terminology for Copyright Based on Ontolex-Lemon. AI Approaches to the Complexity of Legal Systems (AICOL 2015-AICOL 2017)
 
 4.	Navas-Loro M., **Santos C.** (2018), Events in the legal domain – first impressions.  Proceedings of the 2nd Workshop on Technologies for Regulatory Compliance [TERECOM 2018](http://ceur-ws.org/Vol-2309/)
 
@@ -76,9 +76,9 @@ Submitted journal (under review) **Santos C.**, Bielova N., & Matte C. (2019). A
 
 7.	**Santos C.**, Pruski C., Silveira M., Rodríguez-Doncel V., Casanovas P., Van der Torre L., Gangemi A. (2017), Complaint Ontology Pattern, Advances in Ontology Design and Patterns, [ODP](http://ontologydesignpatterns.org/wiki/images/1/16/WOP2016_paper_09.pdf)
 
-8.	**Santos C.**, Rodríguez-Doncel V., Casanovas P., Van der Torre L. (2016), Modeling Relevant Legal Information for Consumer Disputes, In: Kő A., Francesconi E. (eds) Electronic Government and the Information Systems Perspective, 2016 (EGOVIS). Lecture Notes in Computer Science, v. 9831. Springer, DOI 10.1007/978-3-319-44159-7_11
+8.	**Santos C.**, Rodríguez-Doncel V., Casanovas P., Van der Torre L. (2016), Modeling Relevant Legal Information for Consumer Disputes, Electronic Government and the Information Systems Perspective, 2016 (EGOVIS)
 
-9.	Casanovas P., Rodríguez-Doncel V., **Santos C.**, Gómez-Pérez A. (2016), A European Framework for Regulating Data and Metadata Markets. Society, Privacy and the Semantic Web - Policy and Technology, 2016 (PrivOn), International Semantic Web Conference (ISWC) 2016, October 17th-21st, 2016, Japan.
+9.	Casanovas P., Rodríguez-Doncel V., **Santos C.**, Gómez-Pérez A. (2016), A European Framework for Regulating Data and Metadata Markets. Society, Privacy and the Semantic Web - Policy and Technology, 2016 (PrivOn), International Semantic Web Conference (ISWC, 2016) 
 
 10.	**Santos C.**, Casanovas P., Rodríguez-Doncel V., Van der Torre L. (2016), Reuse and Reengineering of Non-ontological Resources in the Legal Domain, AI Approaches to the Complexity of Legal Systems (AICOL)
 
@@ -88,7 +88,7 @@ Submitted journal (under review) **Santos C.**, Bielova N., & Matte C. (2019). A
 
 13.	Humphreys L., **Santos C.**, Di Caro L., Boella G., van der Torre L., Robaldo L. (2015), Mapping Recitals to Normative Provisions in EU Legislation to Assist Legal Interpretation, in  Frontiers in Artificial Intelligence and Applications (FAIA, 2015)
 
-14.	Rodriguez-Doncel V., Casanovas P., **Santos C.**, Gómez-Pérez A. (2015), A Linked Term Bank of Copyright-Related Terms, in Frontiers in Artificial Intelligence and Applications (FAIA, 2015), v.  279, Legal Knowledge and Information Systems
+14.	Rodriguez-Doncel V., Casanovas P., **Santos C.**, Gómez-Pérez A. (2015), A Linked Term Bank of Copyright-Related Terms, in Frontiers in Artificial Intelligence and Applications (FAIA, 2015)
 
 15.	Bartolini C., Muthuri R., **Santos C.** (2015), Using ontologies to model data protection requirements in workflows, Proc. of the 9th Int. Work. on Juris-informatics (JURISIN, 2015), New Frontiers in Artificial Intelligence. JSAI-isAI 2015. Lecture Notes in Computer Science,
 
@@ -110,13 +110,13 @@ Submitted journal (under review) **Santos C.**, Bielova N., & Matte C. (2019). A
 
 1.	**Santos C.**, Rapp L. Nudging Space – possible Governance for space (accepted to the IAC 2020)
 
-2.	**Santos C.**, Lucas-Rhimbassen M., Rapp L. (2020), Revisiting Liability and Insurance in the Age of Mega-constellations, Space Policy Journal, Elsevier (forthcoming) 
+2.	**Santos C.**, Lucas-Rhimbassen M., Rapp L. (2020), Revisiting Liability and Insurance in the Age of Mega-constellations, Space Policy Journal (forthcoming) 
 
-3.	**Santos C.**, Rapp L. (2019), Satellite Imagery, High Resolution and Potential Identification of Individuals under the GDPR, Air and Space Law Journal, vol. 44, Issue 3, pp. 275–296, Kluwer Law International 
+3.	**Santos C.**, Rapp L. (2019), Satellite Imagery, High Resolution and Potential Identification of Individuals under the GDPR, Air and Space Law Journal 
 
-4.	**Santos C.**, Miramont D., Rapp L. (2019), High Resolution Satellite Imagery and Potential Identification of Individuals, P. Soille, S. Loekken, and S. Albani (Eds.) Proc. of the 2019 conference on Big Data from Space (BiDS’2019), EUR 29660 EN, Publications Office of the European Union, Luxembourg, 2019, p.237-240, doi:10.2760/848593
+4.	**Santos C.**, Miramont D., Rapp L. (2019), High Resolution Satellite Imagery and Potential Identification of Individuals, Proc. of the 2019 conference on Big Data from Space (BiDS’2019)
 
-5.	Lucas-Rhimbassen M., **Santos C.**, Long G. A., Rapp L. (2019). “Conceptual model for a profitable return on investment from space debris as abiotic space resource”, 8th Conf. for Aeronautics and Space Sciences (EUCASS, 2019), 13 
+5.	Lucas-Rhimbassen M., **Santos C.**, Long G. A., Rapp L. (2019). “Conceptual model for a profitable return on investment from space debris as abiotic space resource”, 8th Conf. for Aeronautics and Space Sciences (EUCASS, 2019)
 
 6.	Lucas-Rhimbassen M., **Santos C.**, Rapp L. (2019), Mega constellations – Liability and insurance issues, 70th Int. Astronautical Congress (IAC, 2019) (forthcoming)
 
