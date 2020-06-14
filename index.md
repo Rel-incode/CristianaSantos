@@ -1,4 +1,4 @@
-Hi! This is Cristiana
+**Hi! This is Cristiana**
 
 ### About me :question:
 I am a Postdoctoral Researcher in Law and Technology in the [PRIVATICS Team](https://team.inria.fr/privatics/) at [Inria](https://www.inria.fr/en), working with [Nataliia Bielova](http://www-sop.inria.fr/members/Nataliia.Bielova/) and [Cédric Lauradoux](https://planete.inrialpes.fr/~lauradou/). Currently, I am doing research on legal and technical requirements for consent banners, dark patterns, and data subject rights, and I love it! :heart_eyes: I was a lawyer by training and worked at the [Portuguese Consumer Protection Organization-DECO](https://www.deco.proteste.pt/).
@@ -26,7 +26,7 @@ Dissertation: ‘Artificial Intelligence and Online Dispute Resolution’
 
 ### Publications 
 
-:point_down: [Google Scholar page](https://scholar.google.com/citations?user=IaDvlTwAAAAJ&hl=en) [DBLP](https://dblp.uni-trier.de/pers/hd/s/Santos:Cristiana)
+:point_down: [Google Scholar page](https://scholar.google.com/citations?user=IaDvlTwAAAAJ&hl=en), [DBLP](https://dblp.uni-trier.de/pers/hd/s/Santos:Cristiana)
 
 **Privacy and Data Protection**
 
