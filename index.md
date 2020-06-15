@@ -14,7 +14,6 @@ Data Protection and Privacy, Legal Informatics, AI&Law.
 
 ### Recent News
 
-- **Sept 2020** I will be doing research and teaching in Law and Technology at [University of Utrecht](https://www.uu.nl/en) 
 -	**Apr 2020** Our paper on [compliance of cookie purposes](https://hal.inria.fr/hal-02567022/document) was accepted to [IWPE 2020](https://iwpe.info/) ! 
 - **Mar 2020** Our paper on [purposes in IAB Europe TCF](https://hal.inria.fr/hal-02566891/document) got accepted at [APF 2020](https://privacyforum.eu/)! 
 -	**Feb 2020** We have written [our opinion on the draft recommendation of the CNIL on "cookies and other trackers"](https://hal.inria.fr/hal-02490531/document) 
