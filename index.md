@@ -130,8 +130,11 @@ My teaching experience has been addressed both to **law students** and **non-leg
 
 ### Service
 [PETS](https://petsymposium.org/index.php) 2020 – Privacy Enhancing Technologies Symposium
+
 [MIREL](https://www.mirelproject.eu/) 2016, 2019 – Workshop on Mining and Reasoning with Legal texts
+
 [LIIE](https://liie2020.weebly.com/) 2016, 2020 – Workshop on Legal Issues in Intelligent Environments
+
 [TERECOM](http://terecom2017.lynx-project.eu/) 2017, 2018 – Workshop on Technologies for Regulatory Compliance
 
 
