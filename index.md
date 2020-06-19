@@ -129,13 +129,13 @@ Submitted journal (under review) **Santos C.**, Bielova N., & Matte C. (2019). A
 My teaching experience has been addressed both to **law students** and **non-legal experts** in the topics of privacy and data protection, consumer law and space law. 
 
 ### Service
--[PETS](https://petsymposium.org/index.php) 2020 – Privacy Enhancing Technologies Symposium
+[PETS](https://petsymposium.org/index.php) 2020 – Privacy Enhancing Technologies Symposium
 
--[MIREL](https://www.mirelproject.eu/) 2016, 2019 – Workshop on Mining and Reasoning with Legal texts
+[MIREL](https://www.mirelproject.eu/) 2016, 2019 – Workshop on Mining and Reasoning with Legal texts
 
--[LIIE](https://liie2020.weebly.com/) 2016, 2020 – Workshop on Legal Issues in Intelligent Environments
+[LIIE](https://liie2020.weebly.com/) 2016, 2020 – Workshop on Legal Issues in Intelligent Environments
 
--[TERECOM](http://terecom2017.lynx-project.eu/) 2017, 2018 – Workshop on Technologies for Regulatory Compliance
+[TERECOM](http://terecom2017.lynx-project.eu/) 2017, 2018 – Workshop on Technologies for Regulatory Compliance
 
 
 
