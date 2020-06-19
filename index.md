@@ -13,9 +13,6 @@ I am a legal researcher with interdisciplinary experience in Law&Tech. The goal 
 ### Research Areas
 Data Protection and Privacy, Legal Informatics, AI&Law. 
 
-### Find me
-[Email](cristianasantos@protonmail.com), [Twitter](https://twitter.com/cristianapt?lang=en), [LinkedIn](https://www.linkedin.com/in/cristianateixeirasantos/)
-
 ### Recent News
 
 -	**Apr 2020** Our paper on [compliance of cookie purposes](https://hal.inria.fr/hal-02567022/document) was accepted to [IWPE 2020](https://iwpe.info/) ! 
@@ -141,6 +138,13 @@ My teaching experience has been addressed both to **law students** and **non-leg
 [LIIE](https://liie2020.weebly.com/) 2016, 2020 – Workshop on Legal Issues in Intelligent Environments
 
 [TERECOM](http://terecom2017.lynx-project.eu/) 2017, 2018 – Workshop on Technologies for Regulatory Compliance
+
+
+### Find me
+[Email](cristianasantos@protonmail.com), [Twitter](https://twitter.com/Cristianapt), [LinkedIn](https://www.linkedin.com/in/cristianateixeirasantos/)
+
+
+
 
 
 
