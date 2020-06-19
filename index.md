@@ -26,7 +26,8 @@ Data Protection and Privacy, Legal Informatics, AI&Law.
 
 [Google Scholar](https://scholar.google.com/citations?user=IaDvlTwAAAAJ&hl=en), [DBLP](https://dblp.uni-trier.de/pers/hd/s/Santos:Cristiana)
 
-I have published 40 papers, some of which are international journals and peer-reviewed conferences. The table below summarizes the most influential publications:
+I have published 40 papers in the topics of [Privacy and Data Protection](https://rel-incode.github.io/cristianasantos/#privacy-and-data-protection), [Modeling legal information in Data Protection and Consumer Law], and [Space Law](https://rel-incode.github.io/cristianasantos/#space-law). 
+The table below summarizes the most influential publications:
 
 | **Acronym** | **Journals and Conferences** |
 | :---  | :---  |
