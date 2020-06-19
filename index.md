@@ -5,7 +5,6 @@
 **[Teaching](https://rel-incode.github.io/cristianasantos/#teaching)**,
 **[Contact](https://rel-incode.github.io/cristianasantos/#contact)**
 
-### Work 
 I am a Postdoctoral Researcher in Law and Technology in the [PRIVATICS Team](https://team.inria.fr/privatics/) at [Inria](https://www.inria.fr/en), working with [Nataliia Bielova](http://www-sop.inria.fr/members/Nataliia.Bielova/) and [Cédric Lauradoux](https://planete.inrialpes.fr/~lauradou/). Currently, I am doing research on **legal and technical requirements for consent banners, dark patterns, and data subject rights, and I love it! :)** Previously, I was a lawyer and worked as legal adviser and lecturer at the [Portuguese Consumer Protection Organization-DECO](https://www.deco.proteste.pt/).
 
 ### Research Profile 
