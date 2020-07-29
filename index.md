@@ -12,7 +12,7 @@ The goal of my research is to make legal information structured and actionable f
 
 ### Recent News
 
--**Jul 2020**  We were interviewed by the [CNIL, French DPA](https://linc.cnil.fr/celestin-matte-cristiana-santos-and-nataliia-bielova-not-every-cookie-banner-respects-users-choice) about our work on use's consent by the IAB Europe’s Transparency and Consent Framework (TCF)
+- **Jul 2020**  We were interviewed by the [CNIL, French DPA](https://linc.cnil.fr/celestin-matte-cristiana-santos-and-nataliia-bielova-not-every-cookie-banner-respects-users-choice) about our work on user's consent by the IAB Europe’s Transparency and Consent Framework (TCF)
 - **Jul 2020** Our talk "I see a cookie banner -- is it even legal?" is a runner-up for the Best HotPETs talk! See it on [Youtube](https://www.youtube.com/watch?v=zuzRvpq7rb0)!
 -	**Apr 2020** Our paper on [compliance of cookie purposes](https://hal.inria.fr/hal-02567022/document) was accepted to [IWPE 2020](https://iwpe.info/) ! 
 - **Mar 2020** Our paper on [purposes in IAB Europe TCF](https://hal.inria.fr/hal-02566891/document) got accepted at [APF 2020](https://privacyforum.eu/)! 
