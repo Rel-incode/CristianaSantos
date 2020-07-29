@@ -5,13 +5,14 @@
 **[Teaching](https://rel-incode.github.io/cristianasantos/#teaching)**,
 **[Contact](https://rel-incode.github.io/cristianasantos/#contact)**
 
-I am a Postdoctoral Researcher in Law and Technology in the [PRIVATICS Team](https://team.inria.fr/privatics/) at [Inria](https://www.inria.fr/en), working with [Nataliia Bielova](http://www-sop.inria.fr/members/Nataliia.Bielova/) and [Cédric Lauradoux](https://planete.inrialpes.fr/~lauradou/). Currently, I am doing research on **legal and technical requirements for consent banners, dark patterns, and data subject rights, and I love it! :)** Previously, I was a lawyer and worked as legal adviser and lecturer at the [Portuguese Consumer Protection Organization-DECO](https://www.deco.proteste.pt/).
+I am a Postdoctoral Researcher in Law and Technology in the [PRIVATICS Team](https://team.inria.fr/privatics/) at [Inria](https://www.inria.fr/en), working with [Nataliia Bielova](http://www-sop.inria.fr/members/Nataliia.Bielova/) and [Cédric Lauradoux](https://planete.inrialpes.fr/~lauradou/). Currently, I am doing research on **legal and technical requirements for consent banners, dark patterns, and data subject rights, and I love it!** Previously, I was a lawyer and worked as legal adviser and lecturer at the [Portuguese Consumer Protection Organization-DECO](https://www.deco.proteste.pt/).
 
 ### Research Profile 
 The goal of my research is to make legal information structured and actionable for **legal compliance**, for models and tools. I extract legal requirements from legal sources. With this domain knowledge, I collaborate with computer scientists to both identify the technical requirements for a concrete technology, and to build ontologies. My research areas are Data Protection and Privacy, Legal Informatics, AI&Law. 
 
 ### Recent News
 
+-**Jul 2020**  We were interviewed by the [CNIL](https://linc.cnil.fr/celestin-matte-cristiana-santos-and-nataliia-bielova-not-every-cookie-banner-respects-users-choice) about our work on use's consent by the IAB Europe’s Transparency and Consent Framework (TCF)
 - **Jul 2020** Our talk "I see a cookie banner -- is it even legal?" is a runner-up for the Best HotPETs talk! See it on [Youtube](https://www.youtube.com/watch?v=zuzRvpq7rb0)!
 -	**Apr 2020** Our paper on [compliance of cookie purposes](https://hal.inria.fr/hal-02567022/document) was accepted to [IWPE 2020](https://iwpe.info/) ! 
 - **Mar 2020** Our paper on [purposes in IAB Europe TCF](https://hal.inria.fr/hal-02566891/document) got accepted at [APF 2020](https://privacyforum.eu/)! 
