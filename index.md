@@ -1,7 +1,9 @@
 ![Picture](/images/CTS4.jpg)
 
 **[Publications](https://rel-incode.github.io/cristianasantos/#publications)** 
-in [Privacy and Data Protection](https://rel-incode.github.io/cristianasantos/#privacy-and-data-protection), [Legal informatics and Data Protection and Consumer Law](https://rel-incode.github.io/cristianasantos/#modeling-legal-information--in-the-domains-of-data-protection-and-consumer-law), and [Space Law](https://rel-incode.github.io/cristianasantos/#space-law).  **[Service](https://rel-incode.github.io/cristianasantos/#service)**, **[Teaching](https://rel-incode.github.io/cristianasantos/#teaching)**, **[Contact](https://rel-incode.github.io/cristianasantos/#contact)**
+in [Privacy and Data Protection](https://rel-incode.github.io/cristianasantos/#privacy-and-data-protection), [Legal informatics and Data Protection and Consumer Law](https://rel-incode.github.io/cristianasantos/#modeling-legal-information--in-the-domains-of-data-protection-and-consumer-law), and [Space Law](https://rel-incode.github.io/cristianasantos/#space-law)
+
+**[Contact](https://rel-incode.github.io/cristianasantos/#contact)**
 
 I am [Lecturer and researcher](https://www.uu.nl/staff/CTeixeiraSantos) at the School of Law, Utrecht University, and work on **Law and Technology**. 
 I also collaborate with [Nataliia Bielova](http://www-sop.inria.fr/members/Nataliia.Bielova/) and [Cédric Lauradoux](https://planete.inrialpes.fr/~lauradou/) from the [PRIVATICS Team](https://team.inria.fr/privatics/) at [Inria](https://www.inria.fr/en) on **legal and technical requirements for consent banners, dark patterns, and data subject rights, and I love it!** Previously, I was a lawyer and worked as legal adviser and lecturer at the [Portuguese Consumer Protection Organization-DECO](https://www.deco.proteste.pt/).
@@ -127,18 +129,6 @@ Submitted journal (under review) **Santos C.**, Bielova N., & Matte C. (2019). A
 5.	Lucas-Rhimbassen M., **Santos C.**, Long G. A., Rapp L. (2019). “Conceptual model for a profitable return on investment from space debris as abiotic space resource”, 8th Conf. for Aeronautics and Space Sciences (EUCASS, 2019)
 
 6.	Lucas-Rhimbassen M., **Santos C.**, Rapp L. (2019), Mega constellations – Liability and insurance issues, 70th Int. Astronautical Congress (IAC, 2019) (forthcoming)
-
-### Teaching
-My teaching experience has been addressed both to **law students** and **non-legal experts** in the topics of privacy and data protection, consumer law and space law. 
-
-### Service
-[PETS](https://petsymposium.org/index.php) 2020 – Privacy Enhancing Technologies Symposium
-
-[MIREL](https://www.mirelproject.eu/) 2016, 2019 – Workshop on Mining and Reasoning with Legal texts
-
-[LIIE](https://liie2020.weebly.com/) 2016, 2020 – Workshop on Legal Issues in Intelligent Environments
-
-[TERECOM](http://terecom2017.lynx-project.eu/) 2017, 2018 – Workshop on Technologies for Regulatory Compliance
 
 
 ### Find me
