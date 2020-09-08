@@ -5,15 +5,15 @@
 **[Teaching](https://rel-incode.github.io/cristianasantos/#teaching)**,
 **[Contact](https://rel-incode.github.io/cristianasantos/#contact)**
 
-I am a Postdoctoral Researcher in Law and Technology in the [PRIVATICS Team](https://team.inria.fr/privatics/) at [Inria](https://www.inria.fr/en), working with [Nataliia Bielova](http://www-sop.inria.fr/members/Nataliia.Bielova/) and [Cédric Lauradoux](https://planete.inrialpes.fr/~lauradou/). Currently, I am doing research on **legal and technical requirements for consent banners, dark patterns, and data subject rights, and I love it!** Previously, I was a lawyer and worked as legal adviser and lecturer at the [Portuguese Consumer Protection Organization-DECO](https://www.deco.proteste.pt/).
+I am Lecturer at the School of Law, Utrecht University where I work on **Law and Technology**. 
+I also collaborate with [Nataliia Bielova](http://www-sop.inria.fr/members/Nataliia.Bielova/) and [Cédric Lauradoux](https://planete.inrialpes.fr/~lauradou/) from the [PRIVATICS Team](https://team.inria.fr/privatics/) at [Inria](https://www.inria.fr/en) on **legal and technical requirements for consent banners, dark patterns, and data subject rights, and I love it!** Previously, I was a lawyer and worked as legal adviser and lecturer at the [Portuguese Consumer Protection Organization-DECO](https://www.deco.proteste.pt/).
 
 ### Research Profile 
 The goal of my research is to make legal information structured and actionable for **legal compliance**, for models and tools. I extract legal requirements from legal sources. With this domain knowledge, I collaborate with computer scientists to both identify the technical requirements for a concrete technology, and to build ontologies. My research areas are **Data Protection and Privacy, AI&Law and Space Law**.
 
 ### Recent News
 
-
-
+- **Septb 2020** I started to work at the [School of Law of the University of Utrecht](https://www.uu.nl/staff/CTeixeiraSantos) on the topic of Law&Tech!  It is an important step in my life in the Netherlands!
 - **Septb 2020**  We are presenting our paper "On Compliance of Cookie Purposes with the Purpose Specification Principle" at the [Intl. Workshop on Privacy Engineering](https://iwpe.info/program.html), colocated at the IEEE European Symposium on Security and Privacy 2020. See our slides in [youtube](https://www.youtube.com/watch?v=6_Ggbx9HOgI), and our [paper](https://hal.inria.fr/hal-02567022/document)
 - **Aug 2020**  I am co-organizing the conference on ["Space and AI"](http://spaceandai.ijs.si/), on the 4th September, together with the University of Luxembourg. We will also discuss Space Law and AI! 
 - **Jul 2020**  We were interviewed by the [CNIL, French Data Protection Authority](https://linc.cnil.fr/celestin-matte-cristiana-santos-and-nataliia-bielova-not-every-cookie-banner-respects-users-choice) about our work on user's consent by the IAB Europe’s Transparency and Consent Framework (TCF)
