@@ -1,6 +1,8 @@
 ![Picture](/images/CTS4.jpg)
 
-**[Publications](https://rel-incode.github.io/cristianasantos/#publications)**,
+**[Publications](https://rel-incode.github.io/cristianasantos/#publications)** 
+in [Privacy and Data Protection](https://rel-incode.github.io/cristianasantos/#privacy-and-data-protection), [Legal informatics and Data Protection and Consumer Law](https://rel-incode.github.io/cristianasantos/#modeling-legal-information--in-the-domains-of-data-protection-and-consumer-law), and [Space Law](https://rel-incode.github.io/cristianasantos/#space-law). 
+
 **[Service](https://rel-incode.github.io/cristianasantos/#service)**,
 **[Teaching](https://rel-incode.github.io/cristianasantos/#teaching)**,
 **[Contact](https://rel-incode.github.io/cristianasantos/#contact)**
