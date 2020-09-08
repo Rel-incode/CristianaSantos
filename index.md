@@ -1,7 +1,7 @@
 ![Picture](/images/CTS4.jpg)
 
 **[Publications](https://rel-incode.github.io/cristianasantos/#publications)** 
-in [Privacy and Data Protection](https://rel-incode.github.io/cristianasantos/#privacy-and-data-protection), [Legal informatics and Data Protection and Consumer Law](https://rel-incode.github.io/cristianasantos/#modeling-legal-information--in-the-domains-of-data-protection-and-consumer-law), and [Space Law](https://rel-incode.github.io/cristianasantos/#space-law)
+in [Privacy and Data Protection](https://rel-incode.github.io/cristianasantos/#privacy-and-data-protection), [Legal informatics applied to Data Protection and Consumer Law](https://rel-incode.github.io/cristianasantos/#modeling-legal-information--in-the-domains-of-data-protection-and-consumer-law), and [Space Law](https://rel-incode.github.io/cristianasantos/#space-law)
 
 **[Contact](https://rel-incode.github.io/cristianasantos/#contact)**
 
@@ -118,17 +118,19 @@ Submitted journal (under review) **Santos C.**, Bielova N., & Matte C. (2019). A
 
 #### Space Law
 
-1.	**Santos C.**, Rapp L. Nudging Space – possible Governance for space (accepted to the IAC 2020)
+1. Gal G.A., **Santos C.**, Rapp L., Markovich R., Torre L., [Artificial intelligence in space](https://arxiv.org/abs/2006.12362)
+
+2.	**Santos C.**, Rapp L. Nudging Space – possible Governance for space (accepted to the IAC 2020)
 
 2.	**Santos C.**, Lucas-Rhimbassen M., Rapp L. (2020), Revisiting Liability and Insurance in the Age of Mega-constellations, Space Policy Journal (forthcoming) 
 
-3.	**Santos C.**, Rapp L. (2019), Satellite Imagery, High Resolution and Potential Identification of Individuals under the GDPR, Air and Space Law Journal 
+4.	**Santos C.**, Rapp L. (2019), Satellite Imagery, High Resolution and Potential Identification of Individuals under the GDPR, Air and Space Law Journal 
 
-4.	**Santos C.**, Miramont D., Rapp L. (2019), High Resolution Satellite Imagery and Potential Identification of Individuals, Proc. of the 2019 conference on Big Data from Space (BiDS’2019)
+5.	**Santos C.**, Miramont D., Rapp L. (2019), High Resolution Satellite Imagery and Potential Identification of Individuals, Proc. of the 2019 conference on Big Data from Space (BiDS’2019)
 
-5.	Lucas-Rhimbassen M., **Santos C.**, Long G. A., Rapp L. (2019). “Conceptual model for a profitable return on investment from space debris as abiotic space resource”, 8th Conf. for Aeronautics and Space Sciences (EUCASS, 2019)
+6.	Lucas-Rhimbassen M., **Santos C.**, Long G. A., Rapp L. (2019). “Conceptual model for a profitable return on investment from space debris as abiotic space resource”, 8th Conf. for Aeronautics and Space Sciences (EUCASS, 2019)
 
-6.	Lucas-Rhimbassen M., **Santos C.**, Rapp L. (2019), Mega constellations – Liability and insurance issues, 70th Int. Astronautical Congress (IAC, 2019) (forthcoming)
+7.	Lucas-Rhimbassen M., **Santos C.**, Rapp L. (2019), Mega constellations – Liability and insurance issues, 70th Int. Astronautical Congress (IAC, 2019) (forthcoming)
 
 
 ### Find me
