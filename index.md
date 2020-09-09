@@ -15,8 +15,7 @@ The goal of my research is to make legal information structured and actionable f
 
 - **Septb 2020** I started to work at the [School of Law of the University of Utrecht](https://www.uu.nl/staff/CTeixeiraSantos) on the topic of Law&Tech!  It is an important step in my life in the Netherlands!
 
-- **Septb 2020**  We're excited to announce: our legal-technical 75 pages paper on requirements for compliant cookie banners is accepted to an international journal of [Technology and Regulation (TechReg)](https://techreg.org/index.php/techreg). Latest version at https://hal.inria.fr/hal-02875447
-
+- **Septb 2020**  Our legal-technical 75 pages paper on requirements for compliant cookie banners is accepted to an international journal of [Technology and Regulation (TechReg)](https://techreg.org/index.php/techreg). Check out our [latest version](https://hal.inria.fr/hal-02875447)
 - **Septb 2020**  We are presenting our paper "On Compliance of Cookie Purposes with the Purpose Specification Principle" at the [Intl. Workshop on Privacy Engineering](https://iwpe.info/program.html), colocated at the IEEE European Symposium on Security and Privacy 2020. See our slides in [youtube](https://www.youtube.com/watch?v=6_Ggbx9HOgI), and our [paper](https://hal.inria.fr/hal-02567022/document)
 - **Aug 2020**  I am co-organizing the conference on ["Space and AI"](http://spaceandai.ijs.si/), on the 4th September, collocated with ECAI2020, together with the University of Luxembourg. We will also discuss Space Law and AI! 
 - **Jul 2020**  We were interviewed by the [CNIL, French Data Protection Authority](https://linc.cnil.fr/celestin-matte-cristiana-santos-and-nataliia-bielova-not-every-cookie-banner-respects-users-choice) about our work on user's consent by the IAB Europe’s Transparency and Consent Framework (TCF)
