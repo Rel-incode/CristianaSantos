@@ -25,7 +25,6 @@ The goal of my research is to make legal information structured and actionable f
 -	**Feb 2020** We have written [our opinion on the draft recommendation of the CNIL on "cookies and other trackers"](https://hal.inria.fr/hal-02490531/document) 
 -	**Feb 2020** Our paper on [cookie banners](https://www-sop.inria.fr/members/Nataliia.Bielova/cookiebanners/) got accepted at [IEEE Security & Privacy 2020](https://www.ieee-security.org/TC/SP2020/)!
 -	**Sep 2019** Our paper the analysis of dark patterns applied to cookie banner design and consent requirements is accepted at [PLSC-E 2020](https://www.tilburguniversity.edu/research/institutes-and-research-groups/tilt/plsc-europe-2020)! 
--	**Sep 2019** Our paper on [a legal-technical approach to compliance with EU laws on cookies](https://arxiv.org/abs/1912.07144) is accepted at [PLSC Europe 2019](https://www.ivir.nl/plsceurope2019/)!
 
 
 ### Publications 
