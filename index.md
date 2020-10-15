@@ -9,12 +9,14 @@ I am [Lecturer and researcher](https://www.uu.nl/staff/CTeixeiraSantos) at the S
 I also collaborate with [Nataliia Bielova](http://www-sop.inria.fr/members/Nataliia.Bielova/) and [Cédric Lauradoux](https://planete.inrialpes.fr/~lauradou/) from the [PRIVATICS Team](https://team.inria.fr/privatics/) at [Inria](https://www.inria.fr/en) on **legal and technical requirements for consent banners, dark patterns, and data subject rights, and I love it!** Previously, I was a lawyer and worked as legal adviser and lecturer at the [Portuguese Consumer Protection Organization-DECO](https://www.deco.proteste.pt/).
 
 ### Research Profile 
-The goal of my research is to make legal information structured and actionable for **legal compliance**, for models and tools. I extract legal requirements from legal sources. With this domain knowledge, I collaborate with computer scientists to both identify the technical requirements for a concrete technology, and to build ontologies. 
+The goal of my research is to make legal information structured and actionable for **legal compliance**, for models and tools. I extract legal requirements from legal sources. With this domain knowledge, I collaborate with computer scientists to both identify the technical requirements for a concrete technology, and to build ontologies. I am passionate about  
 
 ### Recent News
 
 - **Outb 2020** Our paper **Events Matter: Extraction of Events from Court Decisions** has been accepted for publication at [Jurix 2020](https://jurix2020.law.muni.cz/).
-We e𝐱𝐭𝐫𝐚𝐜𝐭ed 𝐫𝐞𝐥𝐞𝐯𝐚𝐧𝐭 𝐞𝐯𝐞𝐧𝐭𝐬 𝐟𝐫𝐨𝐦 𝐜𝐚𝐬𝐞-𝐥𝐚𝐰 𝐭𝐨 𝐠𝐢𝐯𝐞 𝐚𝐜𝐜𝐞𝐬𝐬 𝐭𝐨 𝐥𝐞𝐠𝐚𝐥 𝐤𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞, using an online timeline generation service. It took one year long, but we made it, thanks to Erwin Filtz and Maria Navas
+We e𝐱𝐭𝐫𝐚𝐜𝐭ed 𝐫𝐞𝐥𝐞𝐯𝐚𝐧𝐭 𝐞𝐯𝐞𝐧𝐭𝐬 𝐟𝐫𝐨𝐦 𝐜𝐚𝐬𝐞-𝐥𝐚𝐰 𝐭𝐨 𝐠𝐢𝐯𝐞 𝐚𝐜𝐜𝐞𝐬𝐬 𝐭𝐨 𝐥𝐞𝐠𝐚𝐥 𝐤𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞, using an online timeline generation service. It took one year long, but we made it, thanks to the great efforts of Erwin Filtz and Maria Navas! 
+
+- **Septb 2020** We are happy to announce a preprint of a study on 𝗗𝗮𝗿𝗸 𝗣𝗮𝘁𝘁𝗲𝗿𝗻𝘀 𝗮𝗻𝗱 𝘁𝗵𝗲 𝗟𝗲𝗴𝗮𝗹 𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗺𝗲𝗻𝘁𝘀 𝗼𝗳 𝗖𝗼𝗻𝘀𝗲𝗻𝘁 𝗕𝗮𝗻𝗻𝗲𝗿𝘀: An Interaction Criticism Perspective, with Colin Gray, the most amazing expert in dark patterns from a HCI, design and UX perspectives. We evaluate consent banners through the lenses of #darkpatterns, #design, #privacy and data protection, and computer science. Check out our [paper](https://arxiv.org/abs/2009.10194).
 
 - **Septb 2020** I started to work at the [School of Law of the University of Utrecht](https://www.uu.nl/staff/CTeixeiraSantos) on the topic of Law&Tech!  It is an important step in my life in the Netherlands!
 
