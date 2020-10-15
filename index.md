@@ -7,7 +7,7 @@ in the field of [Privacy and Data Protection](https://rel-incode.github.io/crist
 
 I am [Lecturer and researcher](https://www.uu.nl/staff/CTeixeiraSantos) at the School of Law, Utrecht University, working on **Law and Technology**. 
 
-I also collaborate with [Nataliia Bielova](http://www-sop.inria.fr/members/Nataliia.Bielova/) and [Cédric Lauradoux](https://planete.inrialpes.fr/~lauradou/) from the [PRIVATICS Team](https://team.inria.fr/privatics/) at [Inria](https://www.inria.fr/en) on **legal and technical requirements for consent banners, dark patterns, and data subject rights, and I love to discover new insights from case studies we approach which have a social impact in our daily lives!** 
+I also collaborate with [Nataliia Bielova](http://www-sop.inria.fr/members/Nataliia.Bielova/) and [Cédric Lauradoux](https://planete.inrialpes.fr/~lauradou/) from the [PRIVATICS Team](https://team.inria.fr/privatics/) at [Inria](https://www.inria.fr/en) on **legal and technical requirements for consent banners, dark patterns, and data subject rights**, and I love to discover new insights from case studies we approach which have a social impact in our daily lives! 
 Previously, I was a lawyer and worked as legal adviser and lecturer at the [Portuguese Consumer Protection Organization-DECO](https://www.deco.proteste.pt/).
 
 ### Research Profile 
