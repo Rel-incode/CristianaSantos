@@ -32,7 +32,6 @@ We e𝐱𝐭𝐫𝐚𝐜𝐭ed 𝐫𝐞𝐥𝐞𝐯𝐚𝐧𝐭 𝐞𝐯𝐞𝐧
 - **Mar 2020** Our paper on [purposes in IAB Europe TCF](https://hal.inria.fr/hal-02566891/document) got accepted at [APF 2020](https://privacyforum.eu/)! 
 -	**Feb 2020** We have written [our opinion on the draft recommendation of the CNIL on "cookies and other trackers"](https://hal.inria.fr/hal-02490531/document) 
 -	**Feb 2020** Our paper on [cookie banners](https://www-sop.inria.fr/members/Nataliia.Bielova/cookiebanners/) got accepted at [IEEE Security & Privacy 2020](https://www.ieee-security.org/TC/SP2020/)!
--	**Sep 2019** Our paper the analysis of dark patterns applied to cookie banner design and consent requirements is accepted at [PLSC-E 2020](https://www.tilburguniversity.edu/research/institutes-and-research-groups/tilt/plsc-europe-2020)! 
 
 
 ### Publications 
