@@ -6,7 +6,7 @@ in the field of [Privacy and Data Protection](https://rel-incode.github.io/crist
 
 
 I am [Lecturer and researcher](https://www.uu.nl/staff/CTeixeiraSantos) at the School of Law, Utrecht University, working on **Law and Technology**. 
-I collaborate with computer scientists and designers on the topics of **legal and technical requirements for #consent, #darkpatterns, and #datasubjectrights**, and I love to discover new insights from case studies we approach which have a social impact in our daily lives! 
+I collaborate with computer scientists and designers on **requirements for #consent, #darkpatterns, and #datasubjectrights**, and I love to discover new insights from case studies we approach which have a social impact in our daily lives! 
 Previously, I was a lawyer and worked as legal adviser and lecturer at the [Portuguese Consumer Protection Organization-DECO](https://www.deco.proteste.pt/).
 
 ### Research Profile 
@@ -79,6 +79,12 @@ Bartolini C., **Santos C.**, Ullrich C., (2017), Property and the Cloud, Compute
 
 
 #### Modeling legal information -- in the domains of data protection and consumer law 
+
+
+Filtz E., Navas-Loro M., **SantosC.**, Polleres A., Kirrane S. (2020) [Events Matter: Extraction of Events from Court Decisions](http://penni.wu.ac.at/papers/JURIX2020%20Events%20Matter%20Extraction%20of%20Events%20from%20Court%20Decisions.pdf
+), Frontiers in Artificial Intelligence and Applications (FAIA, 2020), Volume 334: Legal Knowledge and Information Systems
+
+http://penni.wu.ac.at/papers/JURIX2020%20Events%20Matter%20Extraction%20of%20Events%20from%20Court%20Decisions.pdf
 
 1.	Bartolini C., Lenzini L., **Santos C.** (2019), An Agile Approach to Validate a Formal Representation of the GDPR, Frontiers in Artificial Intelligence and Applications (FAIA, 2019), Lecture Notes in Computer Science, Springer
 
