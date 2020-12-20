@@ -49,6 +49,7 @@ The table below summarizes the most influential publications:
 | IEEE S&P | IEEE Symposium on Security & Privacy |
 | CLSR | Computer Law & Security Review Journal |
 | APF | Annual Privacy Forum |
+| HCI | Human Computer Interaction |
 | IPWE | International Workshop on Privacy Engineering |
 | PRIVON | Privacy and the Semantic Web - Policy and Technology |
 | AIL | Artificial Intelligence and Law Journal |
@@ -56,6 +57,8 @@ The table below summarizes the most influential publications:
 
 
 #### Privacy and Data Protection
+
+Gray, C., **Santos, C.**, Bielova, N., Toth, M., & Clifford, D. (2020). Dark Patterns and the Legal Requirements of Consent Banners: An Interaction Criticism Perspective. Accepted at HCI2021 ArXiv, abs/2009.10194.
 
 1.	Fouad I., **Santos C.**, Kassar F. A., Bielova B., Calzavara S. (2020), On Compliance of Cookie Purposes with the Purpose Specification Principle. International Workshop on Privacy Engineering [IWPE](https://hal.inria.fr/hal-02567022)
 
