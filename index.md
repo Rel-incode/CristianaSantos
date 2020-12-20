@@ -22,7 +22,7 @@ The goal of my research is to make legal information structured and actionable f
 - **Outb 2020** Our paper **Events Matter: Extraction of Events from Court Decisions** has been accepted for publication at [Jurix 2020](https://jurix2020.law.muni.cz/).
 We e𝐱𝐭𝐫𝐚𝐜𝐭ed 𝐫𝐞𝐥𝐞𝐯𝐚𝐧𝐭 𝐞𝐯𝐞𝐧𝐭𝐬 𝐟𝐫𝐨𝐦 𝐜𝐚𝐬𝐞-𝐥𝐚𝐰 𝐭𝐨 𝐠𝐢𝐯𝐞 𝐚𝐜𝐜𝐞𝐬𝐬 𝐭𝐨 𝐥𝐞𝐠𝐚𝐥 𝐤𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞, using an online timeline generation service. It took one year long, but we made it, thanks to the great efforts of Erwin Filtz and Maria Navas! 
 
-- **Sept 2020**  Our legal-technical on requirements for compliant cookie banners is accepted to an international journal of [Technology and Regulation (TechReg)](https://techreg.org/index.php/techreg). Check it out  [latest version](chreg.org/index.php/techreg/article/view/43)
+- **Sept 2020**  Our paper on legal-technical requirements for compliant consent banners is accepted to an international journal of [Technology and Regulation (TechReg)](https://techreg.org/index.php/techreg). Check it out  [latest version](chreg.org/index.php/techreg/article/view/43)
 
 - **Septb 2020**  We are presenting our paper "On Compliance of Cookie Purposes with the Purpose Specification Principle" at the [Intl. Workshop on Privacy Engineering](https://iwpe.info/program.html), colocated at the IEEE European Symposium on Security and Privacy 2020. See our slides in [youtube](https://www.youtube.com/watch?v=6_Ggbx9HOgI), and our [paper](https://hal.inria.fr/hal-02567022/document)
 
