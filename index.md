@@ -6,13 +6,17 @@ in the field of [Privacy and Data Protection](https://rel-incode.github.io/crist
 
 
 I am [Lecturer and researcher](https://www.uu.nl/staff/CTeixeiraSantos) at the School of Law, Utrecht University, working on **Law and Technology**. 
-I also collaborate with [Nataliia Bielova](http://www-sop.inria.fr/members/Nataliia.Bielova/) and [Cédric Lauradoux](https://planete.inrialpes.fr/~lauradou/) from [PRIVATICS Team](https://team.inria.fr/privatics/) at [Inria](https://www.inria.fr/en) on **legal and technical requirements for consent banners, dark patterns, and data subject rights**, and I love to discover new insights from case studies we approach which have a social impact in our daily lives! 
+I collaborate with computer scientists and designers on the topics of **legal and technical requirements for consent, dark patterns, and data subject rights**, and I love to discover new insights from case studies we approach which have a social impact in our daily lives! 
 Previously, I was a lawyer and worked as legal adviser and lecturer at the [Portuguese Consumer Protection Organization-DECO](https://www.deco.proteste.pt/).
 
 ### Research Profile 
 The goal of my research is to make legal information structured and actionable for **legal compliance**, for models and tools. I extract legal requirements from legal sources. With this domain knowledge, I collaborate with computer scientists to both identify the technical requirements for a concrete technology, and to build ontologies.  **I am passionate about privacy and consumer protection and motivated to inform legal decision-makers on gaps between law & tech through ground analytical-based research**. 
 
 ### Recent News
+
+- **Dec 2020** Happy to share our feedback with [Nataliia Bielova] (http://www-sop.inria.fr/members/Nataliia.Bielova/) on the Public Consultation of the Italian DPA @garanteprivacy on the ["Guidelines on the use of cookies and other tracking tools"](https://hal.inria.fr/view/index/docid/3079482). We discuss #dark patterns #scrolling #cookiewall #fingerprinting #standardization of consent
+
+- **Dec 2020** Our paper on [Dark Patterns and Consent](https://arxiv.org/abs/2009.10194) was accepted at the [HCI/2021](https://chi2021.acm.org/). It is a truly interdisciplinary paper where Design, Human Computer Intercation (HCI), Computer Science and Law meet! 
 
 - **Outb 2020** Our paper **Events Matter: Extraction of Events from Court Decisions** has been accepted for publication at [Jurix 2020](https://jurix2020.law.muni.cz/).
 We e𝐱𝐭𝐫𝐚𝐜𝐭ed 𝐫𝐞𝐥𝐞𝐯𝐚𝐧𝐭 𝐞𝐯𝐞𝐧𝐭𝐬 𝐟𝐫𝐨𝐦 𝐜𝐚𝐬𝐞-𝐥𝐚𝐰 𝐭𝐨 𝐠𝐢𝐯𝐞 𝐚𝐜𝐜𝐞𝐬𝐬 𝐭𝐨 𝐥𝐞𝐠𝐚𝐥 𝐤𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞, using an online timeline generation service. It took one year long, but we made it, thanks to the great efforts of Erwin Filtz and Maria Navas! 
@@ -21,14 +25,13 @@ We e𝐱𝐭𝐫𝐚𝐜𝐭ed 𝐫𝐞𝐥𝐞𝐯𝐚𝐧𝐭 𝐞𝐯𝐞𝐧
 
 - **Septb 2020** I started to work at the [School of Law of the University of Utrecht](https://www.uu.nl/staff/CTeixeiraSantos) on the topic of Law&Tech!  It is an important step in my life in the Netherlands!
 
-- **Septb 2020**  Our legal-technical 75 pages paper on requirements for compliant cookie banners is accepted to an international journal of [Technology and Regulation (TechReg)](https://techreg.org/index.php/techreg). Check out our [latest version](https://hal.inria.fr/hal-02875447)
+- **Sept 2020**  Our legal-technical on requirements for compliant cookie banners is accepted to an international journal of [Technology and Regulation (TechReg)](https://techreg.org/index.php/techreg). Check it out  [latest version](chreg.org/index.php/techreg/article/view/43)
 
 - **Septb 2020**  We are presenting our paper "On Compliance of Cookie Purposes with the Purpose Specification Principle" at the [Intl. Workshop on Privacy Engineering](https://iwpe.info/program.html), colocated at the IEEE European Symposium on Security and Privacy 2020. See our slides in [youtube](https://www.youtube.com/watch?v=6_Ggbx9HOgI), and our [paper](https://hal.inria.fr/hal-02567022/document)
 
 - **Aug 2020**  I am co-organizing the conference on ["Space and AI"](http://spaceandai.ijs.si/), on the 4th September, collocated with ECAI2020, together with the University of Luxembourg. We will also discuss Space Law and AI! 
 - **Jul 2020**  We were interviewed by the [CNIL, French Data Protection Authority](https://linc.cnil.fr/celestin-matte-cristiana-santos-and-nataliia-bielova-not-every-cookie-banner-respects-users-choice) about our work on user's consent by the IAB Europe’s Transparency and Consent Framework (TCF)
 - **Jul 2020** Our talk "I see a cookie banner -- is it even legal?" is a runner-up for the Best HotPETs talk! See it on [Youtube](https://www.youtube.com/watch?v=zuzRvpq7rb0)!
--	**Apr 2020** Our paper on [compliance of cookie purposes](https://hal.inria.fr/hal-02567022/document) was accepted to [IWPE 2020](https://iwpe.info/) ! 
 - **Mar 2020** Our paper on [purposes in IAB Europe TCF](https://hal.inria.fr/hal-02566891/document) got accepted at [APF 2020](https://privacyforum.eu/)! 
 -	**Feb 2020** We have written [our opinion on the draft recommendation of the CNIL on "cookies and other trackers"](https://hal.inria.fr/hal-02490531/document) 
 -	**Feb 2020** Our paper on [cookie banners](https://www-sop.inria.fr/members/Nataliia.Bielova/cookiebanners/) got accepted at [IEEE Security & Privacy 2020](https://www.ieee-security.org/TC/SP2020/)!
