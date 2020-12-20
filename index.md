@@ -17,14 +17,10 @@ The goal of my research is to make legal information structured and actionable f
 
 - **Dec 2020** Happy to share our feedback with [Nataliia Bielova](http://www-sop.inria.fr/members/Nataliia.Bielova/) on the Public Consultation of the Italian DPA 'Garante Privacy' on the ["Guidelines on the use of cookies and other tracking tools"](https://hal.inria.fr/view/index/docid/3079482). We discuss #dark patterns #scrolling #cookiewall #fingerprinting #standardization of consent
 
-- **Dec 2020** Our paper on [Dark Patterns and Consent](https://arxiv.org/abs/2009.10194) was accepted at the [HCI/2021](https://chi2021.acm.org/). It is a truly interdisciplinary paper where Design, Human Computer Intercation (HCI), Computer Science and Law meet! 
+- **Dec 2020** Our paper on [𝗗𝗮𝗿𝗸 𝗣𝗮𝘁𝘁𝗲𝗿𝗻𝘀 𝗮𝗻𝗱 𝘁𝗵𝗲 𝗟𝗲𝗴𝗮𝗹 𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗺𝗲𝗻𝘁𝘀 𝗼𝗳 𝗖𝗼𝗻𝘀𝗲𝗻𝘁 𝗕𝗮𝗻𝗻𝗲𝗿𝘀: An Interaction Criticism Perspective](https://arxiv.org/abs/2009.10194) was accepted at the [HCI/2021](https://chi2021.acm.org/). It is a truly interdisciplinary paper where Design, Human Computer Intercation (HCI), Computer Science and Law meet! We are extremely honored to collaborate with [Colin Gray](https://colingray.me/), the most amazing expert in dark patterns from a HCI, design and UX perspectives.
 
 - **Outb 2020** Our paper **Events Matter: Extraction of Events from Court Decisions** has been accepted for publication at [Jurix 2020](https://jurix2020.law.muni.cz/).
 We e𝐱𝐭𝐫𝐚𝐜𝐭ed 𝐫𝐞𝐥𝐞𝐯𝐚𝐧𝐭 𝐞𝐯𝐞𝐧𝐭𝐬 𝐟𝐫𝐨𝐦 𝐜𝐚𝐬𝐞-𝐥𝐚𝐰 𝐭𝐨 𝐠𝐢𝐯𝐞 𝐚𝐜𝐜𝐞𝐬𝐬 𝐭𝐨 𝐥𝐞𝐠𝐚𝐥 𝐤𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞, using an online timeline generation service. It took one year long, but we made it, thanks to the great efforts of Erwin Filtz and Maria Navas! 
-
-- **Septb 2020** We are happy to announce a preprint of a study on 𝗗𝗮𝗿𝗸 𝗣𝗮𝘁𝘁𝗲𝗿𝗻𝘀 𝗮𝗻𝗱 𝘁𝗵𝗲 𝗟𝗲𝗴𝗮𝗹 𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗺𝗲𝗻𝘁𝘀 𝗼𝗳 𝗖𝗼𝗻𝘀𝗲𝗻𝘁 𝗕𝗮𝗻𝗻𝗲𝗿𝘀: An Interaction Criticism Perspective, with Colin Gray, the most amazing expert in dark patterns from a HCI, design and UX perspectives. We evaluate consent banners through the lenses of #darkpatterns, #design, #privacy and data protection, and computer science. Check out our [paper](https://arxiv.org/abs/2009.10194).
-
-- **Septb 2020** I started to work at the [School of Law of the University of Utrecht](https://www.uu.nl/staff/CTeixeiraSantos) on the topic of Law&Tech!  It is an important step in my life in the Netherlands!
 
 - **Sept 2020**  Our legal-technical on requirements for compliant cookie banners is accepted to an international journal of [Technology and Regulation (TechReg)](https://techreg.org/index.php/techreg). Check it out  [latest version](chreg.org/index.php/techreg/article/view/43)
 
@@ -87,49 +83,49 @@ Filtz E., Navas-Loro M., **SantosC.**, Polleres A., Kirrane S. (2020) [Events Ma
 
 http://penni.wu.ac.at/papers/JURIX2020%20Events%20Matter%20Extraction%20of%20Events%20from%20Court%20Decisions.pdf
 
-1.	Bartolini C., Lenzini L., **Santos C.** (2019), An Agile Approach to Validate a Formal Representation of the GDPR, Frontiers in Artificial Intelligence and Applications (FAIA, 2019), Lecture Notes in Computer Science, Springer
+Bartolini C., Lenzini L., **Santos C.** (2019), An Agile Approach to Validate a Formal Representation of the GDPR, Frontiers in Artificial Intelligence and Applications (FAIA, 2019), Lecture Notes in Computer Science, Springer
 
-2.	Bartolini C., Lenzini L., **Santos C.** (2018), A Legal Validation of a Formal Representation of Articles of the GDPR, Proceedings of the 2nd Workshop on Technologies for Regulatory Compliance [TERECOM 2018](http://ceur-ws.org/Vol-2309)
+Bartolini C., Lenzini L., **Santos C.** (2018), A Legal Validation of a Formal Representation of Articles of the GDPR, Proceedings of the 2nd Workshop on Technologies for Regulatory Compliance [TERECOM 2018](http://ceur-ws.org/Vol-2309)
 
-3.	Rodriguez-Doncel V., **Santos C.**, Casanovas P., Gómez-Pérez A., Gracia J. (2018) A Linked Data Terminology for Copyright Based on Ontolex-Lemon. AI Approaches to the Complexity of Legal Systems (AICOL 2015-AICOL 2017)
+Rodriguez-Doncel V., **Santos C.**, Casanovas P., Gómez-Pérez A., Gracia J. (2018) A Linked Data Terminology for Copyright Based on Ontolex-Lemon. AI Approaches to the Complexity of Legal Systems (AICOL 2015-AICOL 2017)
 
-4.	Navas-Loro M., **Santos C.** (2018), Events in the legal domain – first impressions.  Proceedings of the 2nd Workshop on Technologies for Regulatory Compliance [TERECOM 2018](http://ceur-ws.org/Vol-2309/)
+Navas-Loro M., **Santos C.** (2018), Events in the legal domain – first impressions.  Proceedings of the 2nd Workshop on Technologies for Regulatory Compliance [TERECOM 2018](http://ceur-ws.org/Vol-2309/)
 
-5.	V. Opijnen M., **Santos C.** (2017), On  the Concept of Relevance in Legal Information Retrieval, Artificial Intelligence and Law Journal, [AIL](https://link.springer.com/article/10.1007/s10506-017-9195-8)
+V. Opijnen M., **Santos C.** (2017), On  the Concept of Relevance in Legal Information Retrieval, Artificial Intelligence and Law Journal, [AIL](https://link.springer.com/article/10.1007/s10506-017-9195-8)
 
-6.	**Santos C.**, Gangemi A., Alam M. (2017), Detecting and Editing Privacy Policies of Companies on the Web, Proc. 1st Workshop on Technologies for Regulatory Compliance [TERECOM](ceur-ws.org/Vol-2049/09paper.pdf)
+**Santos C.**, Gangemi A., Alam M. (2017), Detecting and Editing Privacy Policies of Companies on the Web, Proc. 1st Workshop on Technologies for Regulatory Compliance [TERECOM](ceur-ws.org/Vol-2049/09paper.pdf)
 
-7.	**Santos C.**, Pruski C., Silveira M., Rodríguez-Doncel V., Casanovas P., Van der Torre L., Gangemi A. (2017), Complaint Ontology Pattern, Advances in Ontology Design and Patterns, [ODP](http://ontologydesignpatterns.org/wiki/images/1/16/WOP2016_paper_09.pdf)
+**Santos C.**, Pruski C., Silveira M., Rodríguez-Doncel V., Casanovas P., Van der Torre L., Gangemi A. (2017), Complaint Ontology Pattern, Advances in Ontology Design and Patterns, [ODP](http://ontologydesignpatterns.org/wiki/images/1/16/WOP2016_paper_09.pdf)
 
-8.	**Santos C.**, Rodríguez-Doncel V., Casanovas P., Van der Torre L. (2016), Modeling Relevant Legal Information for Consumer Disputes, Electronic Government and the Information Systems Perspective, 2016 [EGOVIS](https://books.google.nl/books?id=dtLMDAAAQBAJ&pg=PA150&lpg=PA150&dq=Modeling+Relevant+Legal+Information+for+Consumer+Disputes,+Electronic+Government+and+the+Information+Systems+Perspective,+2016+(EGOVIS)&source=bl&ots=9TwRC_4RYY&sig=ACfU3U0LTOB_NfChvgJVxL2Dw2Z2wHeRgQ&hl=en&sa=X&ved=2ahUKEwigzeacvYLqAhVC26QKHasZDIcQ6AEwAHoECAkQAQ#v=onepage&q=Modeling%20Relevant%20Legal%20Information%20for%20Consumer%20Disputes%2C%20Electronic%20Government%20and%20the%20Information%20Systems%20Perspective%2C%202016%20(EGOVIS)&f=false)
+**Santos C.**, Rodríguez-Doncel V., Casanovas P., Van der Torre L. (2016), Modeling Relevant Legal Information for Consumer Disputes, Electronic Government and the Information Systems Perspective, 2016 [EGOVIS](https://books.google.nl/books?id=dtLMDAAAQBAJ&pg=PA150&lpg=PA150&dq=Modeling+Relevant+Legal+Information+for+Consumer+Disputes,+Electronic+Government+and+the+Information+Systems+Perspective,+2016+(EGOVIS)&source=bl&ots=9TwRC_4RYY&sig=ACfU3U0LTOB_NfChvgJVxL2Dw2Z2wHeRgQ&hl=en&sa=X&ved=2ahUKEwigzeacvYLqAhVC26QKHasZDIcQ6AEwAHoECAkQAQ#v=onepage&q=Modeling%20Relevant%20Legal%20Information%20for%20Consumer%20Disputes%2C%20Electronic%20Government%20and%20the%20Information%20Systems%20Perspective%2C%202016%20(EGOVIS)&f=false)
 
-9.	Casanovas P., Rodríguez-Doncel V., **Santos C.**, Gómez-Pérez A. (2016), A European Framework for Regulating Data and Metadata Markets. Society, Privacy and the Semantic Web - Policy and Technology, 2016 [PrivOn](https://dblp.org/db/conf/semweb/privon2016)
+Casanovas P., Rodríguez-Doncel V., **Santos C.**, Gómez-Pérez A. (2016), A European Framework for Regulating Data and Metadata Markets. Society, Privacy and the Semantic Web - Policy and Technology, 2016 [PrivOn](https://dblp.org/db/conf/semweb/privon2016)
 
-10.	**Santos C.**, Casanovas P., Rodríguez-Doncel V., Van der Torre L. (2016), Reuse and Reengineering of Non-ontological Resources in the Legal Domain, AI Approaches to the Complexity of Legal Systems (AICOL)
+**Santos C.**, Casanovas P., Rodríguez-Doncel V., Van der Torre L. (2016), Reuse and Reengineering of Non-ontological Resources in the Legal Domain, AI Approaches to the Complexity of Legal Systems (AICOL)
 
-11.	**Santos C.**, Rodríguez Doncel V., Casanovas P. et al. (2016), An Approach for Modelling Relevance in Legal Ontologies, VII Workshop on Artificial Intelligence and the Complexity of Legal Systems (AICOL)
+**Santos C.**, Rodríguez Doncel V., Casanovas P. et al. (2016), An Approach for Modelling Relevance in Legal Ontologies, VII Workshop on Artificial Intelligence and the Complexity of Legal Systems (AICOL)
 
-12.	Rodríguez-Doncel V., **Santos C.**, Casanovas P., Gómez-Pérez A. (2016), Legal Aspects of Linked Data: the European Framework, Computer Law & Security Review
+Rodríguez-Doncel V., **Santos C.**, Casanovas P., Gómez-Pérez A. (2016), Legal Aspects of Linked Data: the European Framework, Computer Law & Security Review
 
-13.	Humphreys L., **Santos C.**, Di Caro L., Boella G., van der Torre L., Robaldo L. (2015), Mapping Recitals to Normative Provisions in EU Legislation to Assist Legal Interpretation, in  Frontiers in Artificial Intelligence and Applications (FAIA, 2015)
+Humphreys L., **Santos C.**, Di Caro L., Boella G., van der Torre L., Robaldo L. (2015), Mapping Recitals to Normative Provisions in EU Legislation to Assist Legal Interpretation, in  Frontiers in Artificial Intelligence and Applications (FAIA, 2015)
 
-14.	Rodriguez-Doncel V., Casanovas P., **Santos C.**, Gómez-Pérez A. (2015), A Linked Term Bank of Copyright-Related Terms, in Frontiers in Artificial Intelligence and Applications (FAIA, 2015)
+Rodriguez-Doncel V., Casanovas P., **Santos C.**, Gómez-Pérez A. (2015), A Linked Term Bank of Copyright-Related Terms, in Frontiers in Artificial Intelligence and Applications (FAIA, 2015)
 
-15.	Bartolini C., Muthuri R., **Santos C.** (2015), Using ontologies to model data protection requirements in workflows, Proc. of the 9th Int. Work. on Juris-informatics (JURISIN, 2015), New Frontiers in Artificial Intelligence. JSAI-isAI 2015. Lecture Notes in Computer Science,
+Bartolini C., Muthuri R., **Santos C.** (2015), Using ontologies to model data protection requirements in workflows, Proc. of the 9th Int. Work. on Juris-informatics (JURISIN, 2015), New Frontiers in Artificial Intelligence. JSAI-isAI 2015. Lecture Notes in Computer Science,
 
-16.	Robaldo L., Humphreys L., Sun X., Cupi L., **Santos C.**, Muthuri R. (2015), Combining Input/Output logic and Reification for representing real-world obligations, New Frontiers in Artificial Intelligence, JSAI-isAI 2015. Lecture Notes in Computer Science
+Robaldo L., Humphreys L., Sun X., Cupi L., **Santos C.**, Muthuri R. (2015), Combining Input/Output logic and Reification for representing real-world obligations, New Frontiers in Artificial Intelligence, JSAI-isAI 2015. Lecture Notes in Computer Science
 
-17.	Rodríguez-Doncel V., **Santos C.**, Casanovas P. (2014), A Model of Air Transport Passenger Incidents and Rights, Proc. of the 27th Int. Conf. on Legal Knowledge and Information System (JURIX)
+Rodríguez-Doncel V., **Santos C.**, Casanovas P. (2014), A Model of Air Transport Passenger Incidents and Rights, Proc. of the 27th Int. Conf. on Legal Knowledge and Information System (JURIX)
 
-18.	Rodríguez-Doncel V., **Santos C.**, Casanovas P. (2014), Ontology-driven Legal Support-System in Air Transport Passenger Domain, Proc. of the Int. Workshop on Semantic Web for The Law 2014 (SW4Law)
+Rodríguez-Doncel V., **Santos C.**, Casanovas P. (2014), Ontology-driven Legal Support-System in Air Transport Passenger Domain, Proc. of the Int. Workshop on Semantic Web for The Law 2014 (SW4Law)
 
-19.	**Santos C.** (2014), Enhancing the Decision-Making Process through Relevant Legal Information in Consumer Law Disputes - a Case Study in Air Transport Passenger Rights, Proceedings of the Second Doctoral Consortium Workshop (Jurix2014-DC), Best Paper Award 
+**Santos C.** (2014), Enhancing the Decision-Making Process through Relevant Legal Information in Consumer Law Disputes - a Case Study in Air Transport Passenger Rights, Proceedings of the Second Doctoral Consortium Workshop (Jurix2014-DC), Best Paper Award 
 
-20.	**Santos C.**, Andrade F., Novais P. (2014), Sinergia na resolução de litígios em linha e a necessidade de proteção da privacidade e dos dados pessoais, Revista Democracia Digital e Governo Eletrônico
+**Santos C.**, Andrade F., Novais P. (2014), Sinergia na resolução de litígios em linha e a necessidade de proteção da privacidade e dos dados pessoais, Revista Democracia Digital e Governo Eletrônico
 
-21.	**Santos C.** (2014), Law by Design in ODR. Definition of relevant legal information in consumer law disputes to enhance the decision-making process. Group Decision and Negotiation, Proc. Joint International Conference of the INFORMS GDN Section and the EURO Working Group on DSS
+**Santos C.** (2014), Law by Design in ODR. Definition of relevant legal information in consumer law disputes to enhance the decision-making process. Group Decision and Negotiation, Proc. Joint International Conference of the INFORMS GDN Section and the EURO Working Group on DSS
 
-22.	**Santos C.** (2013), Increasing media richness in Online Dispute Resolution and the need for personal data protection, Proceedings of the First JURIX Doctoral Consortium Workshop in conjunction with the 26th International Conference on Legal Knowledge and Information Systems, JURIX 2013
+**Santos C.** (2013), Increasing media richness in Online Dispute Resolution and the need for personal data protection, Proceedings of the First JURIX Doctoral Consortium Workshop in conjunction with the 26th International Conference on Legal Knowledge and Information Systems, JURIX 2013
 
 #### Space Law
 
