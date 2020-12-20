@@ -6,11 +6,12 @@ in the field of [Privacy and Data Protection](https://rel-incode.github.io/crist
 
 
 I am [Lecturer and researcher](https://www.uu.nl/staff/CTeixeiraSantos) at the School of Law, Utrecht University, working on **Law and Technology**. 
-I collaborate with computer scientists and designers on **requirements for #consent, #darkpatterns, and #datasubjectrights**, and I love to discover new insights from case studies we approach which have a social impact in our daily lives! 
+I collaborate with computer scientists and designers on **requirements for #Consent, #Darkpatterns, and #DataSubjectRights**, and I love to discover new insights and from case studies we approach which have a social impact in our daily lives! 
+ **I am passionate about privacy and consumer protection and motivated to inform legal decision-makers on gaps between law & tech through ground analytical-based research**. 
 Previously, I was a lawyer and worked as legal adviser and lecturer at the [Portuguese Consumer Protection Organization-DECO](https://www.deco.proteste.pt/).
 
 ### Research Profile 
-The goal of my research is to make legal information structured and actionable for **legal compliance**, for models and tools. I extract legal requirements from legal sources. With this domain knowledge, I collaborate with computer scientists to both identify the technical requirements for a concrete technology, and to build ontologies.  **I am passionate about privacy and consumer protection and motivated to inform legal decision-makers on gaps between law & tech through ground analytical-based research**. 
+The goal of my research is to make legal information structured and actionable for **legal compliance**, for models and tools. I extract legal requirements from legal sources. With this domain knowledge, I collaborate with computer scientists to both identify the technical requirements for a concrete technology, and to build ontologies. 
 
 ### Recent News
 
