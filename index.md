@@ -53,7 +53,7 @@ The table below summarizes the most influential publications:
 
 Gray, C., **Santos, C.**, Bielova, N., Toth, M., & Clifford, D. (2020). Dark Patterns and the Legal Requirements of Consent Banners: An Interaction Criticism Perspective. Accepted at HCI2021 (ArXiv, abs/2009.10194).
 
- **Santos C.**, Bielova N., & Matte C. (2020). Are cookie banners indeed compliant with the law? Deciphering EU legal requirements on consent and technical means to verify compliance of cookie banners, Technology and Regulation, 91-135. https://doi.org/10.26116/techreg.2020.009
+ **Santos C.**, Bielova N., & Matte C. (2020). Are cookie banners indeed compliant with the law? Deciphering EU legal requirements on consent and technical means to verify compliance of cookie banners, [International Journal of Technology and Regulation](https://doi.org/10.26116/techreg.2020.009), 91-135.
 
 Fouad I., **Santos C.**, Kassar F. A., Bielova B., Calzavara S. (2020), On Compliance of Cookie Purposes with the Purpose Specification Principle. International Workshop on Privacy Engineering [IWPE](https://hal.inria.fr/hal-02567022)
 
