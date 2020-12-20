@@ -14,7 +14,7 @@ The goal of my research is to make legal information structured and actionable f
 
 ### Recent News
 
-- **Dec 2020** Happy to share our feedback with [Nataliia Bielova] (http://www-sop.inria.fr/members/Nataliia.Bielova/) on the Public Consultation of the Italian DPA @garanteprivacy on the ["Guidelines on the use of cookies and other tracking tools"](https://hal.inria.fr/view/index/docid/3079482). We discuss #dark patterns #scrolling #cookiewall #fingerprinting #standardization of consent
+- **Dec 2020** Happy to share our feedback with [Nataliia Bielova](http://www-sop.inria.fr/members/Nataliia.Bielova/) on the Public Consultation of the Italian DPA @garanteprivacy on the ["Guidelines on the use of cookies and other tracking tools"](https://hal.inria.fr/view/index/docid/3079482). We discuss #dark patterns #scrolling #cookiewall #fingerprinting #standardization of consent
 
 - **Dec 2020** Our paper on [Dark Patterns and Consent](https://arxiv.org/abs/2009.10194) was accepted at the [HCI/2021](https://chi2021.acm.org/). It is a truly interdisciplinary paper where Design, Human Computer Intercation (HCI), Computer Science and Law meet! 
 
