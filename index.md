@@ -23,7 +23,6 @@ The goal of my research is to make legal information structured and actionable f
 
 - **Septb 2020**  We are presenting our paper "On Compliance of Cookie Purposes with the Purpose Specification Principle" at the [Intl. Workshop on Privacy Engineering](https://iwpe.info/program.html), colocated at the IEEE European Symposium on Security and Privacy 2020. See our slides in [youtube](https://www.youtube.com/watch?v=6_Ggbx9HOgI), and our [paper](https://hal.inria.fr/hal-02567022/document)
 
-- **Aug 2020**  I am co-organizing the conference on ["Space and AI"](http://spaceandai.ijs.si/), on the 4th September, collocated with ECAI2020, together with the University of Luxembourg. We will also discuss Space Law and AI! 
 - **Jul 2020**  We were interviewed by the [CNIL, French Data Protection Authority](https://linc.cnil.fr/celestin-matte-cristiana-santos-and-nataliia-bielova-not-every-cookie-banner-respects-users-choice) about our work on user's consent by the IAB Europe’s Transparency and Consent Framework (TCF)
 - **Jul 2020** Our talk "I see a cookie banner -- is it even legal?" is a runner-up for the Best HotPETs talk! See it on [Youtube](https://www.youtube.com/watch?v=zuzRvpq7rb0)!
 - **Mar 2020** Our paper on [purposes in IAB Europe TCF](https://hal.inria.fr/hal-02566891/document) got accepted at [APF 2020](https://privacyforum.eu/)! 
