@@ -6,7 +6,7 @@ in the field of [Privacy and Data Protection](https://rel-incode.github.io/crist
 
 
 I am [Lecturer and researcher](https://www.uu.nl/staff/CTeixeiraSantos) at the School of Law, Utrecht University, working on **Law and Technology**. 
-I collaborate with computer scientists and designers on the topics of **legal and technical requirements for consent, dark patterns, and data subject rights**, and I love to discover new insights from case studies we approach which have a social impact in our daily lives! 
+I collaborate with computer scientists and designers on the topics of **legal and technical requirements for #consent, #darkpatterns, and #datasubjectrights**, and I love to discover new insights from case studies we approach which have a social impact in our daily lives! 
 Previously, I was a lawyer and worked as legal adviser and lecturer at the [Portuguese Consumer Protection Organization-DECO](https://www.deco.proteste.pt/).
 
 ### Research Profile 
@@ -14,7 +14,7 @@ The goal of my research is to make legal information structured and actionable f
 
 ### Recent News
 
-- **Dec 2020** Happy to share our feedback with [Nataliia Bielova](http://www-sop.inria.fr/members/Nataliia.Bielova/) on the Public Consultation of the Italian DPA @garanteprivacy on the ["Guidelines on the use of cookies and other tracking tools"](https://hal.inria.fr/view/index/docid/3079482). We discuss #dark patterns #scrolling #cookiewall #fingerprinting #standardization of consent
+- **Dec 2020** Happy to share our feedback with [Nataliia Bielova](http://www-sop.inria.fr/members/Nataliia.Bielova/) on the Public Consultation of the Italian DPA 'Garante Privacy' on the ["Guidelines on the use of cookies and other tracking tools"](https://hal.inria.fr/view/index/docid/3079482). We discuss #dark patterns #scrolling #cookiewall #fingerprinting #standardization of consent
 
 - **Dec 2020** Our paper on [Dark Patterns and Consent](https://arxiv.org/abs/2009.10194) was accepted at the [HCI/2021](https://chi2021.acm.org/). It is a truly interdisciplinary paper where Design, Human Computer Intercation (HCI), Computer Science and Law meet! 
 
@@ -49,7 +49,7 @@ The table below summarizes the most influential publications:
 | IEEE S&P | IEEE Symposium on Security & Privacy |
 | CLSR | Computer Law & Security Review Journal |
 | APF | Annual Privacy Forum |
-| HCI | Human Computer Interaction |
+| HCI | Human Computer Interaction Conference |
 | IPWE | International Workshop on Privacy Engineering |
 | PRIVON | Privacy and the Semantic Web - Policy and Technology |
 | AIL | Artificial Intelligence and Law Journal |
@@ -58,31 +58,25 @@ The table below summarizes the most influential publications:
 
 #### Privacy and Data Protection
 
-Gray, C., **Santos, C.**, Bielova, N., Toth, M., & Clifford, D. (2020). Dark Patterns and the Legal Requirements of Consent Banners: An Interaction Criticism Perspective. Accepted at HCI2021 ArXiv, abs/2009.10194.
+Gray, C., **Santos, C.**, Bielova, N., Toth, M., & Clifford, D. (2020). Dark Patterns and the Legal Requirements of Consent Banners: An Interaction Criticism Perspective. Accepted at HCI2021 (ArXiv, abs/2009.10194).
 
-1.	Fouad I., **Santos C.**, Kassar F. A., Bielova B., Calzavara S. (2020), On Compliance of Cookie Purposes with the Purpose Specification Principle. International Workshop on Privacy Engineering [IWPE](https://hal.inria.fr/hal-02567022)
+ **Santos C.**, Bielova N., & Matte C. (2020). Are cookie banners indeed compliant with the law? Deciphering EU legal requirements on consent and technical means to verify compliance of cookie banners, Technology and Regulation, 91-135. https://doi.org/10.26116/techreg.2020.009
 
-2.	Matte C., **Santos C.**, Bielova N. (2020) Purposes in IAB Europe's TCF: which legal basis and how are they used by advertisers? Annual Privacy Forum [APF](https://hal.inria.fr/hal-02566891)
+Fouad I., **Santos C.**, Kassar F. A., Bielova B., Calzavara S. (2020), On Compliance of Cookie Purposes with the Purpose Specification Principle. International Workshop on Privacy Engineering [IWPE](https://hal.inria.fr/hal-02567022)
 
-3.	**Santos C** Matte C., Bielova N. (2020) Are Dark Patterns Lawful? Analysis of Dark Patterns applied to Cookie Banner Design and Consent Requirements, abstract accepted, European Privacy Law Scholars Conference [PLSC Europe](https://www.tilburguniversity.edu/research/institutes-and-research-groups/tilt/plsc-europe-2020)
+Matte C., **Santos C.**, Bielova N. (2020) Purposes in IAB Europe's TCF: which legal basis and how are they used by advertisers? Annual Privacy Forum [APF](https://hal.inria.fr/hal-02566891)
 
-4.	Matte C., Bielova N., **Santos C.** (2019). Do Cookie Banners Respect my Choice? Measuring Legal Compliance of Banners from IAB Europe's Transparency and Consent Framework, [IEEE Symposium on Security and Privacy](https://arxiv.org/abs/1911.09964). Impact: NOYB issued a complaint to the CNIL using our results and our browser extension. Selected media coverage: Lemonde.fr, Businessinsider.fr, Nextinpact.com
+**Santos C** Matte C., Bielova N. (2020) Are Dark Patterns Lawful? Analysis of Dark Patterns applied to Cookie Banner Design and Consent Requirements, abstract accepted, European Privacy Law Scholars Conference [PLSC Europe](https://www.tilburguniversity.edu/research/institutes-and-research-groups/tilt/plsc-europe-2020)
 
-5.	**Santos C.**, Matte C., Bielova N. (2019). A legal-technical approach to compliance with EU laws on cookies, 4th European Privacy Law Scholars Conference [PLSC Europe](https://www.ivir.nl/plsceurope2019/)
+Matte C., Bielova N., **Santos C.** (2019). Do Cookie Banners Respect my Choice? Measuring Legal Compliance of Banners from IAB Europe's Transparency and Consent Framework, [IEEE Symposium on Security and Privacy](https://arxiv.org/abs/1911.09964). Impact: NOYB issued a complaint to the CNIL using our results and our browser extension. Selected media coverage: Lemonde.fr, Businessinsider.fr, Nextinpact.com
 
-6.	Boniface C., Fouad I., Bielova N., Lauradoux C., **Santos C.** (2019), Security Analysis of Subject Access Request Procedures How to authenticate data subjects safely when they request for their data, Annual Privacy Forum [APF](https://hal.inria.fr/hal-02072302/document)
+Boniface C., Fouad I., Bielova N., Lauradoux C., **Santos C.** (2019), Security Analysis of Subject Access Request Procedures How to authenticate data subjects safely when they request for their data, Annual Privacy Forum [APF](https://hal.inria.fr/hal-02072302/document)
 
-7.	Masseno M. D., **Santos C.** (2019). Personalization and profiling of tourists in smart tourism destinations - a data protection perspective. International Journal of Information Systems and Tourism (IJIST)
+Masseno M. D., **Santos C.** (2019). Personalization and profiling of tourists in smart tourism destinations - a data protection perspective. International Journal of Information Systems and Tourism (IJIST)
 
-8.	Masseno M.D., Santos, C. (2018), Between Footprints: Balancing Environmental Sustainability and Privacy in Smart Tourism Destinations (Special Article), United world Law Journal
+Bartolini C., **Santos C.**, Ullrich C., (2017), Property and the Cloud, Computer Law and Security Review [CLSR](https://doi.org/10.1016/j.clsr.2017.10.005)
 
-9.	Masseno M.D., **Santos C.** (2018), Assuring Privacy and Data Protection within the Framework of Smart Tourism Destinations. In MediaLaws - Rivista di Diritto dei Media
 
-10.	Masseno M.D., **Santos C.** (2018), Privacy and Data Protection Issues on Smart Tourism Destinations – A First Approach, in I. Chatzigiannakis et al. (Eds.). Intelligent Environments (IE, 2018)
-
-11.	Bartolini C., **Santos C.**, Ullrich C., (2017), Property and the Cloud, Computer Law and Security Review [CLSR](https://doi.org/10.1016/j.clsr.2017.10.005)
-
-Submitted journal (under review) **Santos C.**, Bielova N., & Matte C. (2019). Are cookie banners indeed compliant with the law? Deciphering EU legal requirements on consent and technical means to verify compliance of cookie banners. [arXiv preprint] (https://arxiv.org/abs/1912.07144)
 
 #### Modeling legal information -- in the domains of data protection and consumer law 
 
