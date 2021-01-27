@@ -5,9 +5,15 @@ in the field of ["Privacy and Data Protection"](https://rel-incode.github.io/cri
 
 ### Research Profile 
 I am [Lecturer and researcher](https://www.uu.nl/staff/CTeixeiraSantos) at the School of Law, Utrecht University. 
-I hold a PhD in Law and TechnOlogy and Informatics from the University of Luxembourg and Bologna.
+
+I hold a PhD in Law and Technology and Informatics from the University of Luxembourg and Bologna.
+
 The goal of my research is to make legal information structured and actionable for **legal compliance**, for models and tools. I extract legal requirements from legal sources. With this domain knowledge, I collaborate with computer scientists and designers to both identify the technical requirements for a concrete technology.
-Currently I am working on the topics of **requirements for #Consent #Darkpatterns and #DataSubjectRights**, and I am driven to discover practices from complex case studies we approach which have a social impact on society. I am motivated to inform legal decision-makers on gaps between law & tech through ground analytical-based research. 
+
+Currently I am working on the **requirements for: #Consent, #Purposes #SAR, and on the lawfulness of #Darkpatterns**.
+
+I am driven to discover practices from complex case studies on tracking technologies which have a social impact on society. I am motivated to inform decision-makers on gaps between law & tech through analytical-based research. 
+
 Previously, I was a lawyer and worked as legal adviser and lecturer at the [Portuguese Consumer Protection Organization-DECO](https://www.deco.proteste.pt/).
 
 
