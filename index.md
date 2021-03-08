@@ -4,7 +4,7 @@
 in the field of ["Privacy and Data Protection"](https://rel-incode.github.io/cristianasantos/#privacy-and-data-protection), ["Legal informatics applied to Data Protection and Consumer Law"](https://rel-incode.github.io/cristianasantos/#modeling-legal-information--in-the-domains-of-data-protection-and-consumer-law), and also of ["Space Law"!!](https://rel-incode.github.io/cristianasantos/#space-law)
 
 ### Research Profile 
-I am [Lecturer and researcher](https://www.uu.nl/staff/CTeixeiraSantos) at the School of Law, Utrecht University. I also collaborate with the INRIA [PrivaticsTeam](https://team.inria.fr/privatics/).
+I am [Lecturer and researcher](https://www.uu.nl/staff/CTeixeiraSantos) at the School of Law, Utrecht University. I also collaborate with the INRIA [Privatics Team](https://team.inria.fr/privatics/).
 I hold a PhD in Law and Technology and Informatics from the University of Luxembourg and Bologna.
 The goal of my research is to make legal information structured and actionable for **legal compliance**, for models and tools. 
 I extract legal requirements from legal sources and, with this domain knowledge, I collaborate with computer scientists and designers to identify the technical requirements for a concrete technology.
