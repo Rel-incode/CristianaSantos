@@ -142,21 +142,22 @@ Rodríguez-Doncel V., **Santos C.**, Casanovas P. (2014), Ontology-driven Legal 
 
 **Program Committee Chair**
 
--[COnSeNT 2021](https://privacy-as-expected.org/consent2021/) Workshop on Consent Management in Online Services, Networks and Things
+-[COnSeNT 2021](https://privacy-as-expected.org/consent2021/), Workshop on Consent Management in Online Services, Networks and Things
 
 **Program Committee member**
+
+
+-[PETs 2021](), Privacy Enhancing Technologies Symposium
+
+-[LIIE 2020](https://liie2020.weebly.com/committees.html), Workshop on Legal Issues in Intelligent Environments 
 
 -[MIREL 2019](https://sites.google.com/view/mirelworkshop2019), Workshop on Mining and Reasoning with Legal texts
 
 -[LIIE 2018](http://www.intenv.org/), Workshop on Legal Issues in Intelligent Environments 
 
--[LIIE 2020](https://liie2020.weebly.com/committees.html), Workshop on Legal Issues in Intelligent Environments 
-
--[TERECOM 2017](http://terecom2017.lynx-project.eu/), Workshop on Technologies for Regulatory Compliance
-
 -[TERECOM 2018](http://terecom2017.lynx-project.eu/), Workshop on Technologies for Regulatory Compliance
 
--[PETs 2021](), Privacy Enhancing Technologies Symposium
+-[TERECOM 2017](http://terecom2017.lynx-project.eu/), Workshop on Technologies for Regulatory Compliance
 
 
 **Journals (Reviewer)**
