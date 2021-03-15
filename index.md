@@ -18,15 +18,10 @@ Previously, I was a lawyer and worked as legal adviser and lecturer at the [Port
 - **March 2021** I am co-chairing the Workshop [COnSeNT 2021](https://privacy-as-expected.org/consent2021/) co-located with 6th IEEE European Symposium on Security and Privacy. I co-chair it together with Harsh and Vitor. 
 
 - **Dec 2020** Happy to share our feedback with [Nataliia Bielova](http://www-sop.inria.fr/members/Nataliia.Bielova/) on the Public Consultation of the Italian DPA 'Garante Privacy' on the ["Guidelines on the use of cookies and other tracking tools"](https://hal.inria.fr/view/index/docid/3079482). We discuss #dark patterns #scrolling #cookiewall #fingerprinting #standardization of consent
-
 - **Dec 2020** Our paper on [𝗗𝗮𝗿𝗸 𝗣𝗮𝘁𝘁𝗲𝗿𝗻𝘀 𝗮𝗻𝗱 𝘁𝗵𝗲 𝗟𝗲𝗴𝗮𝗹 𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗺𝗲𝗻𝘁𝘀 𝗼𝗳 𝗖𝗼𝗻𝘀𝗲𝗻𝘁 𝗕𝗮𝗻𝗻𝗲𝗿𝘀: An Interaction Criticism Perspective](https://arxiv.org/abs/2009.10194) was accepted at the [HCI/2021](https://chi2021.acm.org/). It is a truly interdisciplinary paper where Design, Human Computer Intercation (HCI), Computer Science and Law meet! We are extremely honored to collaborate with [Colin Gray](https://colingray.me/), the most amazing expert in dark patterns from a HCI, design and UX perspectives.
-
 - **Outb 2020** We submitted our feedback on [controllers and processors](http://www-sop.inria.fr/members/Nataliia.Bielova/opinions/EDPB-contribution-controllers-processors.pdf) to the European Data Protection Board (EDPB).
-
 - **Sept 2020**  Our paper on legal-technical requirements for compliant consent banners is accepted to an international journal of [Technology and Regulation (TechReg)](https://techreg.org/index.php/techreg). Check it out  [latest version](chreg.org/index.php/techreg/article/view/43)
-
 - **Sept 2020**  We are presenting our paper "On Compliance of Cookie Purposes with the Purpose Specification Principle" at the [Intl. Workshop on Privacy Engineering](https://iwpe.info/program.html), colocated at the IEEE European Symposium on Security and Privacy 2020. See our slides in [youtube](https://www.youtube.com/watch?v=6_Ggbx9HOgI), and our [paper](https://hal.inria.fr/hal-02567022/document)
-
 - **Jul 2020**  We were interviewed by the [CNIL, French Data Protection Authority](https://linc.cnil.fr/celestin-matte-cristiana-santos-and-nataliia-bielova-not-every-cookie-banner-respects-users-choice) about our work on user's consent by the IAB Europe’s Transparency and Consent Framework (TCF)
 - **Jul 2020** Our talk "I see a cookie banner -- is it even legal?" is a runner-up for the Best HotPETs talk! See it on [Youtube](https://www.youtube.com/watch?v=zuzRvpq7rb0)!
 - **Mar 2020** Our paper on [purposes in IAB Europe TCF](https://hal.inria.fr/hal-02566891/document) got accepted at [APF 2020](https://privacyforum.eu/)! 
@@ -148,7 +143,6 @@ Rodríguez-Doncel V., **Santos C.**, Casanovas P. (2014), Ontology-driven Legal 
 ### Service
 
 **Program Committee Chair**
-
 
 -[COnSeNT 2021](https://privacy-as-expected.org/consent2021/) Workshop on Consent Management in Online Services, Networks and Things
 
