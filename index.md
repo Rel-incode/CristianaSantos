@@ -15,6 +15,8 @@ Previously, I was a lawyer and worked as legal adviser and lecturer at the [Port
 
 ### Recent News
 
+- **March 2021** I am co-chairing the Workshop [COnSeNT 2021](https://privacy-as-expected.org/consent2021/) co-located with 6th IEEE European Symposium on Security and Privacy. I co-chair it together with Harsh and Vitor. 
+
 - **Dec 2020** Happy to share our feedback with [Nataliia Bielova](http://www-sop.inria.fr/members/Nataliia.Bielova/) on the Public Consultation of the Italian DPA 'Garante Privacy' on the ["Guidelines on the use of cookies and other tracking tools"](https://hal.inria.fr/view/index/docid/3079482). We discuss #dark patterns #scrolling #cookiewall #fingerprinting #standardization of consent
 
 - **Dec 2020** Our paper on [𝗗𝗮𝗿𝗸 𝗣𝗮𝘁𝘁𝗲𝗿𝗻𝘀 𝗮𝗻𝗱 𝘁𝗵𝗲 𝗟𝗲𝗴𝗮𝗹 𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗺𝗲𝗻𝘁𝘀 𝗼𝗳 𝗖𝗼𝗻𝘀𝗲𝗻𝘁 𝗕𝗮𝗻𝗻𝗲𝗿𝘀: An Interaction Criticism Perspective](https://arxiv.org/abs/2009.10194) was accepted at the [HCI/2021](https://chi2021.acm.org/). It is a truly interdisciplinary paper where Design, Human Computer Intercation (HCI), Computer Science and Law meet! We are extremely honored to collaborate with [Colin Gray](https://colingray.me/), the most amazing expert in dark patterns from a HCI, design and UX perspectives.
