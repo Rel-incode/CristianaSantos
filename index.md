@@ -1,7 +1,7 @@
 ![Picture](/images/CTS4.jpg)
 
 **[Find me](https://rel-incode.github.io/cristianasantos/#twitter)**. **[Publications](https://rel-incode.github.io/cristianasantos/#publications)** 
-in the field of ["Privacy and Data Protection"](https://rel-incode.github.io/cristianasantos/#privacy-and-data-protection), ["Legal informatics applied to Data Protection and Consumer Law"](https://rel-incode.github.io/cristianasantos/#modeling-legal-information--in-the-domains-of-data-protection-and-consumer-law), and also of ["Space Law"!!](https://rel-incode.github.io/cristianasantos/#space-law)
+in the field of ["Privacy and Data Protection"](https://rel-incode.github.io/cristianasantos/#privacy-and-data-protection), ["Legal informatics applied to Data Protection and Consumer Law"](https://rel-incode.github.io/cristianasantos/#modeling-legal-information--in-the-domains-of-data-protection-and-consumer-law), and also of ["Space Law"!!](https://rel-incode.github.io/cristianasantos/#space-law).  **[Service](https://rel-incode.github.io/cristianasantos/#service)** 
 
 ### Research Profile 
 I am [Lecturer and researcher](https://www.uu.nl/staff/CTeixeiraSantos) at the School of Law, Utrecht University. I also collaborate with Inria [PRIVATICS Team](https://team.inria.fr/privatics/).
@@ -49,6 +49,7 @@ The table below summarizes the most influential publications:
 | HCI | Human Computer Interaction Conference |
 | IPWE | International Workshop on Privacy Engineering |
 | PRIVON | Privacy and the Semantic Web - Policy and Technology |
+| TechReg | Technology and Regulation Journal |
 | AIL | Artificial Intelligence and Law Journal |
 | JURIX | Int. Conf. Legal Knowledge and Information Systems |
 
@@ -142,6 +143,30 @@ Rodríguez-Doncel V., **Santos C.**, Casanovas P. (2014), Ontology-driven Legal 
 6.	Lucas-Rhimbassen M., **Santos C.**, Long G. A., Rapp L. (2019). “Conceptual model for a profitable return on investment from space debris as abiotic space resource”, 8th Conf. for Aeronautics and Space Sciences (EUCASS, 2019)
 
 7.	Lucas-Rhimbassen M., **Santos C.**, Rapp L. (2019), Mega constellations – Liability and insurance issues, 70th Int. Astronautical Congress (IAC, 2019) (forthcoming)
+
+
+### Service
+
+Program Committee Chair
+-[COnSeNT 2021](https://privacy-as-expected.org/consent2021/) Workshop on Consent Management in Online Services, Networks and Things
+
+Program Committee member
+-[MIREL 2019](https://sites.google.com/view/mirelworkshop2019), Workshop on Mining and Reasoning with Legal texts
+-[LIIE 2018](http://www.intenv.org/), Workshop on Legal Issues in Intelligent Environments 
+-[LIIE 2020](https://liie2020.weebly.com/committees.html), Workshop on Legal Issues in Intelligent Environments 
+-[TERECOM 2017](http://terecom2017.lynx-project.eu/), Workshop on Technologies for Regulatory Compliance
+-[TERECOM 2018](http://terecom2017.lynx-project.eu/), Workshop on Technologies for Regulatory Compliance
+-[PETs 2021](), Privacy Enhancing Technologies Symposium
+
+
+Journals (Reviewer)
+-Computer Law and Security Review (CLSR) (2019)
+-Technology and Regulation (TechReg) (2021)
+
+Scientific Expertise
+•	Expert of the Rapporteur Pegado Liz, European Social Economic Committee for the Proposal for a Regulation of the European Parliament and of the Council on Online Dispute Resolution for Consumer Disputes, COM (2011) 794 
+•	Participation on the study on Interest Rates Restrictions in Consumer Credit for the European Commission (2010)
+
 
 
 ### Find me
