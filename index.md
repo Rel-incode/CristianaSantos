@@ -1,7 +1,7 @@
 ![Picture](/images/CTS4.jpg)
 
-**[Find me](https://rel-incode.github.io/cristianasantos/#twitter)**. **[Publications](https://rel-incode.github.io/cristianasantos/#publications)** 
-in the field of ["Privacy and Data Protection"](https://rel-incode.github.io/cristianasantos/#privacy-and-data-protection), ["Legal informatics applied to Data Protection and Consumer Law"](https://rel-incode.github.io/cristianasantos/#modeling-legal-information--in-the-domains-of-data-protection-and-consumer-law), and also of ["Space Law"!!](https://rel-incode.github.io/cristianasantos/#space-law).  **[Service](https://rel-incode.github.io/cristianasantos/#service)** 
+ **[Publications](https://rel-incode.github.io/cristianasantos/#publications)** 
+in the field of ["Privacy and Data Protection"](https://rel-incode.github.io/cristianasantos/#privacy-and-data-protection), ["Legal informatics applied to Data Protection and Consumer Law"](https://rel-incode.github.io/cristianasantos/#modeling-legal-information--in-the-domains-of-data-protection-and-consumer-law), and also of ["Space Law"!!](https://rel-incode.github.io/cristianasantos/#space-law).  **[Service](https://rel-incode.github.io/cristianasantos/#service)**. **[Find me](https://rel-incode.github.io/cristianasantos/#twitter)**.
 
 ### Research Profile 
 I am [Lecturer and researcher](https://www.uu.nl/staff/CTeixeiraSantos) at the School of Law, Utrecht University. I also collaborate with Inria [PRIVATICS Team](https://team.inria.fr/privatics/).
@@ -74,10 +74,8 @@ Bartolini C., **Santos C.**, Ullrich C., (2017), Property and the Cloud, Compute
 #### Modeling legal information -- in the domains of data protection and consumer law 
 
 
-Filtz E., Navas-Loro M., **SantosC.**, Polleres A., Kirrane S. (2020) [Events Matter: Extraction of Events from Court Decisions](http://penni.wu.ac.at/papers/JURIX2020%20Events%20Matter%20Extraction%20of%20Events%20from%20Court%20Decisions.pdf
+Filtz E., Navas-Loro M., **SantosC.**, Polleres A., Kirrane S. (2020) [Events Matter: Extraction of Events from Court Decisions] (http://penni.wu.ac.at/papers/JURIX2020%20Events%20Matter%20Extraction%20of%20Events%20from%20Court%20Decisions.pdf)
 ), Frontiers in Artificial Intelligence and Applications (FAIA, 2020), Volume 334: Legal Knowledge and Information Systems
-
-http://penni.wu.ac.at/papers/JURIX2020%20Events%20Matter%20Extraction%20of%20Events%20from%20Court%20Decisions.pdf
 
 Bartolini C., Lenzini L., **Santos C.** (2019), An Agile Approach to Validate a Formal Representation of the GDPR, Frontiers in Artificial Intelligence and Applications (FAIA, 2019), Lecture Notes in Computer Science, Springer
 
