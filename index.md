@@ -74,8 +74,7 @@ Bartolini C., **Santos C.**, Ullrich C., (2017), Property and the Cloud, Compute
 #### Modeling legal information -- in the domains of data protection and consumer law 
 
 
-Filtz E., Navas-Loro M., **SantosC.**, Polleres A., Kirrane S. (2020) [Events Matter: Extraction of Events from Court Decisions](http://penni.wu.ac.at/papers/JURIX2020%20Events%20Matter%20Extraction%20of%20Events%20from%20Court%20Decisions.pdf)
-), Frontiers in Artificial Intelligence and Applications (FAIA, 2020), Volume 334: Legal Knowledge and Information Systems
+Filtz E., Navas-Loro M., **SantosC.**, Polleres A., Kirrane S. (2020) [Events Matter: Extraction of Events from Court Decisions](https://ebooks.iospress.nl/volumearticle/56160), Frontiers in Artificial Intelligence and Applications (FAIA, 2020), Volume 334: Legal Knowledge and Information Systems
 
 Bartolini C., Lenzini L., **Santos C.** (2019), An Agile Approach to Validate a Formal Representation of the GDPR, Frontiers in Artificial Intelligence and Applications (FAIA, 2019), Lecture Notes in Computer Science, Springer
 
