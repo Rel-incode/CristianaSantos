@@ -150,6 +150,8 @@ Rodríguez-Doncel V., **Santos C.**, Casanovas P. (2014), Ontology-driven Legal 
 
 -[APF 2021](https://privacyforum.eu/), Annual Privacy Forum
 
+-[RELATED 2021](https://related.di.unito.it/), International Workshop on Relations in the Legal Domain
+
 -[LIIE 2020](https://liie2020.weebly.com/committees.html), Workshop on Legal Issues in Intelligent Environments 
 
 -[MIREL 2019](https://sites.google.com/view/mirelworkshop2019), Workshop on Mining and Reasoning with Legal texts
