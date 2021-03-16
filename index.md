@@ -1,7 +1,7 @@
 ![Picture](/images/CTS4.jpg)
 
  **[Publications](https://rel-incode.github.io/cristianasantos/#publications)** 
-in the field of ["Privacy and Data Protection"](https://rel-incode.github.io/cristianasantos/#privacy-and-data-protection), and ["Legal informatics applied to Data Protection and Consumer Law"](https://rel-incode.github.io/cristianasantos/#modeling-legal-information--in-the-domains-of-data-protection-and-consumer-law).  **[Service](https://rel-incode.github.io/cristianasantos/#service)**. **[Find me](https://rel-incode.github.io/cristianasantos/#contacts)**.
+in the field of ["Privacy and Data Protection"](https://rel-incode.github.io/cristianasantos/#privacy-and-data-protection), and ["Legal informatics applied to Data Protection and Consumer Law"](https://rel-incode.github.io/cristianasantos/#modeling-legal-information--in-the-domains-of-data-protection-and-consumer-law).  **[Service](https://rel-incode.github.io/cristianasantos/#service)**. **[Contacts](https://rel-incode.github.io/cristianasantos/#contacts)**.
 
 ### Research Profile 
 I am [Lecturer and researcher](https://www.uu.nl/staff/CTeixeiraSantos) at the School of Law, Utrecht University. I also collaborate with Inria [PRIVATICS Team](https://team.inria.fr/privatics/).
@@ -33,7 +33,7 @@ Previously, I was a lawyer and worked as legal adviser and lecturer at the [Port
 
 [Google Scholar](https://scholar.google.com/citations?user=IaDvlTwAAAAJ&hl=en), [DBLP](https://dblp.uni-trier.de/pers/hd/s/Santos:Cristiana)
 
-I have published 40 papers in the topics of [Privacy and Data Protection](https://rel-incode.github.io/cristianasantos/#privacy-and-data-protection), [Modeling legal information in Data Protection and Consumer Law](https://rel-incode.github.io/cristianasantos/#modeling-legal-information--in-the-domains-of-data-protection-and-consumer-law), and [Space Law](https://rel-incode.github.io/cristianasantos/#space-law). 
+I have published in the topics of [Privacy and Data Protection](https://rel-incode.github.io/cristianasantos/#privacy-and-data-protection), and [Modeling legal information in Data Protection and Consumer Law](https://rel-incode.github.io/cristianasantos/#modeling-legal-information--in-the-domains-of-data-protection-and-consumer-law).
 The table below summarizes the most influential publications:
 
 | **Acronym** | **Journals and Conferences** |
