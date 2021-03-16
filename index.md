@@ -147,7 +147,9 @@ Rodríguez-Doncel V., **Santos C.**, Casanovas P. (2014), Ontology-driven Legal 
 **Program Committee member**
 
 
--[PETs 2021](), Privacy Enhancing Technologies Symposium
+-[PETs 2021](https://petsymposium.org/), Privacy Enhancing Technologies Symposium
+
+-[APF 2021](https://privacyforum.eu/), Annual Privacy Forum
 
 -[LIIE 2020](https://liie2020.weebly.com/committees.html), Workshop on Legal Issues in Intelligent Environments 
 
