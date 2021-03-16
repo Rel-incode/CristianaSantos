@@ -163,9 +163,9 @@ Rodríguez-Doncel V., **Santos C.**, Casanovas P. (2014), Ontology-driven Legal 
 
 **Journals (Reviewer)**
 
+-Technology and Regulation (TechReg) (2021)
 -Computer Law and Security Review (CLSR) (2019)
 
--Technology and Regulation (TechReg) (2021)
 
 **Scientific Expertise**
 
