@@ -1,7 +1,7 @@
 ![Picture](/images/CTS4.jpg)
 
  **[Publications](https://rel-incode.github.io/cristianasantos/#publications)** 
-in the field of ["Privacy and Data Protection"](https://rel-incode.github.io/cristianasantos/#privacy-and-data-protection), and ["Legal informatics applied to Data Protection and Consumer Law"](https://rel-incode.github.io/cristianasantos/#modeling-legal-information--in-the-domains-of-data-protection-and-consumer-law).  **[Service](https://rel-incode.github.io/cristianasantos/#service)**. **[Find me](https://rel-incode.github.io/cristianasantos/#find me)**.
+in the field of ["Privacy and Data Protection"](https://rel-incode.github.io/cristianasantos/#privacy-and-data-protection), and ["Legal informatics applied to Data Protection and Consumer Law"](https://rel-incode.github.io/cristianasantos/#modeling-legal-information--in-the-domains-of-data-protection-and-consumer-law).  **[Service](https://rel-incode.github.io/cristianasantos/#service)**. **[Find me](https://rel-incode.github.io/cristianasantos/#contacts)**.
 
 ### Research Profile 
 I am [Lecturer and researcher](https://www.uu.nl/staff/CTeixeiraSantos) at the School of Law, Utrecht University. I also collaborate with Inria [PRIVATICS Team](https://team.inria.fr/privatics/).
@@ -178,7 +178,7 @@ Rodríguez-Doncel V., **Santos C.**, Casanovas P. (2014), Ontology-driven Legal 
 
 
 
-### Find me
+### Contacts
 [Email](cristianasantos@protonmail.com), [Twitter](https://twitter.com/Cristianapt), [LinkedIn](https://www.linkedin.com/in/cristianateixeirasantos/)
 
 
