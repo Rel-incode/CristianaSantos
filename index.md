@@ -8,7 +8,7 @@ I am [Assistant Professor](https://www.uu.nl/staff/CTeixeiraSantos) at the Schoo
 I hold a PhD in Law and Technology and Informatics from the University of Luxembourg and Bologna.
 The goal of my research is to make legal information structured and actionable for **legal compliance**, for models and tools. 
 I extract legal requirements from legal sources and, with this domain knowledge, I collaborate with computer scientists and designers to identify the technical requirements for a concrete technology.
-Currently I am working on the GDPR/ePrivacy Directive **requirements for: #Consent #Purposes #SAR and on the lawfulness of #Darkpatterns**.
+Currently I am working on the GDPR/ePrivacy Directive **requirements for: #Consent #Purposes #SAR, and lawfulness of #Darkpatterns**.
 I am driven to discover problematic practices from case-studies on tracking technologies impacting society and then providing such analytical ground-based research to inform policymakers on gaps between law & tech. 
 Previously, I was a lawyer and worked as legal adviser and lecturer at the [Portuguese Consumer Protection Organization-DECO](https://www.deco.proteste.pt/).
 
