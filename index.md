@@ -15,6 +15,8 @@ Previously, I was a lawyer and worked as legal adviser and lecturer at the [Port
 
 ### Recent News
 
+
+- **March 2021** Our paper got an **Honorable Mention** at ACM CHI 2021! Check our 5 min talk on [youtube](https://www.youtube.com/watch?v=qxbj3L8PyYw&t=303s)
 - **March 2021** I am co-chairing the Workshop [COnSeNT 2021](https://privacy-as-expected.org/consent2021/) co-located with 6th IEEE European Symposium on Security and Privacy. I co-chair it together with Harsh and Vitor. 
 
 - **Dec 2020** Happy to share our feedback with [Nataliia Bielova](http://www-sop.inria.fr/members/Nataliia.Bielova/) on the Public Consultation of the Italian DPA 'Garante Privacy' on the ["Guidelines on the use of cookies and other tracking tools"](https://hal.inria.fr/view/index/docid/3079482). We discuss #dark patterns #scrolling #cookiewall #fingerprinting #standardization of consent
