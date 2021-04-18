@@ -55,7 +55,7 @@ The table below summarizes the most influential publications:
 
 #### Privacy and Data Protection
 
-Gray, C., **Santos, C.**, Bielova, N., Toth, M., & Clifford, D. (2020). Dark Patterns and the Legal Requirements of Consent Banners: An Interaction Criticism Perspective. Accepted at [HCI2021](https://hal.inria.fr/hal-03117307)
+Gray, C., **Santos, C.**, Bielova, N., Toth, M., & Clifford, D. (2020). Dark Patterns and the Legal Requirements of Consent Banners: An Interaction Criticism Perspective. CHI 2021 - ACM CHI Conference on Human Factors in Computing Systems, May 2021, Yokohama, Japan. pp.1-18, ⟨10.1145/3411764.3445779⟩.[HCI2021(https://hal.inria.fr/hal-03117307)
 
  **Santos C.**, Bielova N., & Matte C. (2020). Are cookie banners indeed compliant with the law? Deciphering EU legal requirements on consent and technical means to verify compliance of cookie banners, [International Journal of Technology and Regulation](https://doi.org/10.26116/techreg.2020.009), 91-135.
 
