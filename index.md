@@ -4,12 +4,25 @@
 in the field of ["Privacy and Data Protection"](https://rel-incode.github.io/cristianasantos/#privacy-and-data-protection), and ["Legal informatics applied to Data Protection and Consumer Law"](https://rel-incode.github.io/cristianasantos/#modeling-legal-information--in-the-domains-of-data-protection-and-consumer-law).  **[Service](https://rel-incode.github.io/cristianasantos/#service)**. **[Contacts](https://rel-incode.github.io/cristianasantos/#contacts)**.
 
 ### Research Profile 
-I am [Assistant Professor](https://www.uu.nl/staff/CTeixeiraSantos) at the School of Law, Utrecht University. I also collaborate with Inria [PRIVATICS Team](https://team.inria.fr/privatics/).
+I am an [Assistant Professor](https://www.uu.nl/staff/CTeixeiraSantos) at the School of Law, Utrecht University.
 I hold a PhD in Law and Technology and Informatics from the University of Luxembourg and Bologna.
+
+My research area is **Privacy and Data Protection**. 
+
+My research interests include: 
+
+* identifying legal and technical requirements for online consent
+* assessing purposes of personal data processing
+* analysing the lawfulness of dark patterns when: users consent to web tracking, and when users access their personal data through subject access requests (SAR)
+* studying usable privacy
+
+
 The goal of my research is to make legal information structured and actionable for **legal compliance**, for models and tools. 
-I extract legal requirements from legal sources and, with this domain knowledge, I collaborate with computer scientists and designers to identify the technical requirements for a concrete technology.
+I extract legal requirements from legal sources and, with this domain knowledge, I collaborate with computer scientists and designers to identify the technical requirements for a concrete technology.  I also collaborate with Inria [PRIVATICS Team](https://team.inria.fr/privatics/).
 Currently I am working on the GDPR/ePrivacy Directive **requirements for: #Consent #Purposes #SAR, and lawfulness of #Darkpatterns**.
-I am driven to discover problematic practices from case-studies on tracking technologies impacting society and then providing such analytical ground-based research to inform policymakers on gaps between law & tech. 
+
+My drive is to discover problematic practices from organizations within case-studies, and inform policy makers with ground-based analytical research to address gaps in law & tech.
+
 Previously, I was a lawyer and worked as legal adviser and lecturer at the [Portuguese Consumer Protection Organization-DECO](https://www.deco.proteste.pt/).
 
 
