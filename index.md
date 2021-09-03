@@ -29,8 +29,9 @@ Previously, I was a lawyer and worked as legal adviser and lecturer at the [Port
 ### Recent News
 
 
+- **Setember 2021** I am co-chairing the Workshop [COnSeNT 2021](https://privacy-as-expected.org/consent2021/) co-located with 6th IEEE European Symposium on Security and Privacy.  
+- **June 2021** I spole at the conference ["What can the ePrivacy Regulation do against dark patterns"](https://app.livestorm.co/made-group/ngi-forward-salon-dapde-event-dark-patterns-and-the-eprivacy-regulation) together with Maryant Fernandez (BEUC),  Peter Eberl (European Commission), and Christian Drews (Dapde project)
 - **March 2021** Our paper got an **Honorable Mention** at ACM CHI 2021! Check our 5 min talk on [youtube](https://www.youtube.com/watch?v=qxbj3L8PyYw&t=303s)
-- **March 2021** I am co-chairing the Workshop [COnSeNT 2021](https://privacy-as-expected.org/consent2021/) co-located with 6th IEEE European Symposium on Security and Privacy. I co-chair it together with Harsh and Vitor. 
 - **March 2021** Our [paper](https://hal.inria.fr/hal-03169436/document)**"CMPs under the GDPR:processors and/or controllers?"** was accepted at the Annual Privacy Forum (APF2021)
 
 
