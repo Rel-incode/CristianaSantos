@@ -28,7 +28,7 @@ Previously, I was a lawyer and worked as legal adviser and lecturer at the [Port
 
 ### Recent News
 
-
+- **Setember 2021**  Our paper "Cookie Banners, What’s the Purpose?Analyzing Cookie Banner Text Through a Legal Lens" was accepted at the WPES(https://wpes2021.di.unimi.it). We analysed the text of banners and focused on their purposes: we found out they are described with vagueness, positive framing, bundled in multipurposes, misleading language, technical jargon... full of dark patterns within text!
 - **Setember 2021** I am co-chairing the Workshop [COnSeNT 2021](https://privacy-as-expected.org/consent2021/) co-located with 6th IEEE European Symposium on Security and Privacy.  
 - **June 2021** I spole at the conference ["What can the ePrivacy Regulation do against dark patterns"](https://app.livestorm.co/made-group/ngi-forward-salon-dapde-event-dark-patterns-and-the-eprivacy-regulation) together with Maryant Fernandez (BEUC),  Peter Eberl (European Commission), and Christian Drews (Dapde project)
 - **March 2021** Our paper got an **Honorable Mention** at ACM CHI 2021! Check our 5 min talk on [youtube](https://www.youtube.com/watch?v=qxbj3L8PyYw&t=303s)
