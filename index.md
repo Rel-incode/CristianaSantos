@@ -29,7 +29,7 @@ Previously, I was a lawyer and worked as legal adviser and lecturer at the [Port
 ### Recent News
 
 - **Setember 2021**  Our paper "Cookie Banners, What’s the Purpose? Analyzing Cookie Banner Text Through a Legal Lens" was accepted at the WPES 2021. We analysed the text of banners and focused on their purposes: we found out they are described with vagueness, positive framing, bundled in multipurposes, misleading language, technical jargon... full of dark patterns within text!
-- **Setember 2021** I am co-chairing the Workshop [COnSeNT 2021](https://privacy-as-expected.org/consent2021/) co-located with 6th IEEE European Symposium on Security and Privacy.  
+- **Setember 2021** I am co-chairing the Workshop [COnSeNT 2021](https://privacy-as-expected.org/consent2021/) co-located with 6th IEEE European Symposium on Security and Privacy.  "Does Consent work? If not Consent, what else?". The amazing Johnny Ryan gave an invited talk about [Consent spam](https://www.youtube.com/watch?v=WsA9Bwd0W1w) and our panel counted with IAB, Robin Berjon, Rob van Eijk, Irene Kamara, the CNIL, and Mark Lizar. Check the youtube video [here](https://youtu.be/QkK8Wsfz9Kg)
 - **June 2021** I spole at the conference ["What can the ePrivacy Regulation do against dark patterns"](https://app.livestorm.co/made-group/ngi-forward-salon-dapde-event-dark-patterns-and-the-eprivacy-regulation) together with Maryant Fernandez (BEUC),  Peter Eberl (European Commission), and Christian Drews (Dapde project)
 - **March 2021** Our paper got an **Honorable Mention** at ACM CHI 2021! Check our 5 min talk on [youtube](https://www.youtube.com/watch?v=qxbj3L8PyYw&t=303s)
 - **March 2021** Our [paper](https://hal.inria.fr/hal-03169436/document)**"CMPs under the GDPR:processors and/or controllers?"** was accepted at the Annual Privacy Forum (APF2021)
@@ -163,6 +163,10 @@ Rodríguez-Doncel V., **Santos C.**, Casanovas P. (2014), Ontology-driven Legal 
 
 **Program Committee member**
 
+
+-[S&P 2022](https://www.ieee-security.org/TC/SP2022/cfpapers.html)
+
+-[PETs 2022](https://petsymposium.org/cfp22.php)
 
 -[PETs 2021](https://petsymposium.org/), Privacy Enhancing Technologies Symposium
 
