@@ -4,7 +4,7 @@
 in the field of ["Privacy and Data Protection"](https://rel-incode.github.io/cristianasantos/#privacy-and-data-protection), and ["Legal informatics applied to Data Protection and Consumer Law"](https://rel-incode.github.io/cristianasantos/#modeling-legal-information--in-the-domains-of-data-protection-and-consumer-law).  **[Service](https://rel-incode.github.io/cristianasantos/#service)**. **[Contacts](https://rel-incode.github.io/cristianasantos/#contacts)**.
 
 ### Research Profile 
-I am an [Assistant Professor](https://www.uu.nl/staff/CTeixeiraSantos) at the School of Law, Utrecht University.
+I am an [Assistant Professor](https://www.uu.nl/staff/CTeixeiraSantos) at the School of Law, Utrecht University. I am teaching in the Law and Technology Masters and coordenating the bachelor course on Regulating Big Tech.
 I hold a PhD in Law and Technology and Informatics from the University of Luxembourg and Bologna.
 
 My research area is **Privacy and Data Protection**. 
